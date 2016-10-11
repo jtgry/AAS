@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Alabama Archaeological Society
+email: tgray.it@gmail.com
+description: The Alabama Archaeological Society is a nonprofit organization chartered under state of Alabama laws. There are no paid officers or staff. All funds come from membership dues and contributions and are used to investigate and document sites as well as for other educational purposes. Membership is open to everyone.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alabamaarchaeology.org/" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+version: 3.1.6
+markdown: kramdown
+
+collections:
+  home:
+  pages:
+    output: true
+  posts:
+    permalink: journal/:path/
+
+sass:
+    load_paths:
+        - _sass
+        - _sass/animate
+        - _sass/jeet
+
+gems:
+  - jekyll-sitemap

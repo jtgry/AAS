@@ -1,1 +1,1 @@
-# UNDERWOOD
+# Alabama Archaeological Society

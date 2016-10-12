@@ -4,7 +4,8 @@
   </div>
   <div class="nav-items">
     <ul>
-      {% for page in site.pages %}
+      {% assign navigation_pages = site.html_pages | sort: 'menu_position'%}
+      {% for page in navigation_pages %}
         {% if page.menu == "true" %}
           <li>
             <a href="{{ page.url }}">{{ page.title }}</a>
@@ -20,7 +21,7 @@
 <nav class="mobile-nav">
   <div class="mobile-nav-items vertical">
     <ul class="vertical">
-      {% for page in site.pages %}
+      {% for page in site.pages | sort: 'menu_position' %}
         {% if page.menu == "true" %}
           <li>
             <a href="{{ page.url }}">{{ page.title }}</a>

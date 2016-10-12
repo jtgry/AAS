@@ -20,7 +20,7 @@ markdown: kramdown
 
 collections:
   home:
-  pages:
+  html_pages:
     output: true
   posts:
     permalink: journal/:path/

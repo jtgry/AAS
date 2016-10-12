@@ -57,11 +57,14 @@
   display: inline-block;
 }
 .nav-items a{
-  padding: 2em 1em;
   color: $color-white;
+  padding: 2em 1em 2.2em;
+  border-bottom: 2px solid $color-transparent;
+  pointer-events: auto;
 }
 .nav-items a:hover{
   text-decoration: none;
+  border-bottom: 2px solid $color-white;
 }
 .nav-button {
 	display: none;
@@ -111,6 +114,16 @@
   width: 100%;
   margin: 0 auto;
 }
+
 .mobile-nav-items a:hover{
   text-decoration: none;
+  border-bottom: 2px solid $color-white;
+}
+.cc-active {
+  border-bottom: 2px solid $color-white;
+  pointer-events: none;
+}
+a.cc-active {
+  border-bottom: 2px solid $color-white;
+  pointer-events: none;
 }

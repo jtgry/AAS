@@ -26,10 +26,10 @@
   text-align: center;
   padding: 4em 0;
 }
-a.footer-title{
-  color: $color-white;
-  text-transform: uppercase;
-  font-family: $header-font-family;
-  letter-spacing: .5em;
-  text-decoration: none;
+.footer-logo{
+  height: 100px;
+  width: auto;
+  @include fadeIn(
+    $delay: 1s
+  );
 }

@@ -8,7 +8,7 @@ menu_position: 6
 ---
 
 
-**President:** [Eric Sipe](mailto:sipes.eric@gmail.com)s
+**President:** [Eric Sipe](mailto:sipes.eric@gmail.com)[s](__notset__)
 
 **First Vice-President:** [Linda Derry](mailto:cahawba@bellsouth.net)
 

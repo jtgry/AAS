@@ -32,12 +32,12 @@
   float: left;
   font-family: $header-font-family;
   color: $color-white;
-  letter-spacing: .1em;
   padding-left: 20px;
   text-decoration: none;
 }
 .nav-logo{
-  height: 4vh;
+  height: 30px;
+  width: auto;
   @include fadeIn(
     $delay: 1s
   );
@@ -47,7 +47,7 @@
   float: right;
   font-family: $alt-font-family;
   font-size: 75%;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   padding: 3em 0;
   padding-right: 20px;
 }
@@ -114,6 +114,7 @@
   height: 100vh;
 }
 .mobile-nav-items a{
+  text-align: center;
   display: block;
   padding: 1em 0;
   width: 100%;

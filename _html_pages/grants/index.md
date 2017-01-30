@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Grants
+title: Grants and Scholarships
 permalink: /grants/
-image_path: "/images/grants.jpg"
-menu: "true"
+image_path: /images/grants.jpg
+menu: 'true'
 menu_position: 3
 ---
+
 
 ### AAS Research Grants
 

@@ -51,4 +51,6 @@ Assistant Editors: [Kim Pyszka](javascript:void(location.href='mailto:'+String.f
 * **Troy:** Jason Mann
 * **Tuscaloosa:** Lindsey Gordon
 
-**Send Correspondence to:**&nbsp; Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, Alabama 35474
+**Send Physical Correspondence to:**&nbsp;
+
+Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, Alabama 35474

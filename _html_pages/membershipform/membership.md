@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Alabama Archaeology Society Membership Form
+title: Membership Form
 permalink: /membershipform/
 image_path: /images/cornfield.jpg
 menu: 'false'
 ---
 
 
-&nbsp;**Alabama Archaeology Society Membership Form**
-
-Alabama Archaeological Society
+#### Alabama Archaeological Society
 
 13075 Moundville Archaeological Park
 
@@ -19,23 +17,23 @@ Moundville, Alabama 35474
 
 **or pay through PayPal at alabamaarchaeology@gmail.com.**
 
-Name___________________________________________________________________
+Name**__****__****__****__****__****__****__****__****__****__****__**_
 
-Address_________________________________________________________________
+Address**__****__****__****__****__****__****__****__****__****__**_____
 
-__________________________________________________________________
+---
 
-City____________________________________________________________________
+City**__****__****__****__****__****__****__****__****__****__****__**__
 
-State_________________________________Zip________________________________
+State**__****__****__****__****__*****Zip*****__****__****__****__**_____
 
-E-mail__________________________________________________________________
+E-mail**__****__****__****__****__****__****__****__****__****__****__**
 
-Membership type ______________ &nbsp;&nbsp; Amount enclosed __________________________
+Membership type **__****__**__ &nbsp;&nbsp; Amount enclosed **__****__****__****__**__
 
-For Year(s) &nbsp;&nbsp; ___ 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ___ 2018 &nbsp; &nbsp; &nbsp; &nbsp; ___2019
+For Year(s) &nbsp;&nbsp; *__ 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; __* 2018 &nbsp; &nbsp; &nbsp; &nbsp; ___2019
 
-Chapter (optional)_________________________________________________________
+Chapter (optional)**__****__****__****__****__****__****__****__****__**___
 
 | **Member Type** | **U.S. Address** | **Foreign Address** |
 | **Annual Associate (younger than 18)** | **$15.00** | **$20.00** |

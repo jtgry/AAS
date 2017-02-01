@@ -2,7 +2,7 @@
 layout: page
 title: Recent News and Events
 permalink: /news/
-image_path: /images/logo.png
+image_path: /images/FieldDays.jpg
 menu: 'true'
 ---
 

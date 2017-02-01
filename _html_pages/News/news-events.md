@@ -3,7 +3,7 @@ layout: page
 title: Recent News and Events
 permalink: /news/
 image_path: /images/logo.png
-menu: 'false'
+menu: 'true'
 ---
 
 

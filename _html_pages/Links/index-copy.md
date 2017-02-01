@@ -19,11 +19,13 @@ Archaeological and Historical websites that may be of interest to members:
 
 **Alabama Archaeological/Historical Parks:**
 
+* [Blakely State Park](http://www.blakeleypark.com/)
 * [Bottle Creek](http://ahc.alabama.gov/properties/bottlecreek/bottlecreek.aspx)
 * [Fort Morgan](http://www.fort-morgan.org/)
 * [Fort Toulouse/Fort Jackson State Historical Park](https://fttoulousejackson.org/)
 * [Moundville Archaeological Park](http://moundville.ua.edu/)
 * [Old Cahawba Archaeological Park](http://cahawba.com/)
+* [Pond Spring, the General Joe Wheeler Home](http://ahc.alabama.gov/properties/pondspring/pondspring.aspx)
 * [Tannenhill Ironworks](http://www.tannehill.org/)
 
 **National and Regional Archaeological Societies:**

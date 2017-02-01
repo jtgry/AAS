@@ -1,29 +1,50 @@
 ---
 layout: page
-title: Membership
-permalink: /newpage/
+title: Alabama Archaeology Society Membership Form
+permalink: /membershipform/
 image_path: /images/cornfield.jpg
 menu: 'false'
 ---
 
 
-# The Woodman
+&nbsp;**Alabama Archaeology Society Membership Form**
 
-## The Woodman
+Alabama Archaeological Society
 
-### The Woodman
+13075 Moundville Archaeological Park
 
-#### The Woodman
+Moundville, Alabama 35474
 
-##### The Woodman
+**Make checks payable to Alabama Archaeological Society,**
 
-###### The Woodman    
-___
+**or pay through PayPal at alabamaarchaeology@gmail.com.**
 
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
+Name___________________________________________________________________
 
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
+Address_________________________________________________________________
 
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
+__________________________________________________________________
 
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little
+City____________________________________________________________________
+
+State_________________________________Zip________________________________
+
+E-mail__________________________________________________________________
+
+Membership type ______________ &nbsp;&nbsp; Amount enclosed __________________________
+
+For Year(s) &nbsp;&nbsp; ___ 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ___ 2018 &nbsp; &nbsp; &nbsp; &nbsp; ___2019
+
+Chapter (optional)_________________________________________________________
+
+| **Member Type** | **U.S. Address** | **Foreign Address** |
+| **Annual Associate (younger than 18)** | **$15.00** | **$20.00** |
+| **Annual Individual** | **$25.00** | **$30.00** |
+| **Annual Family** | **$30.00** | **$35.00** |
+| **Annual Institutional** | **$50.00** | **$55.00** |
+| **Annual Sustaining Individual** | **$35.00** | **$40.00** |
+| **Annual Sustaining Joint** | **$40.00** | **$45.00** |
+| **Life Individual** | **$500.00** | **$600.00** |
+| **Life Joint** | **$600.00** | **$700.00** |
+
+<div style="clear:both;">&nbsp;</div>

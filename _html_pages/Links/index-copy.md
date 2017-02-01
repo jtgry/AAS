@@ -10,6 +10,8 @@ menu_position: 6
 
 Archaeological and Historical websites that may be of interest to members:
 
+[Guidelines for Archaeological&nbsp; Survey and Testing Investigations in Alabama](http://ahc.alabama.gov/section106PDFs/Policy%20for%20Archaeological%20Survey%20and%20Testing%20in%20Alabama.pdf) (links to Alabama Historical Commision's website)
+
 **Alabama State Government Agencies:**
 
 * [Alabama Department of Archives and History](http://archives.state.al.us/)

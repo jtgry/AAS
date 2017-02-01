@@ -9,7 +9,7 @@ menu: 'true'
 
 **Upcoming Events around the State:**
 
-* Cultural Crossroads XVI: Territorial Characters in Becoming Alabama.&nbsp; Saturday Feb 11th, 8:30a to 4:30p.&nbsp; Click [here](https://www.eventbrite.com/e/cultural-crossroads-xvi-territorial-characters-in-becoming-alabama-tickets-30527460456?utm_source=Feb+2017+Events+%26+Updates&amp;utm_campaign=Feb+2017+Events+%26+Updates&amp;utm_medium=email) for more information.
+* Cultural Crossroads XVI: Territorial Characters in Becoming Alabama.&nbsp; Saturday Feb 11th, 8:30a to 4:30p at Alabama Archives and History.&nbsp; Click [here](https://www.eventbrite.com/e/cultural-crossroads-xvi-territorial-characters-in-becoming-alabama-tickets-30527460456?utm_source=Feb+2017+Events+%26+Updates&amp;utm_campaign=Feb+2017+Events+%26+Updates&amp;utm_medium=email) for more information.
 * [Alabama Historical Commission](http://ahc.alabama.gov/), Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama Archives and History.
 * University of Alabama Museum's Summer Expedition 39, Old Cahawba Archaeological Park, June 2017.&nbsp; Click [here](https://almnh.ua.edu/summer-expedition.html) for more information.
 

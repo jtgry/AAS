@@ -1,30 +1,12 @@
 ---
 layout: page
-title: News and Events
+title: Recent News and Events
 permalink: /news/
 image_path: /images/logo.png
 menu: 'false'
 ---
 
 
-# The Woodman
+<br>January 30, 2017:
 
-## The Woodman
-
-### The Woodman
-
-#### The Woodman
-
-##### The Woodman
-
-###### The Woodman
-
----
-
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
-
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
-
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little we gave has cost us all: had we not sacrificed the rights of the ash, we might ourselves have stood for ages.”
-
-A Woodman went into the forest and begged of the Trees the favour of a handle for his Axe. The principal Trees at once agreed to so modest a request, and unhesitatingly gave him a young ash sapling, out of which he fashioned the handle he desired. No sooner had he done so than he set to work to fell the noblest Trees in the wood. When they saw the use to which he was putting their gift, they cried, “Alas! alas! We are undone, but we are ourselves to blame. The little
+Check out the new book, [Alabama's Prehistoric Indians and Artifacts](https://www.amazon.com/Alabamas-Prehistoric-Indians-Artifacts-Johnson/dp/099687836X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1485826114&amp;sr=1-1&amp;keywords=alabama+artifacts), by David Johnson! It's a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!

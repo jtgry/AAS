@@ -40,4 +40,4 @@ Meetings are held twice Monthly contact Joel Jackson [jjackson39792@troy.edu](ma
 
 ### Tuscaloosa
 
-Contact Lindsey Gordon [fgordon@ua.edu](javascript:void(location.href='mailto:'+String.fromCharCode(102,103,111,114,100,111,110,64,117,97,46,101,100,117)))
+Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.&nbsp; Contact Lindsey Gordon [fgordon@ua.edu](javascript:void(location.href='mailto:'+String.fromCharCode(102,103,111,114,100,111,110,64,117,97,46,101,100,117)))

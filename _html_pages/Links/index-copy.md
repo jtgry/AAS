@@ -15,7 +15,7 @@ Archaeological and Historical websites that may be of interest to members:
 **Alabama State Government Agencies:**
 
 * [Alabama Department of Archives and History](http://archives.state.al.us/)
-* [Alabama Historical Commission](http://ahc.alabama.gov/)
+* [Alabama Historical Commission (State Historic Preservation Office)](http://ahc.alabama.gov/)
 
 **Alabama Archaeological/Historical Parks:**
 

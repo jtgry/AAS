@@ -24,7 +24,7 @@ Meetings are held on second Tuesdays (except December and June through August) a
 
 ### Huntsville
 
-Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium Contact: Ben Hoksbergen [benhoksbergen@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
+Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium. Details of upcoming events and meetings are posted on the chapter's Facebook page - [Huntsville Chapter, Alabama Archaeological Society](https://www.facebook.com/search/top/?q=huntsville%20chapter%2C%20alabama%20archaeological%20society). &nbsp;Contact: Ben Hoksbergen [benhoksbergen@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
 
 ### Muscle Shoals
 

@@ -15,6 +15,7 @@ menu: 'true'
 
 **National Archaeology Meetings:**
 
+* Mississippi Archaeological Society, [Annual Meeting](http://www.msarchaeology.org/maa/meetings.html): Feb 17-19, 2017, Starkville, MS.
 * Society for American Archaeology, Annual Meeting:&nbsp; March 29 - April 2, 2017, Vancover, British Columbia.&nbsp; Click [here](http://www.saa.org/AbouttheSociety/AnnualMeeting/tabid/138/Default.aspx) for more information.
 * Midwest Archaeological Conference, [Annual Meeting](http://www.midwestarchaeology.org/2017-indianapolis-indiana): Oct 19-21, 2017, Indianapolis, Indiana.
 * Southeastern Archaeological Conference, [Annual Meeting](http://www.southeasternarchaeology.org/annual-meeting/details/): Nov 8-11, 2017, Tulsa, OK.

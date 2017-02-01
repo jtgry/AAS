@@ -17,7 +17,7 @@ menu: 'true'
 
 * Society for American Archaeology, Annual Meeting:&nbsp; March 29 - April 2, 2017, Vancover, British Columbia.&nbsp; Click [here](http://www.saa.org/AbouttheSociety/AnnualMeeting/tabid/138/Default.aspx) for more information.
 * Midwest Archaeological Conference, [Annual Meeting](http://www.midwestarchaeology.org/2017-indianapolis-indiana): Oct 19-21, 2017, Indianapolis, Indiana.
-* Southeastern Archaeological Conference, **[Annual Meeting](http://www.southeasternarchaeology.org/annual-meeting/details/)**: Nov 8-11, 2017, Tulsa, OK.
+* Southeastern Archaeological Conference, [Annual Meeting](http://www.southeasternarchaeology.org/annual-meeting/details/): Nov 8-11, 2017, Tulsa, OK.
 * Society for Historical Archaeology, [Annual Meeting](https://sha.org/conferences/): January 4-8, 2018, New Orleans, LA.
 
 **News and Happenings:**

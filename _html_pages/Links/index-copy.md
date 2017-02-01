@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Local Chapters
-permalink: /local-chapters/
+title: LInks
+permalink: /links/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 5
+menu_position: 6
 ---
 
 
@@ -12,27 +12,27 @@ Monthly meetings and local activities are provided by regional chapter organizat
 
 ### Coosa Valley
 
-Meetings are held on various Thursdays at 7:00pm Contact: Phillip Koerper [pkoerper@jsu.edu](mailto:pkoerper@jsu.edu) Visit the Coosa Valley Chapter on the web at [Yahoo! Groups](http://tech.groups.yahoo.com/group/JSU_Archaeology_Club/)
+Meetings are held on various Thursdays at 7:00pm Contact: Phillip Koerper [&#112;&#107;&#111;&#101;&#114;&#112;&#101;&#114;&#064;&#106;&#115;&#117;&#046;&#101;&#100;&#117;](&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#107;&#111;&#101;&#114;&#112;&#101;&#114;&#064;&#106;&#115;&#117;&#046;&#101;&#100;&#117;) Visit the Coosa Valley Chapter on the web at [Yahoo! Groups](http://tech.groups.yahoo.com/group/JSU_Archaeology_Club/)
 
 ### Cullman
 
-Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [robbie@alabamaprinting.com](mailto:robbie@alabamaprinting.com) (256) 734-3369 or (256) 737-9390
+Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [&#114;&#111;&#098;&#098;&#105;&#101;&#064;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#112;&#114;&#105;&#110;&#116;&#105;&#110;&#103;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#111;&#098;&#098;&#105;&#101;&#064;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#112;&#114;&#105;&#110;&#116;&#105;&#110;&#103;&#046;&#099;&#111;&#109;) (256) 734-3369 or (256) 737-9390
 
 ### East Alabama
 
-Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Teresa Paglione [tlpaglione@gmail.com](mailto:tlpaglione@gmail.com)
+Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Teresa Paglione [&#116;&#108;&#112;&#097;&#103;&#108;&#105;&#111;&#110;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#108;&#112;&#097;&#103;&#108;&#105;&#111;&#110;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
 
 ### Huntsville
 
-Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium. Details of upcoming events and meetings are posted on the chapter's Facebook page - [Huntsville Chapter, Alabama Archaeological Society](https://www.facebook.com/groups/455589204506534/?hc_ref=SEARCH). &nbsp;Contact: Ben Hoksbergen [benhoksbergen@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
+Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium. Details of upcoming events and meetings are posted on the chapter's Facebook page - [Huntsville Chapter, Alabama Archaeological Society](https://www.facebook.com/groups/455589204506534/?hc_ref=SEARCH).  Contact: Ben Hoksbergen [benhoksbergen@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Jerry Hester [GeraldRH@aol.com](mailto:GeraldRH@aol.com)
+Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Jerry Hester [&#071;&#101;&#114;&#097;&#108;&#100;&#082;&#072;&#064;&#097;&#111;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#071;&#101;&#114;&#097;&#108;&#100;&#082;&#072;&#064;&#097;&#111;&#108;&#046;&#099;&#111;&#109;)
 
 ### Southwest Alabama
 
-Meetings are held on third Tuesdays (except June through August) at 7:00pm at the Alfred and Lucille Delchamps Archaeological Museum on the campus of the University of South Alabama Contact: Bonnie Gums [bgums@southalabama.edu](mailto:bgums@southalabama.edu)
+Meetings are held on third Tuesdays (except June through August) at 7:00pm at the Alfred and Lucille Delchamps Archaeological Museum on the campus of the University of South Alabama Contact: Bonnie Gums [&#098;&#103;&#117;&#109;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#046;&#101;&#100;&#117;](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#103;&#117;&#109;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#046;&#101;&#100;&#117;)
 
 ### Troy University
 
@@ -40,4 +40,4 @@ Meetings are held twice Monthly contact Jason Mann [jmann@troy.edu](javascript:v
 
 ### Tuscaloosa
 
-Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.&nbsp; Contact Lindsey Gordon [fgordon@ua.edu](javascript:void(location.href='mailto:'+String.fromCharCode(102,103,111,114,100,111,110,64,117,97,46,101,100,117)))
+Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.  Contact Lindsey Gordon [fgordon@ua.edu](javascript:void(location.href='mailto:'+String.fromCharCode(102,103,111,114,100,111,110,64,117,97,46,101,100,117)))

@@ -24,7 +24,7 @@ Meetings are held on second Tuesdays (except December and June through August) a
 
 ### Huntsville
 
-Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium Contact: Richard Kilborn [rlkilborn@charter.net](mailto:rlkilborn@charter.net)
+Meetings are held on fourth Tuesdays (except June, July, August, and December) at 7:00pm at the Huntsville Library Auditorium Contact: Ben Hoksbergen [benhoksbergen@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
 
 ### Muscle Shoals
 
@@ -36,7 +36,7 @@ Meetings are held on third Tuesdays (except June through August) at 7:00pm at th
 
 ### Troy University
 
-Meetings are held twice Monthly contact Joel Jackson [jjackson39792@troy.edu](mailto:jjackson39792@troy.edu)
+Meetings are held twice Monthly contact Jason Mann [jmann@troy.edu](javascript:void(location.href='mailto:'+String.fromCharCode(106,109,97,110,110,64,116,114,111,121,46,101,100,117)))
 
 ### Tuscaloosa
 

@@ -42,7 +42,7 @@
   height: 30px;
   width: auto;
   @include fadeIn(
-    $delay: .8s
+    $delay:  1.5s
   );
 }
 .nav-items{
@@ -54,7 +54,7 @@
   padding: 3em 0;
   padding-right: 20px;
   @include fadeIn(
-    $delay: 1s
+    $delay: 1.8s
   );
 }
 .nav-items ul{

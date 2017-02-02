@@ -4,14 +4,14 @@ title: Links
 permalink: /links/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 6
+menu_position: 7
 ---
 
 
 Archaeological and Historical websites that may be of interest to members:
 
 * [Alabama Register of Landmarks and Heritage](http://ahc.alabama.gov/alabamaregister.aspx)([or click here for a map](http://arcg.is/2k40Uh9))
-* [Guidelines for Archaeological&nbsp; Survey and Testing Investigations in Alabama](http://ahc.alabama.gov/section106PDFs/Policy%20for%20Archaeological%20Survey%20and%20Testing%20in%20Alabama.pdf) (links to Alabama Historical Commission's website)
+* [Guidelines for Archaeological  Survey and Testing Investigations in Alabama](http://ahc.alabama.gov/section106PDFs/Policy%20for%20Archaeological%20Survey%20and%20Testing%20in%20Alabama.pdf) (links to Alabama Historical Commission's website)
 * [Encyclopedia of Alabama](http://www.encyclopediaofalabama.org/)
 * [National Register of Historic Places](http://ahc.alabama.gov/nationalregister.aspx) ([click here for map](http://arcg.is/1UOPgkQ))
 * [University of Alabama Map Library](http://alabamamaps.ua.edu/)
@@ -38,5 +38,3 @@ Archaeological and Historical websites that may be of interest to members:
 * [Society for American Archaeology](saa.org)
 * [Society for Historical Archaeology](https://sha.org/)
 * [Southeastern Archaeological Conference](http://www.southeasternarchaeology.org/)
-
-&nbsp;

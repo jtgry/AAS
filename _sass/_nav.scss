@@ -87,7 +87,6 @@
 }
 .nav-button.is-active .burger-icon {
 	@include burger-to-cross;
-	color: $color-black;
 }
 
 //Mobile Menu

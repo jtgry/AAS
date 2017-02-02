@@ -30,7 +30,7 @@ menu_position: 8
 
 **Journal of Alabama Archaeology:**
 
-Editor: [Robert Perry](mailto:ashleydumas@usa.net)
+Editor: [Robert Perry](javascript:void(location.href='mailto:'+String.fromCharCode(114,101,112,101,114,114,121,64,99,111,111,115,97,104,115,46,110,101,116)))
 
 Assistant Editors: [Kim Pyszka](javascript:void(location.href='mailto:'+String.fromCharCode(107,112,121,115,122,107,97,64,97,117,109,46,101,100,117))), [Matt Grunewald](javascript:void(location.href='mailto:'+String.fromCharCode(109,97,116,116,104,101,119,46,109,46,103,114,117,110,101,119,97,108,100,64,117,115,97,99,101,46,97,114,109,121,46,109,105,108))), and [Melissa King](javascript:void(location.href='mailto:'+String.fromCharCode(109,101,108,118,97,110,109,100,64,104,111,112,112,101,114,46,110,101,116)))
 

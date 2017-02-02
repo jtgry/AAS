@@ -4,7 +4,7 @@ title: Grants and Scholarships
 permalink: /grants/
 image_path: /images/grants.jpg
 menu: 'true'
-menu_position: 3
+menu_position: 4
 ---
 
 

@@ -7,7 +7,7 @@
   display: table;
   z-index: 1600;
   @include fadeIn(
-    $delay: .5s
+    $delay: 1s
   );
 }
 .nav-fixed{

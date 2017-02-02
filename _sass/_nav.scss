@@ -132,6 +132,10 @@ a.cc-active {
   border-bottom: 2px solid $color-white;
   pointer-events: none;
 }
+a.nav-button:hover{ 
+  border-bottom: 2px solid $color-transparent;
+
+}
 .nav-button.cc-active  {
   border-bottom: 2px solid $color-transparent;
   pointer-events: auto;

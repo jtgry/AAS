@@ -24,7 +24,7 @@ menu_position: 8
 
 **Web Editor and Photo Archivist:** [Eric Sipes](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)))
 
-**Newsletter Editor (Stones and Bones):**[Teresa Paglione](javascript:void(location.href='mailto:'+String.fromCharCode(116,101,114,101,115,97,46,112,97,103,108,105,111,110,101,64,97,108,46,117,115,100,97,46,103,111,118)))
+**Newsletter Editor (Stones and Bones):**[ Teresa Paglione](javascript:void(location.href='mailto:'+String.fromCharCode(116,101,114,101,115,97,46,112,97,103,108,105,111,110,101,64,97,108,46,117,115,100,97,46,103,111,118)))
 
 **Assistant Newsletter Editor:**[Paul Gray](javascript:void(location.href='mailto:'+String.fromCharCode(112,97,117,108,103,114,97,121,64,107,110,111,108,111,103,121,46,110,101,116)))
 

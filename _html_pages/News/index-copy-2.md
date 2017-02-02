@@ -1,42 +1,33 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Recent News and Events
+permalink: /news/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 6
+menu_position: 1
 ---
 
 
-Archaeological and Historical websites that may be of interest to members:
+Upcoming Events around the State:
 
-* [Alabama Register of Landmarks and Heritage](http://ahc.alabama.gov/alabamaregister.aspx)([or click here for a map](http://arcg.is/2k40Uh9))
-* [Guidelines for Archaeological&nbsp; Survey and Testing Investigations in Alabama](http://ahc.alabama.gov/section106PDFs/Policy%20for%20Archaeological%20Survey%20and%20Testing%20in%20Alabama.pdf) (links to Alabama Historical Commission's website)
-* [Encyclopedia of Alabama](http://www.encyclopediaofalabama.org/)
-* [National Register of Historic Places](http://ahc.alabama.gov/nationalregister.aspx) ([click here for map](http://arcg.is/1UOPgkQ))
-* [University of Alabama Map Library](http://alabamamaps.ua.edu/)
+Cultural Crossroads XVI: Territorial Characters in Becoming Alabama.&nbsp; Saturday Feb 11th, 8:30a to 4:30p at Alabama Archives and History.&nbsp;
 
-**Alabama State Government Agencies:**
+Alabama Historical Commission, Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama Archives and History.
 
-* [Alabama Department of Archives and History](http://archives.state.al.us/)
-* [Alabama Historical Commission (State Historic Preservation Office)](http://ahc.alabama.gov/)
+University of Alabama Museum's Summer Expedition 39, Old Cahawba Archaeological Park, June 2017.&nbsp;
 
-**Alabama Archaeological/Historical Parks:**
+National Archaeology Meetings:
 
-* [Blakely State Park](http://www.blakeleypark.com/)
-* [Bottle Creek](http://ahc.alabama.gov/properties/bottlecreek/bottlecreek.aspx)
-* [Fort Morgan](http://www.fort-morgan.org/)
-* [Fort Toulouse/Fort Jackson State Historical Park](https://fttoulousejackson.org/)
-* [Moundville Archaeological Park](http://moundville.ua.edu/)
-* [Oakville Indian Mounds](http://oakvilleindianmounds.com/)
-* [Old Cahawba Archaeological Park](http://cahawba.com/)
-* [Pond Spring, the General Joe Wheeler Home](http://ahc.alabama.gov/properties/pondspring/pondspring.aspx)
-* [Tannenhill Ironworks](http://www.tannehill.org/)
+Mississippi Archaeological Association, Annual Meeting: Feb 17-19, 2017, Starkville, MS.
 
-**National and Regional Archaeological Societies:**
+Society for American Archaeology, Annual Meeting:&nbsp; March 29 - April 2, 2017, Vancover, British Columbia.&nbsp; Click here for more information.
 
-* [Society for American Archaeology](saa.org)
-* [Society for Historical Archaeology](https://sha.org/)
-* [Southeastern Archaeological Conference](http://www.southeasternarchaeology.org/)
+Midwest Archaeological Conference, Annual Meeting: Oct 19-21, 2017, Indianapolis, Indiana.
 
-&nbsp;
+Southeastern Archaeological Conference, Annual Meeting: Nov 8-11, 2017, Tulsa, OK.
+
+Society for Historical Archaeology, Annual Meeting: January 4-8, 2018, New Orleans, LA.
+
+News and Happenings:
+
+January 30, 2017:&nbsp; Check out the new book, Alabama's Prehistoric Indians and Artifacts, by David Johnson! It's a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!

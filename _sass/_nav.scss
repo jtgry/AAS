@@ -6,6 +6,9 @@
   position: absolute;
   display: table;
   z-index: 1600;
+  @include fadeIn(
+    $delay: .5s
+  );
 }
 .nav-fixed{
   position: absolute;

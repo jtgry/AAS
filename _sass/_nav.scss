@@ -10,19 +10,19 @@
 .nav-fixed{
   position: absolute;
   @include fadeIn(
-    $delay: .01s
+    $delay: .1s
   );
 }
 .nav-down{
   position: fixed;
   @include fadeInDown(
-    $delay: .01s
+    $delay: .1s
   );
 }
 .nav-up{
   position: fixed;
   @include fadeOutUp(
-    $delay: .01s
+    $delay: .1s
 );
 }
 .nav-transparent{

@@ -8,6 +8,10 @@ menu_position: 1
 ---
 
 
+**Upcoming Alabama Archaeological Society Events:**
+
+* NO EVENTS SCHEDULED AT THIS TIME - *CHECK BACK SOON FOR MORE INFORMATION*.
+
 **Upcoming Events around the State:**
 
 * [Cultural Crossroads XVI: Territorial Characters in Becoming Alabama](https://www.eventbrite.com/e/cultural-crossroads-xvi-territorial-characters-in-becoming-alabama-tickets-30527460456?utm_source=Feb+2017+Events+%26+Updates&amp;utm_campaign=Feb+2017+Events+%26+Updates&amp;utm_medium=email).&nbsp; Saturday Feb 11th, 8:30a to 4:30p at Alabama Archives and History, Downtown Montgomery.

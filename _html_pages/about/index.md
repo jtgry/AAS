@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 image_path: /images/Fieldwork2.jpg
 menu: 'true'
-menu_position: 1
+menu_position: 2
 ---
 
 

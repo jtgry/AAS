@@ -42,7 +42,7 @@
   height: 30px;
   width: auto;
   @include fadeIn(
-    $delay: 1s
+    $delay: .8s
   );
 }
 .nav-items{
@@ -53,6 +53,9 @@
   letter-spacing: .1em;
   padding: 3em 0;
   padding-right: 20px;
+  @include fadeIn(
+    $delay: 1s
+  );
 }
 .nav-items ul{
   margin: 0;

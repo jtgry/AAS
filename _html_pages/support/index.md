@@ -4,7 +4,7 @@ title: 'Join & Support'
 permalink: /support/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 2
+menu_position: 3
 ---
 
 

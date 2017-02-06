@@ -10,6 +10,8 @@ menu_position: 1
 
 **February 6, 2017**:&nbsp; [The Alabama Trust for Historic Preservation and Alabama Historical Commission are now accepting nominations for the 2017 Places in Peril Program](http://www.alabamatrust.info/pdf/2017%20Places%20In%20Peril%20Nomination%20Form.pdf).&nbsp; This joint program annually recognizes Alabama's most endangered historic resources.
 
+February 1, 2017:&nbsp; [Alabama Legislature to revisit the State Historic Tax Credit (Links to story on Birmingham Business Journal).](http://www.bizjournals.com/birmingham/news/2017/01/31/alabamas-historic-renovation-tax-credit-gets.html)
+
 **January 30, 2017:**&nbsp; Check out the new book, [*Alabama's Prehistoric Indians and Artifacts*, by David Johnson](https://www.amazon.com/Alabamas-Prehistoric-Indians-Artifacts-Johnson/dp/099687836X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1485826114&amp;sr=1-1&amp;keywords=alabama+artifacts).
 
 ![](/uploads/versions/bookcover---x0-0-907-1360-907-1360x---.jpg)

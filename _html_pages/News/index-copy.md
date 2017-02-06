@@ -2,7 +2,7 @@
 layout: page
 title: Upcoming Events
 permalink: /events/
-image_path: /images/Oakville Summer Meeting 2013.JPG
+image_path: /images/Fieldwork2.jpg
 menu: 'true'
 menu_position: 2
 ---

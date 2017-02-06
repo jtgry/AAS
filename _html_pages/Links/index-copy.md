@@ -8,7 +8,7 @@ menu_position: 7
 ---
 
 
-Archaeological and Historical websites that may be of interest to members:
+**Archaeological and Historical websites that may be of interest to members:**
 
 * [Guidelines for Archaeological&nbsp; Survey and Testing Investigations in Alabama](http://ahc.alabama.gov/section106PDFs/Policy%20for%20Archaeological%20Survey%20and%20Testing%20in%20Alabama.pdf) (links to Alabama Historical Commission's website)
 * [Alabama Historical Association](http://www.alabamahistory.net/)

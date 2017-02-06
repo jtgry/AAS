@@ -22,9 +22,9 @@ Pay your dues or send a donation online! We are working on an automated method f
 
 5. Type a message to tell us what you are sending the money for, i.e. a donation for a particular AAS fund, or dues for a foreign family lifetime membership. Important: If you are joining AAS or renewing your membership, include your USPS address in this message.
 
-[Membership Form](/membershipform/){: .button.button-primary}
+[For those that prefer US Mail, please fill out our Membership Form, and mail it along with payment to:](/membershipform/){: .button.button-primary}
 
-Please send checks to: Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, Alabama 35474
+Alabama Archaeological Society, 13075 Moundville Archaeological Park Moundville, Alabama 35474
 
 | **Member Type** | **U.S. Address** | **Foreign Address** |
 | **Annual Associate (younger than 18)** | **$15.00** | **$20.00** |

@@ -32,4 +32,4 @@ menu_position: 0
 
 <div>&nbsp;</div>
 
-<div>Assistant Editors for 2017 are:</div>
+<div>Assistant Editors for 2017 are: Kim Pyszka, Matt Grunewald, and Melissa King</div>

@@ -22,4 +22,4 @@ It's a field guide for artifacts from all around the state including projectile 
 
 &nbsp;
 
-To submit news items for possible inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)))**.
+To submit news items directly related to Alabama archaeology and/or history for possible inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)))**.

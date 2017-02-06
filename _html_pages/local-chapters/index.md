@@ -4,7 +4,7 @@ title: Local Chapters
 permalink: /local-chapters/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 6
+menu_position: 7
 ---
 
 
@@ -12,15 +12,15 @@ Monthly meetings and local activities are provided by regional chapter organizat
 
 ### Coosa Valley
 
-Meetings are held on various Thursdays at 7:00pm Contact: Phillip Koerper [&#112;&#107;&#111;&#101;&#114;&#112;&#101;&#114;&#064;&#106;&#115;&#117;&#046;&#101;&#100;&#117;](&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#107;&#111;&#101;&#114;&#112;&#101;&#114;&#064;&#106;&#115;&#117;&#046;&#101;&#100;&#117;) Visit the Coosa Valley Chapter on the web at [Yahoo! Groups](http://tech.groups.yahoo.com/group/JSU_Archaeology_Club/)
+Meetings are held on various Thursdays at 7:00pm Contact: Phillip Koerper [pkoerper@jsu.edu](&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#107;&#111;&#101;&#114;&#112;&#101;&#114;&#064;&#106;&#115;&#117;&#046;&#101;&#100;&#117;) Visit the Coosa Valley Chapter on the web at [Yahoo! Groups](http://tech.groups.yahoo.com/group/JSU_Archaeology_Club/)
 
 ### Cullman
 
-Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [&#114;&#111;&#098;&#098;&#105;&#101;&#064;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#112;&#114;&#105;&#110;&#116;&#105;&#110;&#103;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#111;&#098;&#098;&#105;&#101;&#064;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#112;&#114;&#105;&#110;&#116;&#105;&#110;&#103;&#046;&#099;&#111;&#109;) (256) 734-3369 or (256) 737-9390
+Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [robbie@alabamaprinting.com](&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#111;&#098;&#098;&#105;&#101;&#064;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#112;&#114;&#105;&#110;&#116;&#105;&#110;&#103;&#046;&#099;&#111;&#109;) (256) 734-3369 or (256) 737-9390
 
 ### East Alabama
 
-Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Teresa Paglione [&#116;&#108;&#112;&#097;&#103;&#108;&#105;&#111;&#110;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#108;&#112;&#097;&#103;&#108;&#105;&#111;&#110;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Teresa Paglione [tlpaglione@gmail.com](&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#108;&#112;&#097;&#103;&#108;&#105;&#111;&#110;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
 
 ### Huntsville
 
@@ -28,11 +28,11 @@ Meetings are held on fourth Tuesdays (except June, July, August, and December) a
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Jerry Hester [&#071;&#101;&#114;&#097;&#108;&#100;&#082;&#072;&#064;&#097;&#111;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#071;&#101;&#114;&#097;&#108;&#100;&#082;&#072;&#064;&#097;&#111;&#108;&#046;&#099;&#111;&#109;)
+Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Jerry Hester [GeraldRH@aol.com](&#109;&#097;&#105;&#108;&#116;&#111;:&#071;&#101;&#114;&#097;&#108;&#100;&#082;&#072;&#064;&#097;&#111;&#108;&#046;&#099;&#111;&#109;)
 
 ### Southwest Alabama
 
-Meetings are held on third Tuesdays (except June through August) at 7:00pm at the Alfred and Lucille Delchamps Archaeological Museum on the campus of the University of South Alabama Contact: Bonnie Gums [&#098;&#103;&#117;&#109;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#046;&#101;&#100;&#117;](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#103;&#117;&#109;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#046;&#101;&#100;&#117;)
+Meetings are held on third Tuesdays (except June through August) at 7:00pm at the Alfred and Lucille Delchamps Archaeological Museum on the campus of the University of South Alabama Contact: Bonnie Gums [bgums@southalabama.edu](&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#103;&#117;&#109;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#097;&#108;&#097;&#098;&#097;&#109;&#097;&#046;&#101;&#100;&#117;)
 
 ### Troy University
 

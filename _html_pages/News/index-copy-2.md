@@ -19,3 +19,7 @@ menu_position: 1
 It's a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!
 
 **January 28, 2017:**&nbsp; The Winter Meeting of the Alabama Archaeological Society was held on Saturday, January 28th at Alabama Archives and History in downtown Montgomery.&nbsp; Look for a summary in the next Stones & Bones!
+
+&nbsp;
+
+To submit news items for possible inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)))**.

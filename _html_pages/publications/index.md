@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-image_path: /images/about.jpg
+image_path: /images/Journal.jpg
 menu: 'true'
 menu_position: 6
 ---

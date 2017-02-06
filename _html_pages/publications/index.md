@@ -26,6 +26,6 @@ Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, 
 
 Occasionally, the Alabama Archaeological Society lends editorial support to publications on Alabama archaeological research topics.&nbsp;
 
-Most recently, the Alabama Archaeological Society provided assistance for [David Johnson's new book (2017): Alabama's Prehistoric Indians and Artifacts.&nbsp;](https://www.amazon.com/Alabamas-Prehistoric-Indians-Artifacts-Johnson/dp/099687836X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1485826114&amp;sr=1-1&amp;keywords=alabama+artifacts)![](/uploads/versions/bookcover---x----907-1360x---.jpg)
+Most recently, the Alabama Archaeological Society provided editorial assistance and contributions for [David Johnson's new book (2017): Alabama's Prehistoric Indians and Artifacts.&nbsp;](https://www.amazon.com/Alabamas-Prehistoric-Indians-Artifacts-Johnson/dp/099687836X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1485826114&amp;sr=1-1&amp;keywords=alabama+artifacts)![](/uploads/versions/bookcover---x----907-1360x---.jpg)
 
 This volume is a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!

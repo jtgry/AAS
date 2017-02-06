@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Journal of Alabama Archaeology
+permalink: /journal/
 image_path: /images/Journal.jpg
-menu: 'true'
+menu: 'false'
 menu_position: 6
 ---
 

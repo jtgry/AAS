@@ -2,7 +2,7 @@
 layout: page
 title: Local Chapters
 permalink: /local-chapters/
-image_path: /images/logo.png
+image_path: /images/Bottle Creek Winter Meeting 2016.JPG
 menu: 'true'
 menu_position: 7
 ---

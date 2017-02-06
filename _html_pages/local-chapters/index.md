@@ -10,7 +10,7 @@ menu_position: 7
 
 Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
 
-![](/uploads/versions/Local Chapters---x----6372-3938x---.jpg)
+![](/uploads/versions/Local Chapters---x----2625-3737x---.jpg)
 
 ### Coosa Valley
 

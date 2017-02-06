@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 image_path: /images/about.jpg
 menu: 'true'
-menu_position: 5
+menu_position: 6
 ---
 
 

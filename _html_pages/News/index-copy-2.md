@@ -10,7 +10,7 @@ menu_position: 1
 
 &nbsp;
 
-**January 30, 2017:**&nbsp; Check out the new book, *Alabama's Prehistoric Indians and Artifacts*, by David Johnson.
+**January 30, 2017:**&nbsp; Check out the new book, [*Alabama's Prehistoric Indians and Artifacts*, by David Johnson](https://www.amazon.com/Alabamas-Prehistoric-Indians-Artifacts-Johnson/dp/099687836X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1485826114&amp;sr=1-1&amp;keywords=alabama+artifacts).
 
 ![](/uploads/versions/bookcover---x0-0-907-1360-907-1360x---.jpg)
 

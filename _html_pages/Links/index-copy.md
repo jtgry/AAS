@@ -14,6 +14,7 @@ Archaeological and Historical websites that may be of interest to members:
 * [Alabama Historical Association](http://www.alabamahistory.net/)
 * [Alabama Register of Landmarks and Heritage](http://ahc.alabama.gov/alabamaregister.aspx)([or click here for a map](http://arcg.is/2k40Uh9))
 * [Alabama Trust for Historic Preservation](http://www.alabamatrust.info/)
+* [Coalition to Protect Alabama's History](https://www.facebook.com/Coalition-to-Protect-Alabamas-History-156121757838340/)
 * [Encyclopedia of Alabama](http://www.encyclopediaofalabama.org/)
 * [National Register of Historic Places](http://ahc.alabama.gov/nationalregister.aspx) ([click here for map](http://arcg.is/1UOPgkQ))
 * [University of Alabama Map Library](http://alabamamaps.ua.edu/)

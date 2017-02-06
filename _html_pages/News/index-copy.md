@@ -28,4 +28,4 @@ menu_position: 2
 * [Southeastern Archaeological Conference](http://www.southeasternarchaeology.org/annual-meeting/details/), Annual Meeting: Nov 8-11, 2017, Tulsa, OK.
 * [Society for Historical Archaeology, Annual Meeting](https://sha.org/conferences/): January 4-8, 2018, New Orleans, LA.
 
-To submit events for possible inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109))).**
+To submit events for possible inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109))).&nbsp;**To be eligible for consideration, events must be directly related to Alabama archaeology and/or history, or of regional archaeological interest.

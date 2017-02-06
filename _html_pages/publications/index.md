@@ -30,4 +30,4 @@ Most recently, the Alabama Archaeological Society provided editorial assistance 
 
 This volume is a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!
 
-If you would like the Alabama Archaeological Society to consider lending support to your upcoming research volume, please contact the current [President of the society](/contact/).
+If you would like the Alabama Archaeological Society to consider lending editorial support to your upcoming research volume, please contact the current [President of the society](/contact/).

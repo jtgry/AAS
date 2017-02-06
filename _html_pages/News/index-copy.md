@@ -8,7 +8,7 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 2FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 6FEB2017):**
 
 * NO STATE-LEVEL EVENTS SCHEDULED AT THIS TIME - *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

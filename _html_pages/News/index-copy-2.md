@@ -10,7 +10,7 @@ menu_position: 1
 
 **February 10, 2017:**The latest edition of Stones&Bones mailed this week.&nbsp; Have you received yours yet?&nbsp; If not, your membership may have lapsed!&nbsp; [See our membership page for more information about renewals.](/support/)
 
-**February 9, 2017:**&nbsp; Have you seen a link or page suggesting that you send your AAS dues to *treasurer@alabamaarchaeology.org* via PayPal, and have never received a response?&nbsp; We apologize, but there was some confusion when setting up the new website a couple of years ago.&nbsp; We are working on fixing that error and hope to retrieve any lost information.&nbsp; In the meanwhile, if sending your dues via Paypal, **please send your 2017 dues renewal to:** **alabamaarchaeology@gmail.com**
+**February 9, 2017:**&nbsp; Have you seen a link or page suggesting that you send your AAS dues to *treasurer@alabamaarchaeology.org* via PayPal, and have never received a response?&nbsp; We apologize, but there was some confusion when setting up the new website a couple of years ago.&nbsp; We are working on fixing that error as soon as possible and hope to retrieve any lost information.&nbsp; **In the meanwhile, if sending your 2017 dues via PayPal,****please send them to:** **alabamaarchaeology@gmail.com**
 
 **February 6, 2017**:&nbsp; [The Alabama Trust for Historic Preservation and Alabama Historical Commission are now accepting nominations for the 2017 Places in Peril Program](http://www.alabamatrust.info/pdf/2017%20Places%20In%20Peril%20Nomination%20Form.pdf).&nbsp; This joint program annually recognizes Alabama's most endangered historic resources.
 

@@ -16,7 +16,7 @@ Pay your dues or send a donation online! We are working on an automated method f
 
 2. Choose the Send Money tab.
 
-3. Type **alabamarchaeology@gmail.com** in the To (Email or mobile phone) field.
+3. Type **alabamaarchaeology@gmail.com** in the To (Email or mobile phone) field.
 
 4. Type the amount of money that you wish to send to the AAS (see the membership types and associated dues at the bottom of this page).
 

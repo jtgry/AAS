@@ -15,7 +15,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* [Alabama Historical Commission](http://ahc.alabama.gov/), Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama Archives and History, Downtown Montgomery.
+* [Alabama Historical Commission](http://ahc.alabama.gov/), Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama State Capitol auditorium, Downtown Montgomery.
 * [Alabama Academy of Science, Annual Meeting](http://www.southalabama.edu/programs/our/aas2017/).&nbsp; Feb 23-24, 2017.&nbsp; University of South Alabama, Mobile.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.

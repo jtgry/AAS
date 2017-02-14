@@ -8,13 +8,13 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 6FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 14FEB2017):**
 
-* NO STATE-LEVEL EVENTS SCHEDULED AT THIS TIME - *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
+* Alabama Archaeological Summer Meeting, TBA
+* *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* [Cultural Crossroads XVI: Territorial Characters in Becoming Alabama](https://www.eventbrite.com/e/cultural-crossroads-xvi-territorial-characters-in-becoming-alabama-tickets-30527460456?utm_source=Feb+2017+Events+%26+Updates&amp;utm_campaign=Feb+2017+Events+%26+Updates&amp;utm_medium=email).&nbsp; Saturday Feb 11th, 8:30a to 4:30p at Alabama Archives and History, Downtown Montgomery.
 * [Alabama Historical Commission](http://ahc.alabama.gov/), Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama Archives and History, Downtown Montgomery.
 * [Alabama Academy of Science, Annual Meeting](http://www.southalabama.edu/programs/our/aas2017/).&nbsp; Feb 23-24, 2017.&nbsp; University of South Alabama, Mobile.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.

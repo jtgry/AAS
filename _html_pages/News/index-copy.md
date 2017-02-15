@@ -8,14 +8,13 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 14FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 15FEB2017):**
 
-* Alabama Archaeological Society Summer Meeting (TBA)
+* Alabama Archaeological Society, Summer Meeting (TBA)
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* [Alabama Historical Commission](http://ahc.alabama.gov/), Commissioner's Meeting, Wednesday, Feb 15th, 1pm at Alabama State Capitol's Old Archives Chamber, Downtown Montgomery.
 * [Alabama Academy of Science, Annual Meeting](http://www.southalabama.edu/programs/our/aas2017/).&nbsp; Feb 23-24, 2017.&nbsp; University of South Alabama, Mobile.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.

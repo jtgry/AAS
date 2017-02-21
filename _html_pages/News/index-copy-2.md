@@ -10,7 +10,7 @@ menu_position: 1
 
 **February 21, 2017:&nbsp;** Did you know that the H.L. Hunley, the first submarine to successfully carry out an underwater attack on a surface vessel on February 17, 1864, was actually constructed at the Park & Lyons Machine Shops in Mobile, Alabama?&nbsp; On the 153rd anniversary of the loss of the Confederate submarine H.L. Hunley, the Naval History and Heritage Command Underwater Archaeology Branch just released an archaeological report on the recovery of the boat.&nbsp; [***Read more by clicking here***](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/hl-hunley/hunley-incident-analysis.html).
 
-**February 10, 2017:**The latest edition of Stones&Bones mailed this week.&nbsp; Have you received yours yet?&nbsp; If not, your membership may have lapsed!&nbsp; [See our membership page for more information about renewals.](/support/)
+**February 10, 2017:** The latest edition of Stones&Bones mailed this week.&nbsp; Have you received yours yet?&nbsp; If not, your membership may have lapsed!&nbsp; [See our membership page for more information about renewals.](/support/)
 
 **February 9, 2017:**&nbsp; Have you seen a link or page suggesting that you send your AAS dues to *treasurer@alabamaarchaeology.org* via PayPal, and have never received a response?&nbsp; We apologize, but there was some confusion when setting up the new website a couple of years ago.&nbsp; We are working on fixing that error as soon as possible and hope to retrieve any lost information.&nbsp; **In the meanwhile, if sending your 2017 dues via PayPal,****please send them to:** **alabamaarchaeology@gmail.com**
 

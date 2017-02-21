@@ -8,7 +8,7 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 15FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 21FEB2017):**
 
 * Alabama Archaeological Society, Summer Meeting (TBA)
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.

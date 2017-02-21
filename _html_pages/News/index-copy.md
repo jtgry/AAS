@@ -15,6 +15,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
+* [From Civil Strife to Roman Peace: An Ancient Traveler's View of the Augustan Monuments on the Via Flaminia.&nbsp; A lecture on Roman Archaeology by](http://www.uah.edu/news/campus/uah-welcomes-distinguished-speaker-eric-kondratieff)Dr. Eric Kondratieff (Associate Professor of Greek and Roman history at Western Kentucky University).&nbsp; University of Alabama in Huntsville, Wilson Hall, Rm 168.&nbsp; Feb. 23, 2017.
 * [Alabama Academy of Science, Annual Meeting](http://www.southalabama.edu/programs/our/aas2017/).&nbsp; Feb 23-24, 2017.&nbsp; University of South Alabama, Mobile.
 * Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House). March 14, 2017 (tentative date).
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.

@@ -8,16 +8,15 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 21FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 27FEB2017):**
 
 * Alabama Archaeological Society, Summer Meeting (TBA)
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* [From Civil Strife to Roman Peace: An Ancient Traveler's View of the Augustan Monuments on the Via Flaminia.&nbsp; A lecture on Roman Archaeology by&nbsp;](http://www.uah.edu/news/campus/uah-welcomes-distinguished-speaker-eric-kondratieff)Dr. Eric Kondratieff (Associate Professor of Greek and Roman history at Western Kentucky University).&nbsp; University of Alabama in Huntsville, Wilson Hall, Rm 168.&nbsp; Feb. 23, 2017.
-* [Alabama Academy of Science, Annual Meeting](http://www.southalabama.edu/programs/our/aas2017/).&nbsp; Feb 23-24, 2017.&nbsp; University of South Alabama, Mobile.
 * Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House). March 14, 2017 (tentative date).
+* Cypress Cove Farm Archaeological Dig - Public Day, March 18, 2017.&nbsp; Click [Here for more information](http://www.franklincountytimes.com/2017/02/15/archaeological-dig-comes-to-red-bay/), or visit Cypress Cove Farm Archaeology on Facebook.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.
 

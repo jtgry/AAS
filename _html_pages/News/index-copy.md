@@ -10,6 +10,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 27FEB2017):**
 
+* Board of Director's Meeting, March 6, 2017, 5pm.&nbsp; Neighborhood Grill & Catering, 309 7th St North, Clanton, AL.
 * Alabama Archaeological Society, Summer Meeting (TBA)
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

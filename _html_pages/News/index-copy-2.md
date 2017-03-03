@@ -8,6 +8,8 @@ menu_position: 1
 ---
 
 
+**March 2, 2017:** &nbsp;Did you know that March 2017 marks 200 years since Alabama was split from the Mississippi Territory? &nbsp;Learn more this weekend at Borderline Confusion: Cultures & Conflict in the making of Mississippi and Alabama. &nbsp;Nissan Auditorium (Parkinson Hall), Mississippi University for Women, Columbus, MS, March 5, 2017, 2-4pm.
+
 **March 2, 2017:**&nbsp; The Alabama Archaeological Society Board of Director's will hold their quarterly meeting on March 6, 2017, at Neighborhood Grill & Catering in Clanton, AL.&nbsp; If you would like to add an item to the agenda, please contact the [AAS President](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109))).
 
 **February 21, 2017:&nbsp;** Did you know that the H.L. Hunley, the first submarine to successfully carry out an underwater attack on a surface vessel on February 17, 1864, was actually constructed at the Park & Lyons Machine Shops in Mobile, Alabama?&nbsp; On the 153rd anniversary of the loss of the Confederate submarine H.L. Hunley, the Naval History and Heritage Command Underwater Archaeology Branch just released an archaeological report on the recovery of the boat.&nbsp; [***Read more by clicking here***](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/hl-hunley/hunley-incident-analysis.html).

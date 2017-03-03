@@ -16,6 +16,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
+* Borderline Confusion: Cultures & Conflict in the making of Mississippi and Alabama. &nbsp;A symposium marking the bicentennial of the division of the two states. &nbsp;Nissan Auditorium (Parkinson Hall), Mississippi University for Women, Columbus, MS, March 5, 2017, 2-4pm.
 * [Southern Environmental History Symposium, Caroline Marshall Draughon Center for the Arts and Humanities](cla.auburn.edu), March 9, 2017, 8:30am-12pm.
 * [The Eastern Shore: The Place and the People - A lecture by Dr. Gregory Waselkov (Director of the Center for Archaeological Studies, University of South Alabama), Spanish Fort Public Library, March 9, 2017, 6pm.](http://blakeleypark.com/events.asp)
 * Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House). March 14, 2017 (tentative date).

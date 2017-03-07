@@ -8,18 +8,16 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 27FEB2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 7March2017):**
 
-* Board of Director's Meeting, March 6, 2017, 5pm.&nbsp; Neighborhood Grill & Catering, 309 7th St North, Clanton, AL.
-* Alabama Archaeological Society, Summer Meeting (TBA)
+* **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *Details coming soon!*
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* Borderline Confusion: Cultures & Conflict in the making of Mississippi and Alabama. &nbsp;A symposium marking the bicentennial of the division of the two states. &nbsp;Nissan Auditorium (Parkinson Hall), Mississippi University for Women, Columbus, MS, March 5, 2017, 2-4pm.
 * [Southern Environmental History Symposium, Caroline Marshall Draughon Center for the Arts and Humanities](cla.auburn.edu), March 9, 2017, 8:30am-12pm.
 * [The Eastern Shore: The Place and the People - A lecture by Dr. Gregory Waselkov (Director of the Center for Archaeological Studies, University of South Alabama), Spanish Fort Public Library, March 9, 2017, 6pm.](http://blakeleypark.com/events.asp)
-* Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House). March 14, 2017 (tentative date).
+* [Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House)](http://ahc.alabama.gov/). March 14, 2017.
 * Cypress Cove Farm Archaeological Dig - Public Day, March 18, 2017.&nbsp; Click [Here for more information](http://www.franklincountytimes.com/2017/02/15/archaeological-dig-comes-to-red-bay/), or visit Cypress Cove Farm Archaeology on Facebook.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.

@@ -8,6 +8,8 @@ menu_position: 1
 ---
 
 
+**March 7, 2017:**&nbsp; At last night's Board of Director's Meeting, Old Cahawba Archaeological Park was selected as the site of this year's **AAS Summer Meeting**.&nbsp; This meeting will be held in conjunction with the University of Alabama Natural History Museum's Expedition 39, with a focus on excavations at the site of Alabama's first Statehouse.&nbsp; Details will be coming soon, but **mark your calendars for June 24, 2017!**
+
 **March 2, 2017:** &nbsp;Did you know that March 2017 marks 200 years since Alabama was split from the Mississippi Territory? &nbsp;Learn more this weekend at Borderline Confusion: Cultures & Conflict in the making of Mississippi and Alabama. &nbsp;Nissan Auditorium (Parkinson Hall), Mississippi University for Women, Columbus, MS, March 5, 2017, 2-4pm.
 
 **March 2, 2017:**&nbsp; The Alabama Archaeological Society Board of Director's will hold their quarterly meeting on March 6, 2017, at Neighborhood Grill & Catering in Clanton, AL.&nbsp; If you would like to add an item to the agenda, please contact the [AAS President](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109))).

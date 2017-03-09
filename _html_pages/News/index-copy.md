@@ -8,14 +8,13 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 7March2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 9March2017):**
 
 * **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *Details coming soon!*
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* [Southern Environmental History Symposium, Caroline Marshall Draughon Center for the Arts and Humanities](cla.auburn.edu), March 9, 2017, 8:30am-12pm.
 * [The Eastern Shore: The Place and the People - A lecture by Dr. Gregory Waselkov (Director of the Center for Archaeological Studies, University of South Alabama), Spanish Fort Public Library, March 9, 2017, 6pm.](http://blakeleypark.com/events.asp)
 * [Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House)](http://ahc.alabama.gov/). March 14, 2017.
 * Cypress Cove Farm Archaeological Dig - Public Day, March 18, 2017.&nbsp; Click [Here for more information](http://www.franklincountytimes.com/2017/02/15/archaeological-dig-comes-to-red-bay/), or visit Cypress Cove Farm Archaeology on Facebook.

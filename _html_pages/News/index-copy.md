@@ -15,8 +15,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* [The Eastern Shore: The Place and the People - A lecture by Dr. Gregory Waselkov (Director of the Center for Archaeological Studies, University of South Alabama), Spanish Fort Public Library, March 9, 2017, 6pm.](http://blakeleypark.com/events.asp)
-* [Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House)](http://ahc.alabama.gov/). March 14, 2017.
+* [Council for Alabama Archaeology Quarterly Meeting,&nbsp; Alabama Historical Commission Main Office (Carriage House)](http://www.preserveala.org/partnerships.aspx). March 14, 2017.
 * Cypress Cove Farm Archaeological Dig - Public Day, March 18, 2017.&nbsp; Click [Here for more information](http://www.franklincountytimes.com/2017/02/15/archaeological-dig-comes-to-red-bay/), or visit Cypress Cove Farm Archaeology on Facebook.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.

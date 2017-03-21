@@ -8,14 +8,13 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 9March2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 21March2017):**
 
 * **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *Details coming soon!*
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
-* Cypress Cove Farm Archaeological Dig - Public Day, March 18, 2017.&nbsp; Click [Here for more information](http://www.franklincountytimes.com/2017/02/15/archaeological-dig-comes-to-red-bay/), or visit Cypress Cove Farm Archaeology on Facebook.
 * [Alabama Historical Association, Spring Meeting](http://www.alabamahistory.net/meetings.html).&nbsp; April 20-22, 2017, Auburn.
 * [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.
 

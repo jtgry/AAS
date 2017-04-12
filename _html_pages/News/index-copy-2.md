@@ -8,6 +8,8 @@ menu_position: 1
 ---
 
 
+**April 12, 2017:&nbsp;**U.S. Army Corps of Engineers, Mobile District Archaeologist (and AAS member), Matt Grunewald recently assisted with a Defense POW/MIA Accounting Agency mission to recover American service member remains.&nbsp; See more details [**here**](http://www.sam.usace.army.mil/Media/News-Stories/Article/1140135/district-archeologist-assists-powmia-accounting-agency-in-recovery-mission/).
+
 **March 7, 2017:**&nbsp; At last night's Board of Director's Meeting, Old Cahawba Archaeological Park was selected as the site of this year's **AAS Summer Meeting**.&nbsp; This meeting will be held in conjunction with the University of Alabama Natural History Museum's Expedition 39, with a focus on excavations at the site of Alabama's first Statehouse.&nbsp; Details will be coming soon, but **mark your calendars for June 24, 2017!**
 
 **March 2, 2017:** &nbsp;Did you know that March 2017 marks 200 years since Alabama was split from the Mississippi Territory? &nbsp;Learn more this weekend at Borderline Confusion: Cultures & Conflict in the making of Mississippi and Alabama. &nbsp;Nissan Auditorium (Parkinson Hall), Mississippi University for Women, Columbus, MS, March 5, 2017, 2-4pm.

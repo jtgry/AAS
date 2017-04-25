@@ -8,6 +8,16 @@ menu_position: 1
 ---
 
 
+**April 25, 2017:&nbsp;**
+
+**Alabama Bicentennial Summer Institutes for Teachers**
+
+For Alabama teachers, grades 3rd -5th, looking for professional development on Alabama's history, the Alabama Bicentennial Commission offers a series of summer workshops. &nbsp;In 2016, 12 teachers from across the state were selected as Alabama Bicentennial Master Teachers. &nbsp;Each of these teachers has been trained at the Alabama Department of Archives and History and paired with a content specialist. &nbsp;Together these teams created a 3.5-day Bicentennial Summer Institute each unique to a specific region of the state. &nbsp;Interested teachers who want to participate in an institute should contact their superintendent. &nbsp;For more information, visit &nbsp;[www.alabama200.org/summerinstitutes/](www.alabama200.org/summerinstitutes/)&nbsp;or call Carson Williford at 334-353-4755.
+
+**Alabama Bicentennial Commission Announces Regional Workshops**
+
+The Alabama Bicentennial Commission is hosting planning workshops across the state to help local municipalities and organizations plan commemorative events and celebrations of 200 years of Alabama history.&nbsp; The regional workshops will include presentations of funding opportunities. &nbsp;For schedule of workshops April - September and for more information, email Connor Lowry at [Connor.Lowry@alabamabicentennial.gov.alabama](mailto:Connor.Lowry@alabamabicentennial.gov.alabama).
+
 **April 12, 2017:&nbsp;**U.S. Army Corps of Engineers, Mobile District Archaeologist (and AAS member), Matt Grunewald recently assisted with a Defense POW/MIA Accounting Agency mission to recover American service member remains in Vietnam.&nbsp; See more details [**here**](http://www.sam.usace.army.mil/Media/News-Stories/Article/1140135/district-archeologist-assists-powmia-accounting-agency-in-recovery-mission/).
 
 **March 7, 2017:**&nbsp; At last night's Board of Director's Meeting, Old Cahawba Archaeological Park was selected as the site of this year's **AAS Summer Meeting**.&nbsp; This meeting will be held in conjunction with the University of Alabama Natural History Museum's Expedition 39, with a focus on excavations at the site of Alabama's first Statehouse.&nbsp; Details will be coming soon, but **mark your calendars for June 24, 2017!**

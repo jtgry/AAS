@@ -10,7 +10,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 25April2017):**
 
-* **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *Details coming soon!*
+* **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *This meeting will be held in conjunction with the University of Alabama Museum's Expedition 39, focusing on excavations at Alabama's First Statehouse. Details coming soon!*
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**

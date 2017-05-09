@@ -10,7 +10,11 @@ menu_position: 7
 
 Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
 
-![](/uploads/versions/Local Chapters---x----2625-3737x---.jpg)
+![](/uploads/versions/revised-local-chapters---x68-0-3863-5500-2625-3737x---.jpg)
+
+### Birmingham
+
+Currently in the process of reforming, the Birmingham Chapter will resume monthly meetings beginning in the Fall of 2017.&nbsp; More details will be posted as they become available.
 
 ### Coosa Valley
 

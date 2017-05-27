@@ -8,13 +8,15 @@ menu_position: 1
 ---
 
 
+May 27, 2017: &nbsp;Volumes 60 and 61 of the Journal of Alabama Archaeology shipped this week - did you get some yours yet? &nbsp;If not, your membership may have lapsed. &nbsp;See our membership page for more info...
+
 **May 9, 2017:&nbsp; 2017 marks the 300th anniversary (Tercentenary) of Fort Toulouse!&nbsp;**
 
 There has been a lot of information in the news lately about Alabama's Bicentennial, but did you know that 2017 also marks the 300th Anniversary of the construction of a French Colonial fort in the interior of Alabama?&nbsp; Fort Toulouse des Alibamons was built by French Colonial Marines in 1717, at the invitation of the [Muscogee (Creek) Indians](http://www.encyclopediaofalabama.org/article/h-1088).&nbsp; Located near present-day Wetumpka, this fort was strategically located at the confluence of the Coosa and Tallapoosa Rivers, which form the headwaters of the Alabama River.&nbsp; This same location would later be used as the location of Fort Jackson, during the War of 1812.&nbsp; Find out more here at the [Encyclopedia of Alabama](http://www.encyclopediaofalabama.org/article/h-1417), and at [https://fttoulousejackson.org/](https://fttoulousejackson.org/)
 
 **April 25, 2017:&nbsp;****Alabama Bicentennial Summer Institutes for Teachers**
 
-For Alabama teachers, grades 3rd -5th, looking for professional development on Alabama's history, the Alabama Bicentennial Commission offers a series of summer workshops. &nbsp;In 2016, 12 teachers from across the state were selected as Alabama Bicentennial Master Teachers. &nbsp;Each of these teachers has been trained at the Alabama Department of Archives and History and paired with a content specialist. &nbsp;Together these teams created a 3.5-day Bicentennial Summer Institute each unique to a specific region of the state. &nbsp;Interested teachers who want to participate in an institute should contact their superintendent. &nbsp;For more information, visit &nbsp;[www.alabama200.org/summerinstitutes/](www.alabama200.org/summerinstitutes/)&nbsp;or call Carson Williford at 334-353-4755.
+For Alabama teachers, grades 3rd -5th, looking for professional development on Alabama's history, the Alabama Bicentennial Commission offers a series of summer workshops. &nbsp;In 2016, 12 teachers from across the state were selected as Alabama Bicentennial Master Teachers. &nbsp;Each of these teachers has been trained at the Alabama Department of Archives and History and paired with a content specialist. &nbsp;Together these teams created a 3.5-day Bicentennial Summer Institute each unique to a specific region of the state. &nbsp;Interested teachers who want to participate in an institute should contact their superintendent. &nbsp;For more information, visit &nbsp;[www.alabama200.org/summerinstitutes/](www.alabama200.org/summerinstitutes/)&nbsp;or call Carson Williford at [334-353-4755](tel:334-353-4755).
 
 **Alabama Bicentennial Commission Announces Regional Workshops**
 

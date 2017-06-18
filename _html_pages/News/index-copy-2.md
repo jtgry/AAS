@@ -8,7 +8,13 @@ menu_position: 1
 ---
 
 
-May 27, 2017: &nbsp;Volumes 60 and 61 of the Journal of Alabama Archaeology shipped this week - did you get some yours yet? &nbsp;If not, your membership may have lapsed. &nbsp;See our membership page for more info...
+&nbsp;
+
+June 18, 2017: &nbsp;The next AAS Summer Meeting is this coming weekend at Old Cahawba!
+
+![](/uploads/versions/aas-summer-meeting-flyer-2017---x----720-960x---.jpg)
+
+May 27, 2017: &nbsp;Volumes 60 and 61 of the Journal of Alabama Archaeology shipped this week - did you get some yours yet? &nbsp;If not, your membership may have lapsed. &nbsp;See our membership page for more info…
 
 **May 9, 2017:&nbsp; 2017 marks the 300th anniversary (Tercentenary) of Fort Toulouse!&nbsp;**
 

@@ -10,7 +10,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 9May2017):**
 
-* **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *This meeting will be held in conjunction with the University of Alabama Museum's Expedition 39, focusing on excavations at the site of Alabama's First Statehouse.*&nbsp; Registration 8-9am. &nbsp;*Excavation opportunities will be available for members from 9am to noon, with wagon\*\* tours and excavation site tours throughout the day. A southern style picnic lunch will be available for purchase at the time of registration. &nbsp;For more information, please check our Facebook page for updated details as they become available. &nbsp;*
+* **Alabama Archaeological Society Summer Meeting**, Old Cahawba Archaeological Park, June 24, 2017.&nbsp; *This meeting will be held in conjunction with the University of Alabama Museum's Expedition 39, focusing on excavations at the site of Alabama's First Statehouse.*&nbsp; Registration 8-9:30am. &nbsp;*Excavation opportunities will be available for members from 9:30am to noon, with wagon\*\* tours and excavation site tours throughout the day. A southern style picnic lunch will be available for purchase at the time of registration. &nbsp;For more information, please check our Facebook page for updated details as they become available. &nbsp;*
 * ![](/uploads/versions/aas-summer-meeting-flyer-2017---x----720-960x---.jpg)
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

@@ -10,6 +10,8 @@ menu_position: 1
 
 &nbsp;
 
+June 22, 2017: Due to extremely heavy rain I never western Alabama, we are currently assessing the potential need to reschedule the summer meeting. &nbsp;Please stay tuned for more information.
+
 June 18, 2017: &nbsp;The next AAS Summer Meeting is this coming weekend at Old Cahawba!
 
 ![](/uploads/versions/aas-summer-meeting-flyer-2017---x----720-960x---.jpg)

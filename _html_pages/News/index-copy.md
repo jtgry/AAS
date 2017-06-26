@@ -16,11 +16,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* A[labama Cemetery Preservation Workshop, sponsored by the Alabama Cemetery Preservation Alliance. Auburn, Alabama, May 13, 2017](http://www.alabama-cemetery-preservation.com/acpa_conference.php)
-* 30th Annual Multicultural Indian Event, Oakville Indian Mounds, May 20, 2017.
-* [University of Alabama Museum's Summer Expedition 39](https://almnh.ua.edu/summer-expedition.html), Old Cahawba Archaeological Park, June 2017.
-* [Investigating Rock Art Through Archaeology:&nbsp; Project Archaeology Professional Development Workshop for 3rd-6th Grade Educators, University of Alabama in Huntsville, June 6-9, 2017.](https://projectarchaeology.org/ai1ec_event/investigating-rock-art-through-archaeology?instance_id=644)&nbsp; For more information, visit [www.projectarchaeology.org](www.projectarchaeology.org)
-* Frontier Days, Fort Toulouse/Fort Jackson, Nov. 1-4, 2017. Wetumpka Alabama.
+* Alabama Frontier Days, Fort Toulouse/Fort Jackson, Nov. 1-4, 2017. Wetumpka Alabama.
 
 **National Archaeology Meetings:**
 

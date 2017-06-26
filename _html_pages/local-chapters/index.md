@@ -22,7 +22,7 @@ Meetings are held on various Thursdays at 7:00pm Contact: Phillip Koerper [pkoer
 
 ### Cullman
 
-Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [robbie@alabamaprinting.com](mailto:robbie@alabamaprinting.com) (256) 734-3369 or (256) 737-9390
+Meetings are held on third Thursdays (except June through August) at 7:00pm at the Cullman County Health Department on Tally Hoe Street in the Community meeting room Contact: Robbie Camp [robbie@alabamaprinting.com](mailto:robbie@alabamaprinting.com)&nbsp;256-734-5104 or 256-590-5898.
 
 ### East Alabama
 

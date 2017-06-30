@@ -10,7 +10,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 23June2017):**
 
-* UPDATE 6/23/2017:&nbsp; DUE TO FLOODING CAUSED BY TROPICAL STORM CINDY, THE AAS SUMMER MEETING HAS BEEN INDEFINITELY POSTPONED.&nbsp; WE APOLOGIZE FOR THE INCONVENIENCE AND ARE TRYING TO RESCHEDULE FOR LATER THIS YEAR.
+* The Summer Meeting has been rescheduled for July 29, 2017 at Old Cahawba. Registration begins at 8:30am at the Visitor's Center.
 
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

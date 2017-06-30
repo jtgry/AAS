@@ -8,6 +8,10 @@ menu_position: 1
 ---
 
 
+6/30/2017: &nbsp;The AAS Summer Meeting has been rescheduled for July 29th at Old Cahawba Archaeological Park. &nbsp;Registration starts at 8:30am at the Visitor's Center. &nbsp;Please check our Facebook page for more details. &nbsp;Hope to see you there!
+
+&nbsp;
+
 **UPDATE 6/23/2017:&nbsp; DUE TO FLOODING CAUSED BY TROPICAL STORM CINDY, THE AAS SUMMER MEETING HAS BEEN INDEFINITELY POSTPONED.&nbsp; WE APOLOGIZE FOR THE INCONVENIENCE AND WILL TRY TO RESCHEDULE FOR LATER THIS YEAR.**
 
 June 22, 2017: Due to extremely heavy rain I never western Alabama, we are currently assessing the potential need to reschedule the summer meeting. &nbsp;Please stay tuned for more information.

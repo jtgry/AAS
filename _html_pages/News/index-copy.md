@@ -8,14 +8,15 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 23June2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 17Aug2017):**
 
-* The Summer Meeting has been rescheduled for July 29, 2017 at Old Cahawba. Registration begins at 8:30am at the Visitor's Center.
+* Alabama Archaeological Society, Winter Meeting - TBA.&nbsp;
 
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
 
+* Moundville Native American Festival, Oct. 4-7, 2017.&nbsp; Moundville Archaeological Park.
 * Alabama Frontier Days, Fort Toulouse/Fort Jackson, Nov. 1-4, 2017. Wetumpka Alabama.
 
 **National Archaeology Meetings:**

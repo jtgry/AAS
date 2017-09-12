@@ -18,7 +18,7 @@ menu_position: 1
 
 **UPDATE 6/23/2017:&nbsp; DUE TO FLOODING CAUSED BY TROPICAL STORM CINDY, THE AAS SUMMER MEETING HAS BEEN INDEFINITELY POSTPONED.&nbsp; WE APOLOGIZE FOR THE INCONVENIENCE AND WILL TRY TO RESCHEDULE FOR LATER THIS YEAR.**
 
-June 22, 2017: Due to extremely heavy rain I never western Alabama, we are currently assessing the potential need to reschedule the summer meeting. &nbsp;Please stay tuned for more information.
+June 22, 2017: Due to extremely heavy rain in western Alabama, we are currently assessing the potential need to reschedule the summer meeting. &nbsp;Please stay tuned for more information.
 
 June 18, 2017: &nbsp;The next AAS Summer Meeting is this coming weekend at Old Cahawba!
 

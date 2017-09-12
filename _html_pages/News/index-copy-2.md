@@ -8,6 +8,8 @@ menu_position: 1
 ---
 
 
+9/12/2017:&nbsp; Applications for AAS Research Grants and Scholarships are due by October 1st.&nbsp; Have you mailed yours in yet???&nbsp; [For more information, please see our Grants and Scholarships page!](/grants/)
+
 9/5/2017:&nbsp; Did you recently receive what appears to be a duplicate issue of the Journal of Alabama Archaeology?&nbsp; Our printer recently made an error, and color slides were accidentally left out of the issue.&nbsp; The corrected copy was recently sent out to our membership!&nbsp;
 
 8/17/2017:&nbsp; This is also a concern in Coastal Alabama:&nbsp; [https://www.csmonitor.com/Environment/Inhabit/2017/0804/Salvage-archaeology-When-rising-seas-threaten-to-wash-away-history](https://www.csmonitor.com/Environment/Inhabit/2017/0804/Salvage-archaeology-When-rising-seas-threaten-to-wash-away-history)

@@ -23,7 +23,7 @@ menu_position: 2
 * [Life of the Enslaved at Arcadia Mill, a lecture by Adrianne Sams Walker, October 9, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
 * Old St. Stephens, Alabama's First State Capital:&nbsp; The Mother of Mobile.&nbsp; Lecture by George Shorter, October 19, 2017.&nbsp; University of South Alabama Archaeology Museum.
 * [Summer 2017 Discoveries at the Luna Settlement Site, Lecture by Christina Bolte (University of West Florida), November 2, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
-* Alabama Frontier Days, Fort Toulouse/Fort Jackson, Nov. 1-4, 2017. Wetumpka Alabama.
+* Alabama Frontier Days, Fort Toulouse/Fort Jackson - Featuring the 300th Anniversary of Fort Toulouse Celebration!, Nov. 1-4, 2017. Wetumpka Alabama.
 
 **Regional and National Archaeology Meetings:**
 

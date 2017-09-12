@@ -16,7 +16,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* [The Archaeology of Gulf Islands National Seashore, by Dr. Della Scott-Ireton of the Florida Public Archaeology Network, September 14, 2017, University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
+* [The Archaeology of Gulf Islands National Seashore, lecture by Dr. Della Scott-Ireton of the Florida Public Archaeology Network, September 14, 2017, University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
 * Moundville Native American Festival, Oct. 4-7, 2017.&nbsp; Moundville Archaeological Park.
 * [St. Stephens Celebration!&nbsp; October 7, 2017, St Stephens.](http://www.alabama200.org/participate/events/st-stephens-celebration)
 * [Center for French Colonial Studies, Annual Meeting, October 6-8, 2017.&nbsp; Hampton Inn & Suites-Providence Park in Mobile, Alabama.](http://frenchcolonialstudies.org/annual-meeting/)

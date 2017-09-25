@@ -8,7 +8,7 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 12Sept2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 25Sept2017):**
 
 * Alabama Archaeological Society, Winter Meeting - TBA.&nbsp;
 

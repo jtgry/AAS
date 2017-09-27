@@ -12,7 +12,7 @@ menu_position: 2
 
 * **Free Artifact Identification Day at Pioneer Park**, Loachapoka (Lee County), October 14th, 9am-Noon - hosted by the East Alabama Chapter and the Lee County Historical Society.&nbsp; Bring your artifacts for identification by professional archaeologists!&nbsp; Please note that the archaeologists will only discuss the scientific context and approximate age of your items.&nbsp; The Alabama Archaeological Society does not provide cash value appraisals of artifacts.
 
-* **International Archaeology Day Festival**, October 21, 1-4pm.&nbsp; Lowe Mill, 2211 Seminole Drive SW, Huntsville, Alabama.
+* **International Archaeology Day Festival**, October 21, 1-4pm.&nbsp; Lowe Mill, 2211 Seminole Drive SW, Huntsville, Alabama.&nbsp; Come meet AAS President, Ben Hoksbergen at this event sponsored by the Archaeological Institute of America.
 
 * **Alabama Archaeological Society, 2018 Winter Meeting** - Date to be determined at next BOD meeting.&nbsp;
 

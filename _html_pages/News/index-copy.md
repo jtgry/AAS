@@ -20,12 +20,13 @@ menu_position: 2
 
 * **Moundville Native American Festival**, Oct. 4-7, 2017.&nbsp; Moundville Archaeological Park.
 * **Tour to the French Colonial Old Mobile Archaeological Site and LaPointe-Krebs House**: The Center for French Colonial Studies is holding their annual meeting in Mobile, Alabama on October 6-8. The first event, a bus tour to the Old Mobile archaeological site in Axis, AL, and the LaPointe-Krebs House and Museum in Pascagoula on Friday, October 6, is open to the public on a first-come, first-served basis. There are currently 15 seats still available. This all day tour, which will be led by Dr. Greg Waselkov, who directed archaeological investigations at both of these French colonial sites, will depart at 9 am from Hampton Inn & Suites-Providence Park and will return there by 5 pm. Lunch will be provided at the University of South Alabama's Archaeology Museum. Cost of the tour is $35. Register soon, before all the seats are filled, at:&nbsp; [http://frenchcolonialstudies.org/annual-meeting/](http://cp.mcafee.com/d/1jWVIqdELTspod7bRS3tPqdQXEIcIzHCQkmbTd7aarzxJ6WtQm6mhO9J55wQsIL8EKe6_zaTkAJZ0lFeTqvF3ltUzkOrQDrJfQxGKYhGpdSZd4QsSd7b_nVxByZPhOZRXBQSnQ-7cKnjo7th5dqWqJTTel3PWApmU6CQjq9KVKVI06X7Um9SGvm4JfFdJ2nQU03CMwTFVtn_Da173p0ySHg5kGTcDF-AdlTLgrdKef8CMMuwq81KF2h_Cy3o86y0aW5GOxfOU5hYxgQg0CHsjh0cvIW6y0oD8YYQg21Dp7WgfY0Ph06bjUQge6T63pei7FI54)
-* [Center for French Colonial Studies, Annual Meeting, October 6-8, 2017.&nbsp; Hampton Inn & Suites-Providence Park in Mobile, Alabama.](http://frenchcolonialstudies.org/annual-meeting/)
-* [St. Stephens Celebration!&nbsp; October 7, 2017, St Stephens.](http://www.alabama200.org/participate/events/st-stephens-celebration)
-* [Life of the Enslaved at Arcadia Mill, a lecture by Adrianne Sams Walker, October 9, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
-* Old St. Stephens, Alabama's First State Capital:&nbsp; The Mother of Mobile.&nbsp; Lecture by George Shorter, October 19, 2017.&nbsp; University of South Alabama Archaeology Museum.
-* [Summer 2017 Discoveries at the Luna Settlement Site, Lecture by Christina Bolte (University of West Florida), November 2, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
-* [Alabama Frontier Days, Fort Toulouse/Fort Jackson - Featuring the 300th Anniversary of Fort Toulouse Celebration!, Nov. 1-4, 2017. Wetumpka Alabama.](https://fttoulousejackson.org/)
+* [**Center for French Colonial Studies**, Annual Meeting, October 6-8, 2017.&nbsp; Hampton Inn & Suites-Providence Park in Mobile, Alabama.](http://frenchcolonialstudies.org/annual-meeting/)
+* [**St. Stephens Celebration!**&nbsp; October 7, 2017, St Stephens.](http://www.alabama200.org/participate/events/st-stephens-celebration)
+* [**Life of the Enslaved at Arcadia Mill**, a lecture by Adrianne Sams Walker, October 9, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
+* **Old St. Stephens, Alabama's First State Capital:&nbsp; The Mother of Mobile.&nbsp;** Lecture by George Shorter, October 19, 2017.&nbsp; University of South Alabama Archaeology Museum.
+* **Free Artifact Identification - Pioneer Day**, Grove Hill, Alabama (Clarke County).&nbsp; Sponsored by the University of West Alabama, and Panamerican Consultants, Inc.
+* [**Summer 2017 Discoveries at the Luna Settlement Site**, Lecture by Christina Bolte (University of West Florida), November 2, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
+* [**Alabama Frontier Days**, Fort Toulouse/Fort Jackson - Featuring the 300th Anniversary of Fort Toulouse Celebration!, Nov. 1-4, 2017. Wetumpka Alabama.](https://fttoulousejackson.org/)
 
 **Regional and National Archaeology Meetings:**
 

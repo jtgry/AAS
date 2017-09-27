@@ -10,7 +10,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 27Sept2017):**
 
-* **Free Artifact Identification Day at Pioneer Park**, Loachapoka (Lee County), October 14th, 9am-Noon - hosted by the East Alabama Chapter.&nbsp; Bring your artifacts for identification by professional archaeologists!&nbsp; Please note that the archaeologists will only discuss the scientific context and approximate age of your items.&nbsp; The Alabama Archaeological Society does not provide cash value appraisals of artifacts.
+* **Free Artifact Identification Day at Pioneer Park**, Loachapoka (Lee County), October 14th, 9am-Noon - hosted by the East Alabama Chapter and the Lee County Historical Society.&nbsp; Bring your artifacts for identification by professional archaeologists!&nbsp; Please note that the archaeologists will only discuss the scientific context and approximate age of your items.&nbsp; The Alabama Archaeological Society does not provide cash value appraisals of artifacts.
 
 * **Alabama Archaeological Society, 2018 Winter Meeting** - Date to be determined at next BOD meeting.&nbsp;
 
@@ -24,7 +24,7 @@ menu_position: 2
 * [**St. Stephens Celebration!**&nbsp; October 7, 2017, St Stephens.](http://www.alabama200.org/participate/events/st-stephens-celebration)
 * [**Life of the Enslaved at Arcadia Mill**, a lecture by Adrianne Sams Walker, October 9, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
 * **Old St. Stephens, Alabama's First State Capital:&nbsp; The Mother of Mobile.&nbsp;** Lecture by George Shorter, October 19, 2017.&nbsp; University of South Alabama Archaeology Museum.
-* **Free Artifact Identification - Pioneer Day**, Grove Hill, Alabama (Clarke County).&nbsp; Sponsored by the University of West Alabama, and Panamerican Consultants, Inc.
+* **Free Artifact Identification - Pioneer Day**, Grove Hill, Alabama (Clarke County), October 28th (9am-2pm).&nbsp; Sponsored by the University of West Alabama, and Panamerican Consultants, Inc.
 * [**Summer 2017 Discoveries at the Luna Settlement Site**, Lecture by Christina Bolte (University of West Florida), November 2, 2017.&nbsp; University of South Alabama Archaeology Museum.](http://www.usouthal.edu/org/archaeology/museum/events.html)
 * [**Alabama Frontier Days**, Fort Toulouse/Fort Jackson - Featuring the 300th Anniversary of Fort Toulouse Celebration!, Nov. 1-4, 2017. Wetumpka Alabama.](https://fttoulousejackson.org/)
 

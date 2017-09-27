@@ -10,7 +10,9 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 25Sept2017):**
 
-* Alabama Archaeological Society, Winter Meeting - TBA.&nbsp;
+* **Free Artifact Identification Day at Pioneer Park**, Loachapoka (Lee County), October 14th, 9am-Noon - hosted by the East Alabama Chapter.&nbsp; Bring your artifacts for identification by professional archaeologists!&nbsp; Please note that the archaeologists will only discuss the scientific context and approximate age of your items.&nbsp; The Alabama Archaeological Society does not provide cash value appraisals of artifacts.
+
+* **Alabama Archaeological Society, 2018 Winter Meeting** - Date to be determined at next BOD meeting.&nbsp;
 
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

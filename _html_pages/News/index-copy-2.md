@@ -8,6 +8,8 @@ menu_position: 1
 ---
 
 
+9/27/2017:&nbsp; The East Alabama Chapter of the Alabama Archaeological Society will be hosting a free Artifact Identification Day at Pioneer Park in Loachapoka, Alabama on October 14th (9am-noon).&nbsp; Come have professional archaeologists evaluate the age and scientific value of your artifacts!&nbsp; Please note that this is not an appraisal service - no evaluation of cash value will be provided.
+
 9/12/2017:&nbsp; Applications for AAS Research Grants and Scholarships are due by October 1st.&nbsp; Have you mailed yours in yet???&nbsp; [For more information, please see our Grants and Scholarships page!](/grants/)
 
 9/5/2017:&nbsp; Did you recently receive what appears to be a duplicate issue of the Journal of Alabama Archaeology?&nbsp; Our printer recently made an error, and color slides were accidentally left out of the issue.&nbsp; The corrected copy was recently sent out to our membership!&nbsp;

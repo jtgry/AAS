@@ -8,7 +8,7 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 25Sept2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 27Sept2017):**
 
 * **Free Artifact Identification Day at Pioneer Park**, Loachapoka (Lee County), October 14th, 9am-Noon - hosted by the East Alabama Chapter.&nbsp; Bring your artifacts for identification by professional archaeologists!&nbsp; Please note that the archaeologists will only discuss the scientific context and approximate age of your items.&nbsp; The Alabama Archaeological Society does not provide cash value appraisals of artifacts.
 
@@ -18,7 +18,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* Moundville Native American Festival, Oct. 4-7, 2017.&nbsp; Moundville Archaeological Park.
+* **Moundville Native American Festival**, Oct. 4-7, 2017.&nbsp; Moundville Archaeological Park.
 * **Tour to the French Colonial Old Mobile Archaeological Site and LaPointe-Krebs House**: The Center for French Colonial Studies is holding their annual meeting in Mobile, Alabama on October 6-8. The first event, a bus tour to the Old Mobile archaeological site in Axis, AL, and the LaPointe-Krebs House and Museum in Pascagoula on Friday, October 6, is open to the public on a first-come, first-served basis. There are currently 15 seats still available. This all day tour, which will be led by Dr. Greg Waselkov, who directed archaeological investigations at both of these French colonial sites, will depart at 9 am from Hampton Inn & Suites-Providence Park and will return there by 5 pm. Lunch will be provided at the University of South Alabama's Archaeology Museum. Cost of the tour is $35. Register soon, before all the seats are filled, at:&nbsp; [http://frenchcolonialstudies.org/annual-meeting/](http://cp.mcafee.com/d/1jWVIqdELTspod7bRS3tPqdQXEIcIzHCQkmbTd7aarzxJ6WtQm6mhO9J55wQsIL8EKe6_zaTkAJZ0lFeTqvF3ltUzkOrQDrJfQxGKYhGpdSZd4QsSd7b_nVxByZPhOZRXBQSnQ-7cKnjo7th5dqWqJTTel3PWApmU6CQjq9KVKVI06X7Um9SGvm4JfFdJ2nQU03CMwTFVtn_Da173p0ySHg5kGTcDF-AdlTLgrdKef8CMMuwq81KF2h_Cy3o86y0aW5GOxfOU5hYxgQg0CHsjh0cvIW6y0oD8YYQg21Dp7WgfY0Ph06bjUQge6T63pei7FI54)
 * [Center for French Colonial Studies, Annual Meeting, October 6-8, 2017.&nbsp; Hampton Inn & Suites-Providence Park in Mobile, Alabama.](http://frenchcolonialstudies.org/annual-meeting/)
 * [St. Stephens Celebration!&nbsp; October 7, 2017, St Stephens.](http://www.alabama200.org/participate/events/st-stephens-celebration)

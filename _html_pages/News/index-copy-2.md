@@ -8,6 +8,12 @@ menu_position: 1
 ---
 
 
+11/6/2017:&nbsp; Get ready for South Central Historical Archaeology Conference! The annual meeting will be November 17-19, 2017 at Old Cahawba, which was Alabama’s capital from 1819-1826.
+
+Hotel info: A block of 12 rooms are available at the Holiday Inn Express Hotel & Suites in Selma, located near the junction of Medical Center Parkway and Hwy 80 (West Highland Ave.). A map will be provided at a future date. The room rate is $99 plus tax. Reservation deadline is Thursday, November 2.
+
+Call for papers: Please send paper and poster abstracts to Linda Derry at cahawba@bellsouth.net and Sara Hahn at shahn@coastalenv.com by Monday, November 13.
+
 9/27/2017:&nbsp; The East Alabama Chapter of the Alabama Archaeological Society will be hosting a free Artifact Identification Day at Pioneer Park in Loachapoka, Alabama on October 14th (9am-noon).&nbsp; Come have professional archaeologists evaluate the age and scientific value of your artifacts!&nbsp; Please note that this is not an appraisal service - no evaluation of cash value will be provided.
 
 9/12/2017:&nbsp; Applications for AAS Research Grants and Scholarships are due by October 1st.&nbsp; Have you mailed yours in yet???&nbsp; [For more information, please see our Grants and Scholarships page!](/grants/)

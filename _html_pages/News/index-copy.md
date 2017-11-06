@@ -16,6 +16,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
+* South Central Historical Archaeology Conference Annual Meeting, Old Cahawba Archaeological Park, November 17-19, 2017.&nbsp; Call for papers: Please send paper and poster abstracts to Linda Derry at cahawba@bellsouth.net and Sara Hahn at shahn@coastalenv.com by Monday, November 13.
 * Archaeology at Old St. Stephens - Volunteer Opportunity.&nbsp; Final Dig of 2017 will take place on December 2, 2017 (weather permitting).&nbsp; For more information, or to schedule group tours (12 or more) of the site, please contact George Shorter (gshorter43 - at - gmail.com)
 * 6th Annual Alabama Trust for Historic Preservation, Preservation Roundtable & Luncheon.&nbsp; Alabama Department of Archives and History, January 18, 2018.&nbsp; For more information, please visit:&nbsp; [www.athp.org](www.athp.org)
 

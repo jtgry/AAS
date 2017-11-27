@@ -8,6 +8,10 @@ menu_position: 1
 ---
 
 
+&nbsp;
+
+11/27/2017:&nbsp; Blakely State Park will once again be offering tours of the impressive Bottle Creek Mounds in Baldwin County.&nbsp; On December 2nd and 16th, the Delta Explorer will depart from Lower Bryant Landing and journey up the Tensaw Delta for a guided tour of the site led by Dr. Greg Waselkov.&nbsp; Please call 251-626-0798 for more information.
+
 11/6/2017:&nbsp; Get ready for South Central Historical Archaeology Conference! The annual meeting will be November 17-19, 2017 at Old Cahawba, which was Alabama’s capital from 1819-1826.
 
 Hotel info: A block of 12 rooms are available at the Holiday Inn Express Hotel & Suites in Selma, located near the junction of Medical Center Parkway and Hwy 80 (West Highland Ave.). A map will be provided at a future date. The room rate is $99 plus tax. Reservation deadline is Thursday, November 2.

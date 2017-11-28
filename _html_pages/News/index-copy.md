@@ -22,7 +22,6 @@ menu_position: 2
 
 **Regional and National Archaeology Meetings:**
 
-* [Southeastern Archaeological Conference](http://www.southeasternarchaeology.org/annual-meeting/details/), Annual Meeting: Nov 8-11, 2017, Tulsa, OK.
 * [Society for Historical Archaeology, Annual Meeting](https://sha.org/conferences/): January 4-8, 2018, New Orleans, LA.
 * Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
 

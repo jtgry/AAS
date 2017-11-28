@@ -10,6 +10,8 @@ menu_position: 1
 
 &nbsp;
 
+11/28/2017:&nbsp; SAVE THE DATE!&nbsp; Jacksonville State University has been selected as the site of the 2018 AAS Winter Meeting to be held Jan 19-20, 2018.&nbsp; This year's silent book auction will feature a large selection from Dr. Harry Holstein's personal library - be sure to attend!
+
 11/27/2017:&nbsp; Blakely State Park will once again be offering tours of the impressive Bottle Creek Mounds in Baldwin County.&nbsp; On December 2nd and 16th, the Delta Explorer will depart from Lower Bryant Landing and journey up the Tensaw Delta for a guided tour of the site led by Dr. Greg Waselkov.&nbsp; Please call 251-626-0798 for more information.
 
 11/6/2017:&nbsp; Get ready for South Central Historical Archaeology Conference! The annual meeting will be November 17-19, 2017 at Old Cahawba, which was Alabama’s capital from 1819-1826.

@@ -8,9 +8,9 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 27Nov2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 28Nov2017):**
 
-* **Alabama Archaeological Society, 2018 Winter Meeting** - Date to be determined at next BOD meeting.&nbsp;
+* **Alabama Archaeological Society, 2018 Winter Meeting** - Jacksonville State University, January 19-20, 2018.&nbsp; Reception hosted by the Coosa Valley Chapter to be held Friday night (Jan 19th), with presentations Saturday morning (Jan 20th), followed by site tours in the afternoon.&nbsp; As always, the Winter Meeting will feature a silent book auction, which this year will feature a large selection from the personal library of Dr. Harry Holstein.&nbsp; Be sure to attend!
 
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

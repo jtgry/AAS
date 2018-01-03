@@ -10,7 +10,49 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 28Nov2017):**
 
-* **Alabama Archaeological Society, 2018 Winter Meeting** - Jacksonville State University, January 19-20, 2018.&nbsp; Reception hosted by the Coosa Valley Chapter to be held Friday night (Jan 19th), with presentations Saturday morning (Jan 20th), followed by site tours in the afternoon.&nbsp; As always, the Winter Meeting will feature a silent book auction, which this year will feature a large selection from the personal library of Dr. Harry Holstein.&nbsp; Be sure to attend!
+* **Alabama Archaeological Society, 2018 Winter Meeting Schedule:**
+
+**Jacksonville State University**, **Martin Hall Room 142**
+
+**<u><span style="font-family:&quot;Times New Roman&quot;,serif">FRIDAY JANUARY 19</span></u>**
+
+**19:00 &nbsp; Jacksonville Chapter Meeting**
+
+**35 Years of Archaeological Investigation of Native American Stone Structures in the Southeast**
+
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Harry Holstein**
+
+**<u><span style="font-family:&quot;Times New Roman&quot;,serif"></span></u>**
+
+**<u><span style="font-family:&quot;Times New Roman&quot;,serif">SATURDAY JANUARY 20</span></u>**
+
+**07:30a &nbsp; Registration/Meet & Greet**
+
+**08:30a &nbsp; Welcome to JSU**
+
+**Harry Holstein**
+
+**08:45a &nbsp; Archaeological Investigations at Battelle, DeKalb County, Alabama: Using Readily-Available Remote Sensing Data to Locate an Alabama Ghost Town**
+
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Robert E. Perry**
+
+**09:15a &nbsp; Pottery and Chronology in the Choccolocco Valley**
+
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Robert E. Perry & Van D. King**
+
+**10:30a &nbsp; The Career of Carey B. Oakley**
+
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Matthew M. Grunewald**
+
+**11:00a &nbsp; Board Meeting**
+
+**11:30a &nbsp; Lunch**
+
+**12:30p &nbsp; Business Meeting**
+
+**1:30p &nbsp; Tour of Morton Hill Stone Structure Complex**
+
+**4:00p &nbsp; End**
 
 * *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

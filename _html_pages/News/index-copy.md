@@ -58,7 +58,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* 6th Annual Alabama Trust for Historic Preservation, Preservation Roundtable & Luncheon.&nbsp; Alabama Department of Archives and History, January 12, 2018.&nbsp; For more information, please visit:&nbsp; [www.athp.org](www.athp.org)
+* 6th Annual Alabama Trust for Historic Preservation, Preservation Roundtable & Luncheon.&nbsp; Alabama Department of Archives and History, **January 12, 2018** (PLEASE NOTE CORRECTED DATE!!!).&nbsp; For more information, please visit:&nbsp; [www.athp.org](www.athp.org)
 
 **Regional and National Archaeology Meetings:**
 

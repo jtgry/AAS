@@ -59,6 +59,7 @@ menu_position: 2
 **Upcoming Events around the State:**
 
 * 6th Annual Alabama Trust for Historic Preservation, Preservation Roundtable & Luncheon.&nbsp; Alabama Department of Archives and History, **January 12, 2018** (PLEASE NOTE CORRECTED DATE!!!).&nbsp; For more information, please visit:&nbsp; [www.athp.org](www.athp.org)
+* French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
 **Regional and National Archaeology Meetings:**
 

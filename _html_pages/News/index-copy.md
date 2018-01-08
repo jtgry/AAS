@@ -8,7 +8,7 @@ menu_position: 2
 ---
 
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 28Nov2017):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 8Jan2018):**
 
 * **Alabama Archaeological Society, 2018 Winter Meeting Schedule:**
 

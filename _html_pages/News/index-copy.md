@@ -16,18 +16,8 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 **Upcoming Events around the State:**
 
-* *The Search for Amelia Earhart: Expedition to Nikumaroro****by Dr. Lew Toulmin*, Thursday, January 25, 2018, 6:00 pm
+* *The Search for Amelia Earhart: Expedition to Nikumaroro****by Dr. Lew Toulmin*, University of South Alabama Archaeology Museum, Thursday, January 25, 2018, 6:00 pm
 
-  **Archaeology Museum on University of South Alabama campus**
-
-  Amelia Earhart was the most famous woman in the world between 1928, when she became the first woman to fly across the Atlantic, until her mysterious disappearance in the South Pacific in 1937, while attempting to fly around the world. Over $40 million and tens of thousands of person-days have been spent looking for her and her navigator Fred Noonan, making this the most expensive and extensive private search effort in history. There are three main schools of thought: that Earhart/Noonan ran out of fuel and crashed in 12000 feet of seawater near their destination of remote Howland Island; that they flew over the Marshall Islands and were captured and killed by the Japanese; and that they landed on uninhabited Nikumaroro Island in the Republic of Kiribati, and survived for a time before dying there.
-
-  Lew Toulmin, Ph.D. recently participated in a National Geographic Society-sponsored archaeological expedition to Nikumaroro, searching for the bones of Earhart and Noonan. The expedition used the only historic forensic dog team in the world to identify a site where Earhart may have died. Expedition archaeologists then tried a cutting-edge technique to extract her DNA from the coral, soil and a tree where the dogs alerted.
-
-  Toulmin will discuss Earhart’s life, the three major schools of thought, other unlikely theories, the Nikumaroro expedition, the DNA and other evidence collected over the years, and plans for future efforts. He will also evaluate the recent, highly controversial History Channel program on the case, which hinged on an alleged photo of Earhart in the Marshalls.
-
-  **FREE and OPEN to everyone.**
-  For more information, contact Museum Educator Candice Cravins at 251-460-6106 or [ccravins@southalabama.edu](mailto:ccravins@southalabama.edu)
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
 **Regional and National Archaeology Meetings:**

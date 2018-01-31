@@ -10,6 +10,8 @@ menu_position: 1
 
 &nbsp;
 
+1/31/2018:&nbsp; Have you paid your 2018 dues yet?&nbsp; If not, please see our 'Join' page for details, or send your dues via PayPal to alabamaarchaeology@gmail.com.&nbsp; Please reference your name and any change of address.
+
 11/28/2017:&nbsp; SAVE THE DATE!&nbsp; Jacksonville State University has been selected as the site of the 2018 AAS Winter Meeting to be held Jan 19-20, 2018.&nbsp; This year's silent book auction will feature a large selection from Dr. Harry Holstein's personal library - be sure to attend!
 
 11/27/2017:&nbsp; Blakely State Park will once again be offering tours of the impressive Bottle Creek Mounds in Baldwin County.&nbsp; On December 2nd and 16th, the Delta Explorer will depart from Lower Bryant Landing and journey up the Tensaw Delta for a guided tour of the site led by Dr. Greg Waselkov.&nbsp; Please call 251-626-0798 for more information.

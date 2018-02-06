@@ -8,7 +8,13 @@ menu_position: 1
 ---
 
 
-&nbsp;
+2/6/2018:&nbsp;
+
+BE A BICENTENNIAL SCHOOL APPLICATIONS DUE MARCH 31
+
+Attention Alabama K-12 educators and parents!
+
+Celebrate Alabama's 200th birthday as a Bicentennial School. Encourage your school to apply for a flag and governor's commendation. Schools who engage in a community project are eligible to receive a $2000 grant. Applications are due by March 31, 2018. Contact Erik Haeuser at erik.haeuser@archives.alabama.gov or 334-353-9152 for more information.
 
 1/31/2018:&nbsp; Have you paid your 2018 dues yet?&nbsp; If not, please see our 'Join' page for details, or send your dues via PayPal to alabamaarchaeology@gmail.com.&nbsp; Please reference your name and any change of address.
 

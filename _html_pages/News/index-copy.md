@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 2
 ---
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 22Jan2018):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 15Feb2018):**
 
 AAS 2018 Summer Meeting:&nbsp; TBD
 

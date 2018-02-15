@@ -7,7 +7,6 @@ menu: 'true'
 menu_position: 2
 ---
 
-
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 22Jan2018):**
 
 AAS 2018 Summer Meeting:&nbsp; TBD
@@ -16,7 +15,7 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 **Upcoming Events around the State:**
 
-* *The Search for Amelia Earhart: Expedition to Nikumaroro****by Dr. Lew Toulmin*, University of South Alabama Archaeology Museum, Thursday, January 25, 2018, 6:00 pm
+* Pond Spring Cemetery Restoration Workshop, February 24, 2018, Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
 
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 

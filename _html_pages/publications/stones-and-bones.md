@@ -6,7 +6,7 @@ image_path: /images/cornfield.jpg
 menu: 'false'
 ---
 
-Past issues of the Stones and Bones, the newsletter of the Alabama Archaeological Society are presented below, as are issues of the Birmingham Anthropological Society newsletter - the precursor to what eventually voted to become the Birmingham Chapter of the Alabama Archaeological Society.&nbsp;
+Past issues of the Stones and Bones, the newsletter of the Alabama Archaeological Society are presented below, as are issues of the Birmingham Anthropological Society newsletter - the precursor to what eventually became the Birmingham Chapter of the Alabama Archaeological Society.&nbsp;
 
 Please note that these documents should be considered historical artifacts of the time in which they were produced, and they reflect the evolving nature of the society over time - as well as changing attitudes towards Native Americans and archaeological resources.&nbsp; The early issues of the Stones and Bones do not necessarily reflect the current views of the Alabama Archaeological Society, nor its Board of Directors.
 
@@ -29,12 +29,19 @@ Please note that these documents should be considered historical artifacts of th
 * [BAS, Vol. 2, No. 6, June 1957](/uploads/BAS Vol. 2, No. 6, Jun. 1957.pdf)
 * [BAS, Vol. 2, No. 7, July 1957](/uploads/BAS Vol. 2, No. 7, Jul 1957.pdf)
 * [BAS, Vol. 2, Nos. 8-12, Aug-Dec 1957](/uploads/BAS Vol. 2, Nos. 8-12, Aug.-Dec. 1957.pdf)
-* &nbsp;
+* BAS, Vol. 3, No. 1, Jan 1958
+* BAS, Vol. 3, No. 2, Feb 1958
+* BAS, Vol. 3, No. 3, Mar 1958
+* BAS, Vol. 3, No. 4, April 1958
+* BAS, Vol. 3, No. 5, May 1958
+* BAS, Vol. 3, No. 6, June 1958
+* BAS, Vol. 3, No. 7, July 1958
+* BAS, Vol. 3, No. 8, Aug 1958
+* BAS, Vol. 3, No. 9, Sept 1958
+* BAS, Vol. 3, No. 10, Oct 1958
+* BAS, Vol. 3, No. 11, Nov 1958
+* BAS, Vol. 3, No. 12, Nov 1958
 
-Stones and Bones
-
-&nbsp;
+**Stones and Bones (1959-2017)**
 
 ---
-
-&nbsp;

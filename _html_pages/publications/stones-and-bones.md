@@ -8,7 +8,7 @@ menu: 'false'
 
 Past issues of the Stones and Bones, the newsletter of the Alabama Archaeological Society are presented below, as are issues of the Birmingham Anthropological Society newsletter - the precursor to what eventually voted to become the Birmingham Chapter of the Alabama Archaeological Society.&nbsp;
 
-Please note that these documents are historical artifacts of the time in which they were produced, and they reflect the evolving nature of the society over time - as well as changing attitudes towards Native Americans and archaeological resources.&nbsp; Past issues of the Stones and Bones do not necessarily reflect the current views of the Alabama Archaeological Society, nor its Board of Directors.
+Please note that these documents should be considered historical artifacts of the time in which they were produced, and they reflect the evolving nature of the society over time - as well as changing attitudes towards Native Americans and archaeological resources.&nbsp; The early issues of the Stones and Bones do not necessarily reflect the current views of the Alabama Archaeological Society, nor its Board of Directors.
 
 **Birmingham Anthropological Society Newsletters (1956-1958):**
 
@@ -21,7 +21,9 @@ Please note that these documents are historical artifacts of the time in which t
 * [BAS Vol. 1, No. 10, Oct. 1956](/uploads/BAS Vol. 1, No. 10, Oct. 1956.pdf)
 * [BAS, Vol. 1, No. 11, Nov. 1956](/uploads/BAS Vol. 1, No. 11, Nov. 1956.pdf)
 * [BAS, Vol. 1, No. 12, Nov. 1956](/uploads/BAS Vol. 1, No. 12, Dec. 1956.pdf)
-* &nbsp;
+* BAS, Vol. 2, No. 1, Jan 1957
+* BAS, Vol. 2, No. 2, Feb 1957
+* BAS, Vol. 2, No. 3, Mar 1957
 
 Stones and Bones
 

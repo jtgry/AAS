@@ -31,18 +31,16 @@ Please note that these documents should be considered historical artifacts of th
 * [BAS, Vol. 2, No. 6, June 1957](/uploads/BAS Vol. 2, No. 6, Jun. 1957.pdf)
 * [BAS, Vol. 2, No. 7, July 1957](/uploads/BAS Vol. 2, No. 7, Jul 1957.pdf)
 * [BAS, Vol. 2, Nos. 8-12, Aug-Dec 1957](/uploads/BAS Vol. 2, Nos. 8-12, Aug.-Dec. 1957.pdf)
-* BAS, Vol. 3, No. 1, Jan 1958
-* BAS, Vol. 3, No. 2, Feb 1958
-* BAS, Vol. 3, No. 3, Mar 1958
-* BAS, Vol. 3, No. 4, April 1958
-* BAS, Vol. 3, No. 5, May 1958
-* BAS, Vol. 3, No. 6, June 1958
-* BAS, Vol. 3, No. 7, July 1958
-* BAS, Vol. 3, No. 8, Aug 1958
-* BAS, Vol. 3, No. 9, Sept 1958
-* BAS, Vol. 3, No. 10, Oct 1958
-* BAS, Vol. 3, No. 11, Nov 1958
-* BAS, Vol. 3, No. 12, Nov 1958
+* [BAS, Vol. 3, No. 1, Jan 1958](/uploads/BAS Vol. 3, No. 1, Jan. 1958.pdf)
+* [BAS, Vol. 3, No. 3, March 1958](/uploads/BAS Vol. 3, No. 3, Mar. 1962.pdf)
+* [BAS, Vol. 3, No. 4, April 1958](/uploads/BAS Vol. 3, No. 4, 1958.pdf)
+* [BAS, Vol. 3, No. 5, May 1958](/uploads/BAS Vol. 3, No. 5 Sp., May 1958.pdf)
+* [BAS, Vol. 3, No. 6, June 1958](/uploads/BAS Vol. 3, No. 6, June 1958.pdf)
+* [BAS, Vol. 3, No. 8, Aug 1958](/uploads/BAS Vol. 3, No. 8, Aug. 1958.pdf)
+* [BAS, Vol. 3, No. 9, Sept 1958](/uploads/BAS Vol. 3, No. 9, Sep. 1958.pdf)
+* [BAS, Vol. 3, No. 10, Oct 1958](/uploads/BAS Vol. 3, No. 10, Oct. 1958.pdf)
+* [BAS, Vol. 3, No. 11, Nov 1958](/uploads/BAS Vol. 3, No. 11, Nov. 1958.pdf)
+* [BAS, Vol. 3, No. 12, Nov 1958](/uploads/BAS Vol. 3, No. 12, Dec. 1958.pdf)
 
 **Stones and Bones (1959-2017)**
 

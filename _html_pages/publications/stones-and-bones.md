@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stones and Bones Newsletter
-permalink: /newpage/
+permalink: /stones_bones/
 image_path: /images/cornfield.jpg
 menu: 'false'
 ---

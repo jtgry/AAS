@@ -9,6 +9,8 @@ menu_position: 1
 
 &nbsp;
 
+3/6/2018:&nbsp; [We are currently in the process of uploading and building links to past issues of the Stones & Bones newsletter, as well as its predecessor, the newsletter of the Birmingham Anthropological Society.&nbsp; This great historical resource will allow members to follow the evolution of the society over time.&nbsp; If you would like to follow our progress as we add issues, you may view it by clicking this news item.](/stones_bones/)
+
 3/6/2018:&nbsp; [Alabama Historical Commission confirms Twelvemile Island Wreck is not the Clotilda.&nbsp; Read more here.](http://ahc.alabama.gov/news_detail.aspx?ID=12707)
 
 2/6/2018:&nbsp;

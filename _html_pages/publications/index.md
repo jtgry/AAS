@@ -7,10 +7,13 @@ menu: 'true'
 menu_position: 6
 ---
 
-
 #### Alabama Archaeological Society Publications
 
-AAS members receive six issues of the *Stones & Bones* newsletter throughout the year and the Journal of Alabama Archaeology. You can read a brief history of the journal and its current status here. About the [Journal of Alabama Archaeology](/journal/)
+AAS members receive six issues of the *Stones & Bones* newsletter throughout the year and the Journal of Alabama Archaeology.
+
+[Past issues of the *Stones & Bones* newsletter are available here.](/newpage/)
+
+You can read a brief history of the journal and its current status here. About the [Journal of Alabama Archaeology](/journal/)
 
 To receive upcoming issues of the journal and the newsletter, [Join AAS](/support/)
 

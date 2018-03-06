@@ -6,7 +6,7 @@ image_path: /images/cornfield.jpg
 menu: 'false'
 ---
 
-**WEB EDITOR'S NOTE:&nbsp;**** This page is currently under construction, but has been put online as a resource to members. Please be patient as links are constructed.&nbsp; As of 6March2018, all available issues of the BAS newsletter on now online.&nbsp;**
+**WEB EDITOR'S NOTE:&nbsp;**** This page is currently under construction, but has been put online as a resource to members. Please be patient as links are constructed.&nbsp; Eventually, links will be consolidated and the appearance of the page improved. As of 6March2018, all available issues of the BAS newsletter on now online.&nbsp;**
 
 Past issues of the *Stones and Bones*, the newsletter of the Alabama Archaeological Society are presented below, as are issues of the Birmingham Anthropological Society newsletter - the precursor to what eventually became the Birmingham Chapter of the Alabama Archaeological Society.&nbsp;
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stones and Bones
+title: Stones and Bones Newsletter
 permalink: /newpage/
 image_path: /images/cornfield.jpg
 menu: 'false'

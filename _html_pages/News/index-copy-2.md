@@ -7,6 +7,9 @@ menu: 'true'
 menu_position: 1
 ---
 
+&nbsp;
+
+3/6/2018:&nbsp; [Alabama Historical Commission confirms Twelvemile Island Wreck is not the Clotilda.&nbsp; Read more here.](http://ahc.alabama.gov/news_detail.aspx?ID=12707)
 
 2/6/2018:&nbsp;
 

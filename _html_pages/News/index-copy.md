@@ -17,6 +17,8 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 * Pond Spring Cemetery Restoration Workshop, April 7, 2018 (rain date), Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
 
+* [Civil War Trust Cleanup of Historic Sites: Belle Mont Mansion, Brierfield Ironworks State Historic Site, Fort Gaines, and Fort Morgan.&nbsp; April 7, 2018.](https://www.civilwar.org/events/park-day)
+
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
 **Regional and National Archaeology Meetings:**

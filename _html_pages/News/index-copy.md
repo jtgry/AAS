@@ -38,8 +38,11 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 **Regional and National Archaeology Meetings:**
 
 * [American Paleopathology Association, Annual Meeting, April 9-11, 2018, Austin, TX.](https://paleopathology-association.wildapricot.org/page-18191)
+
 * [Society for American Archaeology, Annual Meeting:&nbsp; April 11-15, 2018, Washington D.C.](http://www.saa.org)
+
 * [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
+
 * [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)
 
 * [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)[Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)

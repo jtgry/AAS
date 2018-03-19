@@ -25,6 +25,8 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 
 * [Civil War Trust Cleanup of Historic Sites: Belle Mont Mansion, Brierfield Ironworks State Historic Site, Fort Gaines, and Fort Morgan.&nbsp; April 7, 2018.](https://www.civilwar.org/events/park-day)
 
+* [Civil War Walking Tour, Old Cahawba Archaeological Park, April 7, 2018.](https://alabama.travel/upcoming-events/civil-war-walking-tour-of-old-cahawba-4)
+
 * [Alabama Historical Association, Annual Meeting, April 12-14, 2018, Birmingham.](https://www.alabamahistory.net/meetings)
 
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.

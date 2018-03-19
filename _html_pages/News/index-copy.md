@@ -11,6 +11,8 @@ menu_position: 2
 
 AAS 2018 Summer Meeting:&nbsp; TBD
 
+AAS Board of Director's Meeting, March 26, 2018, Clanton.
+
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**

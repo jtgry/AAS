@@ -17,6 +17,8 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 
 **Upcoming Events around the State:**
 
+* [Alabama, the Southeast, and Beyond: A Tour of Archaeological Sites Preserved by the Archaeological Conservancy.&nbsp; Lecture by Jessica Crawford, Southeast Regional Director for the Archaeological Conservancy.&nbsp; University of South Alabama Archaeological Museum, April 5, 2018, 6pm.](https://www.southalabama.edu/org/archaeology/museum/)
+
 * Pond Spring Cemetery Restoration Workshop, April 7, 2018 (rain date), Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
 
 * [Civil War Trust Cleanup of Historic Sites: Belle Mont Mansion, Brierfield Ironworks State Historic Site, Fort Gaines, and Fort Morgan.&nbsp; April 7, 2018.](https://www.civilwar.org/events/park-day)
@@ -38,11 +40,15 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 
 * [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
 
-* [](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.nps.gov_mwac_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=PeKs0s2BFddTdK04ulMw8_m1mGUXoFuBPqZj_HTqB4s&amp;s=vRvTyGtQMLEmgohatKPXdD48LJUdKYkQnFnXV-UQE0o&amp;e=)
+* [](https://urldefense.proofpoint.com/v2/url?u=http-3A\_\_www.nps.gov\_mwac\_&d=DwMFaQ&c=8K0mnSt5E4j4U\_dMGxZxbA&r=qN0bNPR5gR9c\_\_qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&m=PeKs0s2BFddTdK04ulMw8\_m1mGUXoFuBPqZj\_HTqB4s&s=vRvTyGtQMLEmgohatKPXdD48LJUdKYkQnFnXV-UQE0o&e=)
 
-  <u5:p></u5:p>[](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sia-2Dweb.org_sia-2D47th-2Dannual-2Dconference_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=PeKs0s2BFddTdK04ulMw8_m1mGUXoFuBPqZj_HTqB4s&amp;s=V2qEZPHoDzSf-x_mbKOvryGjkuXiIKufeDbzcvT58f0&amp;e=)
+  <u5:p></u5:p>
 
-  <u5:p></u5:p>[Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
+  [](https://urldefense.proofpoint.com/v2/url?u=http-3A\_\_www.sia-2Dweb.org\_sia-2D47th-2Dannual-2Dconference\_&d=DwMFaQ&c=8K0mnSt5E4j4U\_dMGxZxbA&r=qN0bNPR5gR9c\_\_qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&m=PeKs0s2BFddTdK04ulMw8\_m1mGUXoFuBPqZj\_HTqB4s&s=V2qEZPHoDzSf-x\_mbKOvryGjkuXiIKufeDbzcvT58f0&e=)
+
+  <u5:p></u5:p>
+
+  [Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
 
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)
 

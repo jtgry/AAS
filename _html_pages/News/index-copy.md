@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 2
 ---
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 15Feb2018):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 19March2018):**
 
 AAS 2018 Summer Meeting:&nbsp; TBD
 
@@ -15,14 +15,26 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 **Upcoming Events around the State:**
 
-* Pond Spring Cemetery Restoration Workshop, February 24, 2018, Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
+* Pond Spring Cemetery Restoration Workshop, April 7, 2018 (rain date), Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
 
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
 **Regional and National Archaeology Meetings:**
 
+* [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)
+
 * [Society for American Archaeology, Annual Meeting:&nbsp; April 11-15, 2018, Washington D.C.](http://www.saa.org)
 * Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
+* [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)
+
+* [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
+
+* [](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.nps.gov_mwac_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=PeKs0s2BFddTdK04ulMw8_m1mGUXoFuBPqZj_HTqB4s&amp;s=vRvTyGtQMLEmgohatKPXdD48LJUdKYkQnFnXV-UQE0o&amp;e=)
+
+  <u5:p></u5:p>[](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sia-2Dweb.org_sia-2D47th-2Dannual-2Dconference_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=PeKs0s2BFddTdK04ulMw8_m1mGUXoFuBPqZj_HTqB4s&amp;s=V2qEZPHoDzSf-x_mbKOvryGjkuXiIKufeDbzcvT58f0&amp;e=)
+
+  <u5:p></u5:p>
+
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)
 
 To submit events for inclusion on this page, please contact the **[Web Editor](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109))).&nbsp;**To be eligible for consideration, events must be directly related to Alabama archaeology and/or history, or of regional archaeological interest.

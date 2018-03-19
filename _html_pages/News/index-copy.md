@@ -42,17 +42,7 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 * [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
 * [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)
 
-* [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
-
-* [](https://urldefense.proofpoint.com/v2/url?u=http-3A\_\_www.nps.gov\_mwac\_&d=DwMFaQ&c=8K0mnSt5E4j4U\_dMGxZxbA&r=qN0bNPR5gR9c\_\_qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&m=PeKs0s2BFddTdK04ulMw8\_m1mGUXoFuBPqZj\_HTqB4s&s=vRvTyGtQMLEmgohatKPXdD48LJUdKYkQnFnXV-UQE0o&e=)
-
-  <u5:p></u5:p>
-
-  [](https://urldefense.proofpoint.com/v2/url?u=http-3A\_\_www.sia-2Dweb.org\_sia-2D47th-2Dannual-2Dconference\_&d=DwMFaQ&c=8K0mnSt5E4j4U\_dMGxZxbA&r=qN0bNPR5gR9c\_\_qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&m=PeKs0s2BFddTdK04ulMw8\_m1mGUXoFuBPqZj\_HTqB4s&s=V2qEZPHoDzSf-x\_mbKOvryGjkuXiIKufeDbzcvT58f0&e=)
-
-  <u5:p></u5:p>
-
-  [Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
+* [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)[Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
 
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)
 

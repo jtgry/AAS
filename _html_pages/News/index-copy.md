@@ -21,12 +21,13 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
+* Frontier Days, November 7-10, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
+
 **Regional and National Archaeology Meetings:**
 
-* [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)
-
+* [American Paleopathology Association, Annual Meeting, April 9-11, 2018, Austin, TX.](https://paleopathology-association.wildapricot.org/page-18191)
 * [Society for American Archaeology, Annual Meeting:&nbsp; April 11-15, 2018, Washington D.C.](http://www.saa.org)
-* Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
+* [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
 * [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)
 
 * [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
@@ -35,7 +36,7 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
   <u5:p></u5:p>[](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sia-2Dweb.org_sia-2D47th-2Dannual-2Dconference_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=PeKs0s2BFddTdK04ulMw8_m1mGUXoFuBPqZj_HTqB4s&amp;s=V2qEZPHoDzSf-x_mbKOvryGjkuXiIKufeDbzcvT58f0&amp;e=)
 
-  <u5:p></u5:p>
+  <u5:p></u5:p>[Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
 
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)
 

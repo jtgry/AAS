@@ -19,7 +19,11 @@ AAS 2018 Summer Meeting:&nbsp; TBD
 
 * [Civil War Trust Cleanup of Historic Sites: Belle Mont Mansion, Brierfield Ironworks State Historic Site, Fort Gaines, and Fort Morgan.&nbsp; April 7, 2018.](https://www.civilwar.org/events/park-day)
 
+* [Alabama Historical Association, Annual Meeting, April 12-14, 2018, Birmingham.](https://www.alabamahistory.net/meetings)
+
 * French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
+
+* [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
 
 * Frontier Days, November 7-10, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 

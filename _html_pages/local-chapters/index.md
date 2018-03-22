@@ -7,14 +7,13 @@ menu: 'true'
 menu_position: 7
 ---
 
-
 Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
 
 ![](/uploads/versions/revised-local-chapters---x68-0-3863-5500-2625-3737x---.jpg)
 
 ### Birmingham
 
-Currently in the process of reforming, the Birmingham Chapter will resume monthly meetings beginning in the Fall of 2017.&nbsp; More details will be posted as they become available.
+Currently in the process of reforming, the Birmingham Chapter will resume monthly meetings in the near future.&nbsp; More details will be posted as they become available.
 
 ### Coosa Valley
 
@@ -46,6 +45,6 @@ Meetings are held twice Monthly contact Jason Mann [jmann@troy.edu](javascript:v
 
 ### Tuscaloosa
 
-Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.&nbsp; Contact Lindsey Gordon [fgordon@ua.edu](javascript:void(location.href='mailto:'+String.fromCharCode(102,103,111,114,100,111,110,64,117,97,46,101,100,117)))
+Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.&nbsp; Contact [Clay Nelson](javascript:void(location.href='mailto:'+String.fromCharCode(116,99,110,101,108,115,111,110,64,99,114,105,109,115,111,110,46,117,97,46,101,100,117)+'?subject=AAS%20Tuscaloosa%20Chapter%20question')).
 
 Interested in starting your own local chapter?&nbsp; Please contact our [President for more details](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109))).

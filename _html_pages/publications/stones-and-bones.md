@@ -45,7 +45,11 @@ Please note that these documents should be considered historical artifacts of th
 ## **Stones and Bones (1959-2017)**
 
 * [Vol. 1, No. 1, Jan 1959](/uploads/Vol. 1, No. 1, Jan. 1959.pdf)
+* Vol. 1, No. 2, February 1959 (missing)
+* Vol. 1, No. 3, March 1959 (missing)
 * [Vol. 1., No. 4, April 1959](/uploads/Vol. 1, No. 4, Apr. 1959.pdf)
+* Vol. 1, No. 5, May 1959 (missing)
+* Vol. 1, No. 6, June 1959 (missing)
 * [Vol. 1, No. 7, July 1959](/uploads/Vol. 1, No. 7, Jul. 1959.pdf)
 * [Vol. 1, No. 8, Aug 1959](/uploads/Vol. 1, No. 8, Aug. 1959.pdf)
 * [Vol. 1, No. 9, Sept 1959](/uploads/Vol. 1, No. 9, Sep. 1959.pdf)

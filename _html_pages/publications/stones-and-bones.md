@@ -42,7 +42,7 @@ Please note that these documents should be considered historical artifacts of th
 * [BAS, Vol. 3, No. 11, Nov 1958](/uploads/BAS Vol. 3, No. 11, Nov. 1958.pdf)
 * [BAS, Vol. 3, No. 12, Nov 1958](/uploads/BAS Vol. 3, No. 12, Dec. 1958.pdf)
 
-## **Stones and Bones (1959-2017)**
+## **Stones and Bones (1959-2017) - CURRENTLY UNDER CONSTRUCTION**
 
 * [Vol. 1, No. 1, Jan 1959](/uploads/Vol. 1, No. 1, Jan. 1959.pdf)
 * Vol. 1, No. 2, February 1959 (missing)

@@ -17,6 +17,8 @@ AAS Board of Director's Meeting, March 26, 2018, Clanton.
 
 **Upcoming Events around the State:**
 
+* Public Archaeology Dig at the Douglass Hotel, Old St. Stephens, March 24, 2018.&nbsp; Contact George Shorter (gshorter43 - at - gmail dot com) for more information.
+
 * [204th Anniversary of the Battle of Horseshoe Bend, Horseshoe Bend National Military Park, March 24, 2018.](https://www.nps.gov/hobe/index.htm)
 
 * [Alabama, the Southeast, and Beyond: A Tour of Archaeological Sites Preserved by the Archaeological Conservancy.&nbsp; Lecture by Jessica Crawford, Southeast Regional Director for the Archaeological Conservancy.&nbsp; University of South Alabama Archaeological Museum, April 5, 2018, 6pm.](https://www.southalabama.edu/org/archaeology/museum/)

@@ -69,16 +69,14 @@ Please note that these documents should be considered historical artifacts of th
 * Vol. 2, No. 11, Nov 1960 (missing)
 * Vol. 2, no. 12, Dec 1960 (missing)
 * [Vol. 3, No. 1, Jan 1961](/uploads/Past_Newsletters/Vol. 3, No. 1, Jan. 1962.pdf)
-* Vol. 3, No. 2, Feb 1961
-* Vol. 3, No. 3, Mar 1961
-* Vol. 3, No. 4, April 1961
-* Vol. 3, No. 5, May 1961
-* Vol. 3, No. 6, June 1961
-* Vol. 3, No. 7, July 1961
-* Vol. 3, No. 8, Aug 1961
-* Vol. 3, No. 9, Sept 1961
-* Vol. 3, No. 10, Oct 1961
-* Vol. 3, No. 11, Nov 1961
-* Vol. 3, No. 12, Nov 1961
+* [Vol. 3, No. 2, Feb 1961](/uploads/Vol. 3, No. 2, Feb. 1961.pdf)
+* [Vol. 3, No. 3, Mar 1961](/uploads/Vol. 3, No. 3 Sp., Mar, 1961.pdf)
+* [Vol. 3, No. 4, April 1961](/uploads/Vol. 3, No. 4, Apr. 1961.pdf)
+* [Vol. 3, No. 5, May 1961](/uploads/Vol. 3, No. 5, May 1961.pdf)
+* [Vol. 3, No. 6, June 1961](/uploads/Vol. 3, No. 6, Jun. 1961.pdf)
+* [Vol. 3, No. 7, July 1961](/uploads/Vol. 3, No. 7, Jul. 1961.pdf)
+* [Vol. 3, Nos. 8 & 9, Aug-Sept 1961](/uploads/Vol. 3, Nos. 8-9, Aug.-Sep. 1961.pdf)
+* [Vol. 3, No. 10 & 11, Oct-Nov 1961](/uploads/Vol. 3, Nos. 10-11, Oct.-Nov. 1961.pdf)
+* [Vol. 3, No. 12, Nov 1961](/uploads/Vol. 3, No. 12, Dec. 1961.pdf)
 
 ---

@@ -68,5 +68,17 @@ Please note that these documents should be considered historical artifacts of th
 * [Vol. 2, No. 10, Oct 1960](/uploads/Vol. 2, No. 10, Oct. 1960.pdf)
 * Vol. 2, No. 11, Nov 1960 (missing)
 * Vol. 2, no. 12, Dec 1960 (missing)
+* [Vol. 3, No. 1, Jan 1961](/uploads/Past_Newsletters/Vol. 3, No. 1, Jan. 1962.pdf)
+* Vol. 3, No. 2, Feb 1961
+* Vol. 3, No. 3, Mar 1961
+* Vol. 3, No. 4, April 1961
+* Vol. 3, No. 5, May 1961
+* Vol. 3, No. 6, June 1961
+* Vol. 3, No. 7, July 1961
+* Vol. 3, No. 8, Aug 1961
+* Vol. 3, No. 9, Sept 1961
+* Vol. 3, No. 10, Oct 1961
+* Vol. 3, No. 11, Nov 1961
+* Vol. 3, No. 12, Nov 1961
 
 ---

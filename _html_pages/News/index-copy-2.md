@@ -7,6 +7,8 @@ menu: 'true'
 menu_position: 1
 ---
 
+4/2/2018:&nbsp; The East Alabama Chapter of the Alabama Archaeological Society has moved their next meeting to 2:30pm, April 8, 2018 (Sunday), in conjunction with the Lee County Historical Society.&nbsp; Come out and hear Hamilton Bryant (Wiregrass Archaeological Consultants) speak about recent excavations at a rock shelter near Auburn.&nbsp; Meeting will be held at the Lee County Museum in Loachapoka.
+
 3/22/2018:&nbsp; This is short notice, but the first dig of the season will be held at St. Stephens this weekend (3/24).&nbsp; George Shorter will be continuing excavations at the Douglass Hotel, the location where Alabama's territorial legislature first met.&nbsp; George advises that the hotel dig site is not suitable for small children or those that have difficultly with rough terrain.&nbsp; Please contact George for more information:&nbsp; gshorter43 - at - gmail.com or call 251-709-7369.
 
 3/6/2018:&nbsp; [We are currently in the process of uploading and building links to past issues of the Stones & Bones newsletter, as well as its predecessor, the newsletter of the Birmingham Anthropological Society.&nbsp; This great historical resource will allow members to follow the evolution of the society over time.&nbsp; If you would like to follow our progress as we add issues, you may view it by clicking this news item.](/stones_bones/)

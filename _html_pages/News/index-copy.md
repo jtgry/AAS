@@ -9,7 +9,7 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED April 2, 2018):**
 
-**AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Jacksonville State University.&nbsp; More details soon!
+**AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University.&nbsp; More details soon!
 
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

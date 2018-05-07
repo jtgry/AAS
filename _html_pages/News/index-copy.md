@@ -9,7 +9,9 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED April 2, 2018):**
 
-**AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University.&nbsp; More details soon!
+**AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University.&nbsp;
+
+*From Dr. Holstein*:&nbsp; Our tentative AAS Summer meeting plan is to meet on site by 8:30 AM - when I will give a site tour and history before folks who want to excavate the site can get sweaty and dirty – until about noon. Lunch - served on-site - will consist of delicious hamburgers, hot dogs, sausages, and potluck picnic food etc.<br>Following this modern-day feasting ritual AAS members can attend the board meeting and/or relax and chat by the creek until 1:30. After lunch break, there will be a tour of the Choccolocco Creek historic archaeological trail & reconstruc-ted stone mound and earthen temple mound in the Choccolocco Sports Complex Park in Oxford, Alabama (approximately 10 miles south of Bains Gap site).<br>The Sports complex is situated upon one of the largest and most complex sites in Northeast Alaba-ma, the Davis Farm Complex. Wehope to conduct a tour and present the interesting history of the Davis Farm plantation site and the numerous excavations con-ducted by JSU, Perry and Associates & others at this impor-tant location. Remember, you can primitive camp on Friday night or Saturday night at site. Students and campers have reeled in over the years some good size fish for the campsite. Hope to see many of you this summer at Bains Gap!!
 
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

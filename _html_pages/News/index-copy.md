@@ -27,10 +27,6 @@ menu_position: 2
 
 **Regional and National Archaeology Meetings:**
 
-* [American Paleopathology Association, Annual Meeting, April 9-11, 2018, Austin, TX.](https://paleopathology-association.wildapricot.org/page-18191)
-
-* [Society for American Archaeology, Annual Meeting:&nbsp; April 11-15, 2018, Washington D.C.](http://www.saa.org)
-
 * [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
 
 * [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)

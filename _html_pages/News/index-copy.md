@@ -15,17 +15,7 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* [Alabama, the Southeast, and Beyond: A Tour of Archaeological Sites Preserved by the Archaeological Conservancy.&nbsp; Lecture by Jessica Crawford, Southeast Regional Director for the Archaeological Conservancy.&nbsp; University of South Alabama Archaeological Museum, April 5, 2018, 6pm.](https://www.southalabama.edu/org/archaeology/museum/)
-
-* Pond Spring Cemetery Restoration Workshop, April 7, 2018 (rain date), Pond Spring: The General Joe Wheeler Home, Hillsboro, AL.&nbsp; Registration Required - more information available at: [ahc.alabama.gov](ahc.alabama.gov)
-
-* [Civil War Trust Cleanup of Historic Sites: Belle Mont Mansion, Brierfield Ironworks State Historic Site, Fort Gaines, and Fort Morgan.&nbsp; April 7, 2018.](https://www.civilwar.org/events/park-day)
-
-* [Civil War Walking Tour, Old Cahawba Archaeological Park, April 7, 2018.](https://alabama.travel/upcoming-events/civil-war-walking-tour-of-old-cahawba-4)
-
-* [Alabama Historical Association, Annual Meeting, April 12-14, 2018, Birmingham.](https://www.alabamahistory.net/meetings)
-
-* French and Indian War Encampment, April 21-22, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
+* Learning Lunch, The History Museum of Mobile:&nbsp; Join Dr. Ashley Dumas for a presentation about Fort Tombecbe's role in Alabama's Colonial history.&nbsp; Wednesday, May 9th at noon.&nbsp; Admission is free - for more information, please contact the museum at 251-301-0270.&nbsp;
 
 * [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
 

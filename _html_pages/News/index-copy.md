@@ -13,6 +13,16 @@ menu_position: 2
 
 *From Dr. Holstein*:&nbsp; Our tentative AAS Summer meeting plan is to meet on site by 8:30 AM - when I will give a site tour and history before folks who want to excavate the site can get sweaty and dirty – until about noon. Lunch - served on-site - will consist of delicious hamburgers, hot dogs, sausages, and potluck picnic food etc.<br>Following this modern-day feasting ritual AAS members can attend the board meeting and/or relax and chat by the creek until 1:30. After lunch break, there will be a tour of the Choccolocco Creek historic archaeological trail & reconstructed stone mound and earthen temple mound in the Choccolocco Sports Complex Park in Oxford, Alabama (approximately 10 miles south of Bains Gap site).<br>The Sports complex is situated upon one of the largest and most complex sites in Northeast Alabama, the Davis Farm Complex. We hope to conduct a tour and present the interesting history of the Davis Farm plantation site and the numerous excavations conducted by JSU, Perry and Associates & others at this important location. Remember, you can primitive camp on Friday night or Saturday night at site. Students and campers have reeled in over the years some good size fish for the campsite. Hope to see many of you this summer at Bains Gap!!
 
+***&nbsp;Directions to the Bains Gap Site:***
+
+From Anniston, Exit I-20 at Golden Springs / Anniston East By-Pass Exit. Go North on By-Pass to 2nd Traffic Light (Choccolocco Road). Take Right onto Choccolocco Road stay on Choccolocco Road for several miles until you pass subdivision Mountainview Estates on left then look for next house black mail box on Right (8614 Choccolocco Road). Follow driveway / rough field road through one field gate down towards Choccolocco Creek tree line. &nbsp;Pass some abandoned cars on left then continure out into open field and down a gentle slope to Choccolocco tree line and Site!!
+
+&nbsp;If you pass on Choccolocco Road a Red Brick County Church on Left and Cemetery on Right you have gone TOO FAR turn around. Site access Driveway just a few houses back on left.
+
+From Jacksonville: Take Rabbittown Road over White’s Gap to Alabama Highway 9, Take Al 9 south to Chocolocco Road. Veer off right onto Choccolocco Road go pass Bain’s Gap Road. Less than one mile pass Bain’s Gap will pass a Country Church on right and cemetery on left then several houses on left. Take last house gravel driveway on left (8614 Choccoloco Road, black mailbox). Follow rough field road through one or two agricultural field gates down towards Choccolocco Creek tree line. As you approach a clump of trees (Straight ahead) veer slightly off to left. Pass dog pens and structures in trees on right then veer more to left into field and down gentle slope to Choocolocco Creek tree line.
+
+Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
+
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**

@@ -21,7 +21,7 @@ From Anniston, Exit I-20 at Golden Springs / Anniston East By-Pass Exit. Go Nort
 
 From Jacksonville: Take Rabbittown Road over White’s Gap to Alabama Highway 9, Take Al 9 south to Chocolocco Road. Veer off right onto Choccolocco Road go pass Bain’s Gap Road. Less than one mile pass Bain’s Gap will pass a Country Church on right and cemetery on left then several houses on left. Take last house gravel driveway on left (8614 Choccoloco Road, black mailbox). Follow rough field road through one or two agricultural field gates down towards Choccolocco Creek tree line. As you approach a clump of trees (Straight ahead) veer slightly off to left. Pass dog pens and structures in trees on right then veer more to left into field and down gentle slope to Choocolocco Creek tree line.
 
-Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
+Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!![](/uploads/primitive-camp-site-bains-gap-site-1-1.JPG)
 
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

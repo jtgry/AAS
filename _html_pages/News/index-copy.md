@@ -27,8 +27,6 @@ Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
 
 **Upcoming Events around the State:**
 
-* Learning Lunch, The History Museum of Mobile:&nbsp; Join Dr. Ashley Dumas for a presentation about Fort Tombecbe's role in Alabama's Colonial history.&nbsp; Wednesday, May 9th at noon.&nbsp; Admission is free - for more information, please contact the museum at 251-301-0270.&nbsp;
-
 * History Museum of Mobile: Jack Friend Lecture of 2018 featuring John Sledge, Thursday, May 31, 2018 at 6:30pm.&nbsp; Mr. Sledge will share stories from his new book, These Rugged Days: Alabama in the Civil War, a long overdue and riveting narrative of Alabama's wartime saga.
 
 * [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
@@ -37,11 +35,11 @@ Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
 
 **Regional and National Archaeology Meetings:**
 
-* [South Carolina Historic Preservation Conference, April 20, 2018, SC Archives & History, Columbia, SC.](http://shpo.sc.gov/events/Pages/presconf.aspx)Florida Anthropological Association Meeting: May 11-13, 2018, St Petersburg, FL.
+* [Society for Industrial Archaeology, 47th Annual Conference, May 30-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
 
-* [Workshop on Archaeological Prospection Techniques, May 21-25, 2018, Marksville State Historic Site, Avoyelies Parish, LA](http://www.nps.gov/mwac/)
+* [FORUM 2018: A Preservation Caucus, Demoines, IA, July 18-22, 2018.](https://urldefense.proofpoint.com/v2/url?u=https-3A__napcommissions.org_forum_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=5PnTiEy1JAq1V8zZH8Wrr_SeOICi1pvi-6KbmDAOEes&amp;s=7AlqIv3_JJHzT1qtCu96YXhVEzLHQss5o1A-CTVZuOE&amp;e=)
 
-* [Society for Industrial Archaeology, 47th Annual Conference, May 3-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)[Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
+* [Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
 
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)
 

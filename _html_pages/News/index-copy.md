@@ -29,6 +29,8 @@ Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
 
 * History Museum of Mobile: Jack Friend Lecture of 2018 featuring John Sledge, Thursday, May 31, 2018 at 6:30pm.&nbsp; Mr. Sledge will share stories from his new book, These Rugged Days: Alabama in the Civil War, a long overdue and riveting narrative of Alabama's wartime saga.
 
+* [Historic Pottery of the Deep South: A Symposium.&nbsp; Peeble Hill, Auburn University, 9am-3pm, June 14, 2018.&nbsp; Paid registration required - Seating is Limited/Cost $15 (includes lunch).](https://cla.auburn.edu/cah/programs/historic-pottery-of-the-deep-south-a-symposium/)
+
 * [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
 
 * Frontier Days, November 7-10, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.

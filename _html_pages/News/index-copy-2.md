@@ -7,7 +7,9 @@ menu: 'true'
 menu_position: 1
 ---
 
-4/2/2018:&nbsp; The ***AAS Summer Meeting for 2018***, will be held at the Bains Gap Site.&nbsp; Despite the recent tornado damage at Jacksonville State University, Dr. Harry Holstein says that the Archaeology Lab weathered the storm well, and he is ready to host us on June 9, 2018!&nbsp; Stay tuned for more details as they become available...
+5/31/2018:&nbsp; Just a reminder that the AAS Summer Meeting is coming up on June 9th!&nbsp; Hope to see you all there!
+
+4/2/2018:&nbsp; The ***AAS Summer Meeting for 2018***, will be held at the Bains Gap Site.&nbsp; Despite the recent tornado damage at Jacksonville State University, Dr. Harry Holstein says that the Archaeology Lab weathered the storm well, and he is ready to host us on June 9, 2018!&nbsp; Stay tuned for more details as they become available…
 
 4/2/2018:&nbsp; The East Alabama Chapter of the Alabama Archaeological Society has moved their next meeting to 2:30pm, April 8, 2018 (Sunday), in conjunction with the Lee County Historical Society.&nbsp; Come out and hear Hamilton Bryant (Wiregrass Archaeological Consultants) speak about recent excavations at a rock shelter near Auburn.&nbsp; Meeting will be held at the Lee County Museum in Loachapoka.
 

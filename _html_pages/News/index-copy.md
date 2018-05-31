@@ -39,6 +39,8 @@ Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
 
 * [FORUM 2018: A Preservation Caucus, Demoines, IA, July 18-22, 2018.](https://urldefense.proofpoint.com/v2/url?u=https-3A__napcommissions.org_forum_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=5PnTiEy1JAq1V8zZH8Wrr_SeOICi1pvi-6KbmDAOEes&amp;s=7AlqIv3_JJHzT1qtCu96YXhVEzLHQss5o1A-CTVZuOE&amp;e=)
 
+* [Association of Preservation Technology (APT) Annual Conference.&nbsp; Buffalo, NY, Sept 22-27, 2018.](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.apti.org_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=5PnTiEy1JAq1V8zZH8Wrr_SeOICi1pvi-6KbmDAOEes&amp;s=GYLhxQEUeZ6G_1d2H0br3lU1QRKVfYvomRaWLGmcjHs&amp;e=)
+
 * [Midwest Archaeological Conference, Annual Meeting, October 4-6, 2018, Notre Dame Campus, South Bend, IN.](http://www.midwestarchaeology.org/2018-NotreDame-Indiana)
 
 * [Southeastern Archaeological Conference, Annual Meeting: November 14-18, 2018, Augusta, GA.](https://www.southeasternarchaeology.org/)

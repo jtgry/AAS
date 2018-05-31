@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 2
 ---
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 7May2018):**
+**Upcoming Alabama Archaeological Society Events (LAST UPDATED 31May2018):**
 
 **AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University*.&nbsp; Cost: $4 members, $5 non-members*
 

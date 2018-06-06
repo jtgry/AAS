@@ -7,6 +7,14 @@ menu: 'true'
 menu_position: 1
 ---
 
+6/6/2018: The Alabama Historical Commission (AHC) will administer a $750,000 state-funded Grant Program in fiscal year 2019 (October 1, 2018 - September 30, 2019), for improvements as well as educational programming at historic sites in Alabama.
+
+Grants will be awarded to public or private entities who own and operate historic sites in Alabama. Grants will be awarded to entities that reflect an education-based mission, concentrate on educational programming, and reflect the geographical diversity of the state. Preference will be given to publicly-owned battlefields or &nbsp;structures constructed prior to 1840 that are listed in the National Register of Historic Places, and historic &nbsp;school structures. Grant amounts will not exceed $20,000 for any one entity.
+
+Applicants must complete an official 2019 Historic Sites Grant application available on the AHC website, here. &nbsp;Grant Application Guidelines are also available on the AHC website.
+
+Applications must be hand-delivered or mailed to Tryon McLaney, Contracts and Grants, Alabama Historical Commission, by August 15, 2018. Faxed or emailed applications will not be accepted. AHC will announce the grant awards in October 2018. See additional guidelines on the AHC website.
+
 5/31/2018:&nbsp; Just a reminder that the AAS Summer Meeting is coming up on June 9th!&nbsp; Hope to see you all there!
 
 4/2/2018:&nbsp; The ***AAS Summer Meeting for 2018***, will be held at the Bains Gap Site.&nbsp; Despite the recent tornado damage at Jacksonville State University, Dr. Harry Holstein says that the Archaeology Lab weathered the storm well, and he is ready to host us on June 9, 2018!&nbsp; Stay tuned for more details as they become available…

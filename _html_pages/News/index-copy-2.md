@@ -7,6 +7,8 @@ menu: 'true'
 menu_position: 1
 ---
 
+6/7/2018: &nbsp;UPDATE: Due to recent heavy rains that have inundated the road to the site, we have decided to meet at the Pleasant Ridge Baptist Church on Choccolocco Road. From there, we will shuttle all attendees to the site (5 minute drive) between 8:30 and 9:00 am. The church is at 8837 Choccolocco Rd. Anniston, AL. &nbsp;Camping is still available Friday night; however, you will need to either have 4-wheel drive or contact Dr. Holstein for alternate transportation.
+
 6/6/2018: The Alabama Historical Commission (AHC) will administer a $750,000 state-funded Grant Program in fiscal year 2019 (October 1, 2018 - September 30, 2019), for improvements as well as educational programming at historic sites in Alabama.
 
 Grants will be awarded to public or private entities who own and operate historic sites in Alabama. Grants will be awarded to entities that reflect an education-based mission, concentrate on educational programming, and reflect the geographical diversity of the state. Preference will be given to publicly-owned battlefields or &nbsp;structures constructed prior to 1840 that are listed in the National Register of Historic Places, and historic &nbsp;school structures. Grant amounts will not exceed $20,000 for any one entity.
@@ -21,7 +23,7 @@ Applications must be hand-delivered or mailed to Tryon McLaney, Contracts and Gr
 
 4/2/2018:&nbsp; The East Alabama Chapter of the Alabama Archaeological Society has moved their next meeting to 2:30pm, April 8, 2018 (Sunday), in conjunction with the Lee County Historical Society.&nbsp; Come out and hear Hamilton Bryant (Wiregrass Archaeological Consultants) speak about recent excavations at a rock shelter near Auburn.&nbsp; Meeting will be held at the Lee County Museum in Loachapoka.
 
-3/22/2018:&nbsp; This is short notice, but the first dig of the season will be held at St. Stephens this weekend (3/24).&nbsp; George Shorter will be continuing excavations at the Douglass Hotel, the location where Alabama's territorial legislature first met.&nbsp; George advises that the hotel dig site is not suitable for small children or those that have difficultly with rough terrain.&nbsp; Please contact George for more information:&nbsp; gshorter43 - at - gmail.com or call 251-709-7369.
+3/22/2018:&nbsp; This is short notice, but the first dig of the season will be held at St. Stephens this weekend (3/24).&nbsp; George Shorter will be continuing excavations at the Douglass Hotel, the location where Alabama's territorial legislature first met.&nbsp; George advises that the hotel dig site is not suitable for small children or those that have difficultly with rough terrain.&nbsp; Please contact George for more information:&nbsp; gshorter43 - at - gmail.com or call [251-709-7369](tel:251-709-7369).
 
 3/6/2018:&nbsp; [We are currently in the process of uploading and building links to past issues of the Stones & Bones newsletter, as well as its predecessor, the newsletter of the Birmingham Anthropological Society.&nbsp; This great historical resource will allow members to follow the evolution of the society over time.&nbsp; If you would like to follow our progress as we add issues, you may view it by clicking this news item.](/stones_bones/)
 
@@ -33,13 +35,13 @@ BE A BICENTENNIAL SCHOOL APPLICATIONS DUE MARCH 31
 
 Attention Alabama K-12 educators and parents!
 
-Celebrate Alabama's 200th birthday as a Bicentennial School. Encourage your school to apply for a flag and governor's commendation. Schools who engage in a community project are eligible to receive a $2000 grant. Applications are due by March 31, 2018. Contact Erik Haeuser at erik.haeuser@archives.alabama.gov or 334-353-9152 for more information.
+Celebrate Alabama's 200th birthday as a Bicentennial School. Encourage your school to apply for a flag and governor's commendation. Schools who engage in a community project are eligible to receive a $2000 grant. Applications are due by March 31, 2018. Contact Erik Haeuser at erik.haeuser@archives.alabama.gov or [334-353-9152](tel:334-353-9152) for more information.
 
 1/31/2018:&nbsp; Have you paid your 2018 dues yet?&nbsp; If not, please see our 'Join' page for details, or send your dues via PayPal to alabamaarchaeology@gmail.com.&nbsp; Please reference your name and any change of address.
 
 11/28/2017:&nbsp; SAVE THE DATE!&nbsp; Jacksonville State University has been selected as the site of the 2018 AAS Winter Meeting to be held Jan 19-20, 2018.&nbsp; This year's silent book auction will feature a large selection from Dr. Harry Holstein's personal library - be sure to attend!
 
-11/27/2017:&nbsp; Blakely State Park will once again be offering tours of the impressive Bottle Creek Mounds in Baldwin County.&nbsp; On December 2nd and 16th, the Delta Explorer will depart from Lower Bryant Landing and journey up the Tensaw Delta for a guided tour of the site led by Dr. Greg Waselkov.&nbsp; Please call 251-626-0798 for more information.
+11/27/2017:&nbsp; Blakely State Park will once again be offering tours of the impressive Bottle Creek Mounds in Baldwin County.&nbsp; On December 2nd and 16th, the Delta Explorer will depart from Lower Bryant Landing and journey up the Tensaw Delta for a guided tour of the site led by Dr. Greg Waselkov.&nbsp; Please call [251-626-0798](tel:251-626-0798) for more information.
 
 11/6/2017:&nbsp; Get ready for South Central Historical Archaeology Conference! The annual meeting will be November 17-19, 2017 at Old Cahawba, which was Alabama’s capital from 1819-1826.
 

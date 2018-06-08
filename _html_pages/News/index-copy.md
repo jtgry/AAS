@@ -9,7 +9,11 @@ menu_position: 2
 
 **Upcoming Alabama Archaeological Society Events (LAST UPDATED 31May2018):**
 
-**AAS 2018 Summer Meeting**:&nbsp; Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University*.&nbsp; Cost: $4 members, $5 non-members*
+**AAS 2018 Summer Meeting**:&nbsp;
+
+UPDATE: Due to recent heavy rains that have inundated the road to the site, we have decided to meet at the Pleasant Ridge Baptist Church on Choccolocco Road. From there, we will shuttle all attendees to the site (5 minute drive) between 8:30 and 9:00 am. The church is at 8837 Choccolocco Rd. Anniston, AL. &nbsp;Camping is still available Friday night; however, you will need to either have 4-wheel drive or contact Dr. Holstein for alternate transportation.
+
+Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University*.&nbsp; Cost: $4 members, $5 non-members*
 
 *From Dr. Holstein*:&nbsp; Our tentative AAS Summer meeting plan is to meet on site by 8:30 AM - when I will give a site tour and history before folks who want to excavate the site can get sweaty and dirty – until about noon. Lunch - served on-site - will consist of delicious hamburgers, hot dogs, sausages, and potluck picnic food etc.<br>Following this modern-day feasting ritual AAS members can attend the board meeting and/or relax and chat by the creek until 1:30. After lunch break, there will be a tour of the Choccolocco Creek historic archaeological trail & reconstructed stone mound and earthen temple mound in the Choccolocco Sports Complex Park in Oxford, Alabama (approximately 10 miles south of Bains Gap site).<br>The Sports complex is situated upon one of the largest and most complex sites in Northeast Alabama, the Davis Farm Complex. We hope to conduct a tour and present the interesting history of the Davis Farm plantation site and the numerous excavations conducted by JSU, Perry and Associates & others at this important location. Remember, you can primitive camp on Friday night or Saturday night at site. Students and campers have reeled in over the years some good size fish for the campsite. Hope to see many of you this summer at Bains Gap!!
 

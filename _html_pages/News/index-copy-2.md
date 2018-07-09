@@ -7,6 +7,8 @@ menu: 'true'
 menu_position: 1
 ---
 
+7/9/2018: [New REWARD offered for information leading to an arrest of the individual(s) responsible for the theft of artifacts from Moundville Archaeological Park in 2003. ](http://www.tuscaloosanews.com/news/20180627/reward-offered-in-40-year-old-case-of-stolen-moundville-artifacts){: target="_blank"}
+
 6/7/2018: &nbsp;UPDATE: Due to recent heavy rains that have inundated the road to the Summer Meeting site, we have decided to meet at the Pleasant Ridge Baptist Church on Choccolocco Road. From there, we will shuttle all attendees to the site (5 minute drive) between 8:30 and 9:00 am. The church is at 8837 Choccolocco Rd. Anniston, AL. &nbsp;Camping is still available Friday night; however, you will need to either have 4-wheel drive or contact Dr. Holstein for alternate transportation.
 
 6/6/2018: The Alabama Historical Commission (AHC) will administer a $750,000 state-funded Grant Program in fiscal year 2019 (October 1, 2018 - September 30, 2019), for improvements as well as educational programming at historic sites in Alabama.

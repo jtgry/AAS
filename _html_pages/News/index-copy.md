@@ -7,41 +7,17 @@ menu: 'true'
 menu_position: 2
 ---
 
-**Upcoming Alabama Archaeological Society Events (LAST UPDATED 31May2018):**
-
-**AAS 2018 Summer Meeting**:&nbsp;
-
-UPDATE: Due to recent heavy rains that have inundated the road to the site, we have decided to meet at the Pleasant Ridge Baptist Church on Choccolocco Road. From there, we will shuttle all attendees to the site (5 minute drive) between 8:30 and 9:00 am. The church is at 8837 Choccolocco Rd. Anniston, AL. &nbsp;Camping is still available Friday night; however, you will need to either have 4-wheel drive or contact Dr. Holstein for alternate transportation.
-
-Bains Gap Site, June 9, 2018.&nbsp; Meeting hosted by Dr. Harry Holstein, Jacksonville State University*.&nbsp; Cost: $4 members, $5 non-members*
-
-*From Dr. Holstein*:&nbsp; Our tentative AAS Summer meeting plan is to meet on site by 8:30 AM - when I will give a site tour and history before folks who want to excavate the site can get sweaty and dirty – until about noon. Lunch - served on-site - will consist of delicious hamburgers, hot dogs, sausages, and potluck picnic food etc.<br>Following this modern-day feasting ritual AAS members can attend the board meeting and/or relax and chat by the creek until 1:30. After lunch break, there will be a tour of the Choccolocco Creek historic archaeological trail & reconstructed stone mound and earthen temple mound in the Choccolocco Sports Complex Park in Oxford, Alabama (approximately 10 miles south of Bains Gap site).<br>The Sports complex is situated upon one of the largest and most complex sites in Northeast Alabama, the Davis Farm Complex. We hope to conduct a tour and present the interesting history of the Davis Farm plantation site and the numerous excavations conducted by JSU, Perry and Associates & others at this important location. Remember, you can primitive camp on Friday night or Saturday night at site. Students and campers have reeled in over the years some good size fish for the campsite. Hope to see many of you this summer at Bains Gap!!
-
-***&nbsp;Directions to the Bains Gap Site:***
-
-From Anniston, Exit I-20 at Golden Springs / Anniston East By-Pass Exit. Go North on By-Pass to 2nd Traffic Light (Choccolocco Road). Take Right onto Choccolocco Road stay on Choccolocco Road for several miles until you pass subdivision Mountainview Estates on left then look for next house black mail box on Right (8614 Choccolocco Road). Follow driveway / rough field road through one field gate down towards Choccolocco Creek tree line. &nbsp;Pass some abandoned cars on left then continure out into open field and down a gentle slope to Choccolocco tree line and Site!!
-
-&nbsp;If you pass on Choccolocco Road a Red Brick County Church on Left and Cemetery on Right you have gone TOO FAR turn around. Site access Driveway just a few houses back on left.
-
-From Jacksonville: Take Rabbittown Road over White’s Gap to Alabama Highway 9, Take Al 9 south to Chocolocco Road. Veer off right onto Choccolocco Road go pass Bain’s Gap Road. Less than one mile pass Bain’s Gap will pass a Country Church on right and cemetery on left then several houses on left. Take last house gravel driveway on left (8614 Choccoloco Road, black mailbox). Follow rough field road through one or two agricultural field gates down towards Choccolocco Creek tree line. As you approach a clump of trees (Straight ahead) veer slightly off to left. Pass dog pens and structures in trees on right then veer more to left into field and down gentle slope to Choocolocco Creek tree line.
-
-Remember Primitive Camping with Deluxe Port-a-Potty is available on site!!
+**AAS Winter Meeting - TBA**
 
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 
 **Upcoming Events around the State:**
-
-* History Museum of Mobile: Jack Friend Lecture of 2018 featuring John Sledge, Thursday, May 31, 2018 at 6:30pm.&nbsp; Mr. Sledge will share stories from his new book, These Rugged Days: Alabama in the Civil War, a long overdue and riveting narrative of Alabama's wartime saga.
-
-* [Historic Pottery of the Deep South: A Symposium.&nbsp; Pebble Hill, Auburn University, 9am-3pm, June 14, 2018.&nbsp; Paid registration required - Seating is Limited/Cost $15 (includes lunch).](https://cla.auburn.edu/cah/programs/historic-pottery-of-the-deep-south-a-symposium/)
 
 * [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
 
 * Frontier Days, November 7-10, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
 
 **Regional and National Archaeology Meetings:**
-
-* [Society for Industrial Archaeology, 47th Annual Conference, May 30-June 3, 2018, Richmond, VA.](http://www.sia-web.org/sia-47th-annual-conference/)
 
 * [FORUM 2018: A Preservation Caucus, Demoines, IA, July 18-22, 2018.](https://urldefense.proofpoint.com/v2/url?u=https-3A__napcommissions.org_forum_&amp;d=DwMFaQ&amp;c=8K0mnSt5E4j4U_dMGxZxbA&amp;r=qN0bNPR5gR9c__qTeI7kEGr6yZ3nLi3Hy5KRohf-cr8&amp;m=5PnTiEy1JAq1V8zZH8Wrr_SeOICi1pvi-6KbmDAOEes&amp;s=7AlqIv3_JJHzT1qtCu96YXhVEzLHQss5o1A-CTVZuOE&amp;e=)
 

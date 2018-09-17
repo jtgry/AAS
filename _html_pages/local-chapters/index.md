@@ -25,7 +25,7 @@ Meetings are held on third Thursdays (except June through August) at 7:00pm at t
 
 ### East Alabama
 
-Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' in Loachapoka (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Teresa Paglione [tlpaglione@gmail.com](mailto:tlpaglione@gmail.com)
+Meetings are held on second Tuesdays (except December and June through August) at 7:00pm at the Lee County Historical Society's 'Trade Building' in Loachapoka (two-story brick next to the Post Office on Hwy 14 six miles west of Auburn). Details of upcoming events and meetings are posted on the chapter's Facebook page - [East Alabama Chapter of the Alabama Archaeological Society](https://www.facebook.com/EastAlabamaArchaeology/?hc_ref=SEARCH). Contact: Glenn Drummond [glenn@patent-1871.com](mailto:glenn@patent-1871.com?subject=East%20Alabama%20AAS%20Chapter)
 
 ### Huntsville
 

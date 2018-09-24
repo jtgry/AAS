@@ -7,6 +7,8 @@ menu: 'true'
 menu_position: 1
 ---
 
+9/24/2018:&nbsp; The Friends of hte Alabama Archives are sponsoring two, $1000 Student Research Fellowships in 2019.&nbsp; The Fellowships are available to senior-level or graduate students in an Alabama college or university, or to Alabama residents in study at a school outside the state.&nbsp; Fellowships help offset expenses incurred while conducting research using the collections of the Alabama Department of Archives and History.&nbsp; For more information and application, please visit http://www.archives.state.al.us
+
 7/17/2018:&nbsp; [Alabama Historical Commission announces results of underwater survey in new search for the Clotilda.&nbsp; (click for more information on the AHC website).](https://ahc.alabama.gov/news_detail.aspx?ID=12882)
 
 7/9/2018: [New REWARD offered for information leading to an arrest of the individual(s) responsible for the theft of artifacts from Moundville Archaeological Park in 2003. ](http://www.tuscaloosanews.com/news/20180627/reward-offered-in-40-year-old-case-of-stolen-moundville-artifacts){: target="_blank"}

@@ -13,9 +13,13 @@ menu_position: 2
 
 **Upcoming Events around the State:**
 
-* National Register Review Board Meeting, Alabama Historical Commission (468 S. Perry St, Montgomery), September 27, 2018.
+* Cemeteries: A Genealogical Dead End, Foley Public Library, October 13, 2018.
 
 * [Alabama Trust for Historic Preservation ](www.alabamatrust.info)- Fall Alabama Bicentennial Ramble, Gadsden, October 19-21, 2018.
+
+* International Archaeology Day Fair, Lowe Mill, Huntsville.&nbsp; October 20, 2018, 1-4pm.
+
+* Southeastern Rock Art (An International Archaeology Day Event), Wilson Hall, University of Alabama Huntsville - October 20, 2018, 7pm.
 
 * Old Cahawba Haunted History Tours, Old Cahawba Archaeological Park, October 21 and 28th (7, 7:30, 8, 8:30, and 9pm).
 

@@ -23,6 +23,8 @@ Dr. Eric Cline of George Washington University giving two talks on the Bronze Ag
 
 * International Archaeology Day Fair, Lowe Mill, Huntsville.&nbsp; October 20, 2018, 1-4pm.
 
+* International Archaeology Day at the University of South Alabama Archaeology Museum, Mobile.&nbsp; October 20, 2018, Noon-4pm.&nbsp; All ages welcome.
+
 * Reenactment Weekend, Fort Toulouse-Fort Jackson State Park, Wetumpka, October 20, 2018.
 
 * Old Cahawba Haunted History Tours, Old Cahawba Archaeological Park, October 21 and 28th (7, 7:30, 8, 8:30, and 9pm).
@@ -34,6 +36,8 @@ Dr. Eric Cline of George Washington University giving two talks on the Bronze Ag
 * 2nd Annual Jacksonville City Cemetery Stroll. October 21, 2018.
 
 * Alabama Register of Landmarks and Heritage Review Board Meeting, Alabama Historical Commission (468 S. Perry St, Montgomery), October 25, 2018.
+
+* Lost Mobile, presentation by Tom McGhee, University of South Alabama Archaeology Museum, October 25.
 
 * [Alabama Historical Association, Fall Pilgrimage, October 27, 2018, Camden.](https://www.alabamahistory.net/meetings)
 

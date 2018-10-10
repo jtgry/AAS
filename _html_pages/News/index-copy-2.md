@@ -7,6 +7,10 @@ menu: 'true'
 menu_position: 1
 ---
 
+&nbsp;
+
+10/10/2018:&nbsp; Is your local community interested in hosting a traveling exhibit for Alabama's State Bicentennial?&nbsp; If so, apply here:&nbsp; [http://www.makingalabama.org/contact-us/?utm\_source=Sept-Oct+2018&utm\_campaign=Sept-Oct+2018&utm\_medium=email](http://www.makingalabama.org/contact-us/?utm_source=Sept-Oct+2018&amp;utm_campaign=Sept-Oct+2018&amp;utm_medium=email)
+
 9/24/2018:&nbsp; The Friends of the Alabama Archives are sponsoring two, $1000 Student Research Fellowships in 2019.&nbsp; The Fellowships are available to senior-level or graduate students in an Alabama college or university, or to Alabama residents in study at a school outside the state.&nbsp; Fellowships help offset expenses incurred while conducting research using the collections of the Alabama Department of Archives and History.&nbsp; For more information and application, please visit http://www.archives.state.al.us
 
 7/17/2018:&nbsp; [Alabama Historical Commission announces results of underwater survey in new search for the Clotilda.&nbsp; (click for more information on the AHC website).](https://ahc.alabama.gov/news_detail.aspx?ID=12882)

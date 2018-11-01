@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 1
 ---
 
-&nbsp;
+11/1/2018:&nbsp; The East Alabama Chapter is currently looking for a new Chapter President and meeting location.&nbsp; If interested, please contact the [AAS President](mailto:benhoksbergen@gmail.com?subject=East%20Alabama%20AAS%20Chapter).
 
 10/10/2018:&nbsp; Did you know that October is Archaeology Month in Alabama?&nbsp; Check our our upcoming events page for activities near you!
 

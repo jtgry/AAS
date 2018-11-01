@@ -7,7 +7,6 @@ menu: 'true'
 menu_position: 9
 ---
 
-
 **President:** [Ben Hoksbergen](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
 
 **First Vice-President: [Mark Cole](javascript:void(location.href='mailto:'+String.fromCharCode(109,106,116,99,111,108,101,64,103,109,97,105,108,46,99,111,109)))**
@@ -44,7 +43,7 @@ Assistant Editors: Levi Perry, [Matt Grunewald](javascript:void(location.href='m
 
 * **Coosa Valley:** Harry Holstein
 * **Cullman:** Robbie Camp
-* **East Alabama:** Teresa Paglione
+* **East Alabama:** Currently looking for a new leader (contact AAS President if interested)
 * **Huntsville:** Ben Hoksbergen
 * **Muscle Shoals:** Gerald Hester
 * **Southwest Chapter:** Bonnie Gums

@@ -7,11 +7,11 @@ menu: 'true'
 menu_position: 2
 ---
 
-***Alabama Archaeological Society Winter Meeting:**&nbsp; *
+**\*Alabama Archaeological Society Winter Meeting:**&nbsp; \*
 
 The Alabama Archaeological Society Winter Meeting is scheduled for Guntersville Museum on January 26, 2019 beginning at 7:30 am.
 
-Speakers include Ryan Parish, lithic material expert from Memphis State, Jan Simek of the University of Tennessee, who will present research of Mud Glyph sites, and Shane Miller of Mississippi State who will provide an update on the latest season at the Hester Site, among others.&nbsp; A silent book auction and field trip to Russell Cave are planned.&nbsp; *More information coming soon!*
+Speakers include Ryan Parish, lithic material expert from Memphis State, Jan Simek of the University of Tennessee, who will present research of Mud Glyph sites, and Shane Miller of Mississippi State who will provide an update on the latest season at the Hester Site, among others.&nbsp; A silent book auction and field trip to Cathedral Caverns are planned.&nbsp; *More information coming soon!*
 
 *CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE [**LOCAL CHAPTERS**](https://alabamaarchaeology.org/local-chapters/) PAGE FOR REGIONAL MEETING TIMES/PLACES*.
 

@@ -17,7 +17,14 @@ Speakers include Ryan Parish, lithic material expert from Memphis State, Jan Sim
 
 **Upcoming Events around the State:**
 
-* Frontier Days, November 7-10, 2018.&nbsp; Fort Toulouse-Fort Jackson State Historical Park, Wetumpka, Alabama.
+* *A**nalysis of Prehistoric Ceramics from a Fourtheenth century Native American House, Carter Robinson Site (44LE10), Lee County, Virginia.*&nbsp; Presentation by Emily Warner, University of South Alabama Archaeology Museum, January 23, 2018, 6pm.
+* Ice Age Archaeology! Saturday, January 19, 2019, 11am-2pm
+
+  Join us at the USA Archaeology Museum for our January family day event, "Ice Age Archaeology!" Stop by anytime between 11am and 2pm on Saturday, January 19th for fun craft activities. Kids can make their own wooly mammoth, throwing spear, or rock art! The Museum's permanent and temporary exhibit galleries will also be open for self-guided tours, so it would also be a great time to visit the Museum if you are unable to stop by during the week! Admission to the event and Museum, as always, is FREE. We hope to see you there!
+
+* An Ancient Canoe Canal in Gulf Shores, Alabama, Dr. Greg Waselkov, Thursday, February 7, 2019, 6:00pm
+
+  Local lore and circumstantial evidence have long identified a large ditch-like feature spanning the Fort Morgan Peninsula west of Gulf Shores as an ancient canal. An on-going volunteer effort organized by citizens of Gulf Shores, Alabama, has now confirmed that folk identification. Archival, geoarchaeological, and radiocarbon evidence indicates a Middle Woodland date (about 1,400 years old) for the canal, which extends for half a mile between Oyster Bay and Little Lagoon, connecting Mobile Bay to the Gulf of Mexico. This may be the westernmost ancient canoe canal yet identified in the Southeast. The City of Gulf Shores plans to highlight a preserved section of canal in a heritage trail.
 
 **Regional and National Archaeology Meetings:**
 

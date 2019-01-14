@@ -28,6 +28,12 @@ Speakers include Ryan Parish, lithic material expert from Memphis State, Jan Sim
 
   Local lore and circumstantial evidence have long identified a large ditch-like feature spanning the Fort Morgan Peninsula west of Gulf Shores as an ancient canal. An on-going volunteer effort organized by citizens of Gulf Shores, Alabama, has now confirmed that folk identification. Archival, geoarchaeological, and radiocarbon evidence indicates a Middle Woodland date (about 1,400 years old) for the canal, which extends for half a mile between Oyster Bay and Little Lagoon, connecting Mobile Bay to the Gulf of Mexico. This may be the westernmost ancient canoe canal yet identified in the Southeast. The City of Gulf Shores plans to highlight a preserved section of canal in a heritage trail.
 
+* French and Indian War Encampment, Fort Toulouse-Fort Jackson, Wetumpka, AL, April 27-28, 2019.
+
+* Alabama State Bicentennial Celebration - Old Cahawba Archaeological Park, October 11, 2019.
+
+* Haunted History, Old Cahawba Archaeological Park, October 19 & 26, 2019.
+
 **Regional and National Archaeology Meetings:**
 
 * Society for American Archaeology, Annual Meeting, April 10-14, 2019, Albuquerque, NM

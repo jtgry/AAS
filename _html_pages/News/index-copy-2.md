@@ -7,6 +7,8 @@ menu: 'true'
 menu_position: 1
 ---
 
+1/14/2019:&nbsp; The 2019 AAS Winter Meeting is coming up soon!&nbsp; Check out the Upcoming Events and our Facebook page for more information.
+
 11/1/2018:&nbsp; The East Alabama Chapter is currently looking for a new Chapter President and meeting location.&nbsp; If interested, please contact the [AAS President](mailto:benhoksbergen@gmail.com?subject=East%20Alabama%20AAS%20Chapter).
 
 10/10/2018:&nbsp; Did you know that October is Archaeology Month in Alabama?&nbsp; Check our our upcoming events page for activities near you!

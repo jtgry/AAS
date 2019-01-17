@@ -23,7 +23,7 @@ Saturday Jan. 26
 
 8:15-9:00 &nbsp; &nbsp; &nbsp; &nbsp; Ryan Parish – That’s a fine looking projectile point, but where did you get the rock from?
 
-9:15-10:00 &nbsp; &nbsp; &nbsp; Shane Miller – An Update on theHester Site
+9:15-10:00 &nbsp; &nbsp; &nbsp; Shane Miller – An Update on the Hester Site
 
 10:15-11:00 &nbsp; &nbsp; Ben Hoksbergen – Copena Social Structure and Settlement
 

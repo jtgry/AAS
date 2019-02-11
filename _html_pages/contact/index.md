@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 9
 ---
 
-**President:** [Greg Waselkov](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
+**President:** Greg Waselkov
 
 **First Vice-President:&nbsp; **
 
@@ -17,7 +17,7 @@ menu_position: 9
 
 **Treasurer:** [Eugene Futato](mailto:efutato@bama.ua.edu)
 
-**Assistant Treasurer:** [Cathy Meyer](mailto:branthompson@hotmail.com)
+**Assistant Treasurer:** Cathy Meyer
 
 **Alabama Historical Commission Representative:** [Craig Sheldon](mailto:csheldon@mail.aum.edu)
 

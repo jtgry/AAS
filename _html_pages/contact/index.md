@@ -7,21 +7,21 @@ menu: 'true'
 menu_position: 9
 ---
 
-**President:** [Ben Hoksbergen](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
+**President:** [Greg Waselkov](javascript:void(location.href='mailto:'+String.fromCharCode(98,101,110,104,111,107,115,98,101,114,103,101,110,64,103,109,97,105,108,46,99,111,109)))
 
-**First Vice-President: [Mark Cole](javascript:void(location.href='mailto:'+String.fromCharCode(109,106,116,99,111,108,101,64,103,109,97,105,108,46,99,111,109)))**
+**First Vice-President:&nbsp; **
 
-**Second Vice-President:**[Kim Pyszka](javascript:void(location.href='mailto:'+String.fromCharCode(107,112,121,115,122,107,97,64,97,117,109,46,101,100,117)))
+**Second Vice-President:**[ ](javascript:void(location.href='mailto:'+String.fromCharCode(107,112,121,115,122,107,97,64,97,117,109,46,101,100,117)))
 
 **Secretary:** [Heather Puckett](mailto:heather.r.puckett@gmail.com)
 
 **Treasurer:** [Eugene Futato](mailto:efutato@bama.ua.edu)
 
-**Assistant Treasurer:** [Brandon Thompson](mailto:branthompson@hotmail.com)
+**Assistant Treasurer:** [Cathy Meyer](mailto:branthompson@hotmail.com)
 
 **Alabama Historical Commission Representative:** [Craig Sheldon](mailto:csheldon@mail.aum.edu)
 
-**Web Editor and Photo Archivist:** [Eric Sipes](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)))
+**Web Editor and Photo Archivist:** Craig Nelson
 
 **Newsletter Editor (Stones and Bones):**[ Teresa Paglione](javascript:void(location.href='mailto:'+String.fromCharCode(116,101,114,101,115,97,46,112,97,103,108,105,111,110,101,64,97,108,46,117,115,100,97,46,103,111,118)))
 

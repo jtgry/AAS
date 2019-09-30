@@ -45,4 +45,6 @@ _CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE_ [**_LOCAL CHAPTERS_**](http
 * Society for Historical Archaeology, Annual Meeting, January 8-11, 2020, Boston, MA.
 * Society for American Archaeology, Annual Meeting, April 22-26, 2020 in Austin, Texas. Visit [saa.org/annual-meeting](http://saa.org/annual-meeting) for more details.
 
-To submit events for inclusion on this page, please contact the **\[Web Editor\](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109))). **To be eligible for consideration, events must be directly related to Alabama archaeology and/or history, or of regional archaeological interest.
+To submit events for inclusion on this page, please contact the web editor at tcnelson@crimson.ua.edu.
+
+ **To be eligible for consideration, events must be directly related to Alabama archaeology and/or history, or of regional archaeological interest.

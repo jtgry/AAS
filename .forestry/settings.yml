@@ -4,8 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
+- type: directory
   label: Pages
+  path: _home
   create: all
   match: "**/*"
 - type: directory
@@ -18,7 +19,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-instant_preview: 
 build:
   preview_env:
   - JEKYLL_ENV=staging

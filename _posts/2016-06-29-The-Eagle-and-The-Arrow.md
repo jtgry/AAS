@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: post
 title:  "The Eagle and The Arrow"
 date:   2016-06-29 22:44:18 -0500
 author: Tyler

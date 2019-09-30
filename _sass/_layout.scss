@@ -231,16 +231,16 @@ button:focus {outline:0;}
 
 .fade-in{
   @include fadeIn(
-    $delay: 1.0s
+    $delay: .6s
   );
 }
 .fade-in-slow{
   @include fadeIn(
-    $delay: 2.0s
+    $delay: .8s
   );
 }
 .fade-in-slower{
   @include fadeIn(
-    $delay: 3.0s
+    $delay: 1.2s
   );
 }

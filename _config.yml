@@ -15,12 +15,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 paginate: 3
 # Build settings
-version: 3.1.6
 markdown: kramdown
 
 collections:
   home:
-  html_pages:
+  pages:
     output: true
   posts:
     permalink: journal/:path/

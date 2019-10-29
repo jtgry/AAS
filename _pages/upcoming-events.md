@@ -13,6 +13,7 @@ _CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE_ [**_LOCAL CHAPTERS_**](http
 
 * November 2 - Going Gothic: St. Luke's Episcopal Church, Old Cahawba  Park, Orrville, AL. ([https://ahc.alabama.gov/](https://ahc.alabama.gov/ "https://ahc.alabama.gov/"))
 * November 6-9 - Alabama Frontier Days, Fort Toulouse/Fort Jackson, Wetumpka, AL. ([https://fttoulousejackson.org/](https://fttoulousejackson.org/ "https://fttoulousejackson.org/"))
+* November 9 - 9:00a.m. - 3:00p.m. - Archaeology Tour: DeKalb and Cherokee Counties. Hosted by Dr. Harry Holstein and the Jacksonville State University Field School. ([Click here for more details](https://www.facebook.com/events/jsu-field-schools/archaeology-tour-dekalb-and-cherokee-counties/407529949992273/))
 * November 12 - Veterans' Day WWI Lecture - Fort Morgan, Gulf Shores, AL. ([http://www.fort-morgan.org/](http://www.fort-morgan.org/ "http://www.fort-morgan.org/"))
 * November 24 - Holidays at the Fort - Fort Morgan, Gulf Shores, AL. ([http://www.fort-morgan.org/](http://www.fort-morgan.org/ "http://www.fort-morgan.org/"))
 * December 1 - A Plantation Christmas - Belle Mont Mansion, Tuscumbia, AL. ([https://ahc.alabama.gov](https://ahc.alabama.gov/properties/bellemont/bellemont.aspx "https://ahc.alabama.gov"))

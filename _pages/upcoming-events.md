@@ -11,6 +11,15 @@ _CHECK BACK SOON FOR MORE INFORMATION, OR VISIT THE_ [**_LOCAL CHAPTERS_**](http
 
 **Upcoming Events around the State:**
 
+* November 2 - Going Gothic: St. Luke's Episcopal Church, Old Cahawba  Park, Orrville, AL. ([https://ahc.alabama.gov/](https://ahc.alabama.gov/ "https://ahc.alabama.gov/"))
+* November 6-9 - Alabama Frontier Days, Fort Toulouse/Fort Jackson, Wetumpka, AL. ([https://fttoulousejackson.org/](https://fttoulousejackson.org/ "https://fttoulousejackson.org/"))
+* November 12 - Veterans' Day WWI Lecture - Fort Morgan, Gulf Shores, AL. ([http://www.fort-morgan.org/](http://www.fort-morgan.org/ "http://www.fort-morgan.org/"))
+* November 24 - Holidays at the Fort - Fort Morgan, Gulf Shores, AL. ([http://www.fort-morgan.org/](http://www.fort-morgan.org/ "http://www.fort-morgan.org/"))
+* December 1 - A Plantation Christmas - Belle Mont Mansion, Tuscumbia, AL. ([https://ahc.alabama.gov](https://ahc.alabama.gov/properties/bellemont/bellemont.aspx "https://ahc.alabama.gov"))
+* December 7 - Happy Birthday, Alabama - Old Cahawba, Orrville, AL. ([https://cahawba.com/](https://cahawba.com/ "https://cahawba.com/"))
+* December 8 - Christmas Celebration - Pond Spring, the General Joe Wheeler Home, Hillsboro, AL. ([ahc.alabama.gov](https://ahc.alabama.gov/properties/pondspring/pondspring.aspx))
+* December 15 - Christmas Luncheon - Fendall Hall, Eufaula, AL ([ahc.alabama.gov](https://ahc.alabama.gov/properties/fendall/fendall.aspx))
+
 More opportunities to learn about Alabama History and archaeology in October can be found at the following links:
 
 [https://ahc.alabama.gov/calendar/](https://ahc.alabama.gov/calendar/ "https://ahc.alabama.gov/calendar/")

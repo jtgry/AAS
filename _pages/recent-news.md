@@ -9,7 +9,7 @@ menu_position: 1
 ---
 The month of October will be very busy with archaeology events happening all over the state! Please visit the Upcoming Events page for more info on events happening in your area.
 
-Our next state meeting will be held January 18, 2020 in Gulf Shores. More information will be coming soon. 
+Our next state meeting will be held January 18, 2020 in Gulf Shores. There is more info about this on our Upcoming Events page, right at the top. We even have a discount rate at a hotel which will be expiring soon so PLEASE act fast. 
 
 Grants will be awarded to public or private entities who own and operate historic sites in Alabama. Grants will be awarded to entities that reflect an education-based mission, concentrate on educational programming, and reflect the geographical diversity of the state. Preference will be given to publicly-owned battlefields or  structures constructed prior to 1840 that are listed in the National Register of Historic Places, and historic  school structures. Grant amounts will not exceed $20,000 for any one entity.
 

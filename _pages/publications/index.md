@@ -13,13 +13,11 @@ AAS members receive six issues of the _Stones & Bones_ newsletter throughout the
 
 [Past issues of the _Stones & Bones_ newsletter are available here.](/stones_bones/)
 
-You can read a brief history of the journal and its current status here. About the [Journal of Alabama Archaeology](/journal/)
-
 To receive upcoming issues of the journal and the newsletter, [Join AAS](/support/)
 
 #### The Journal of Alabama Archaeology
 
-The _Journal of Alabama Archaeology_ remains the primary forum for the publication of papers on the prehistoric and historic archaeology of Alabama, however papers on related topics in the Southeast are welcome. Papers from students, amateur, and professional archaeologists are solicited. Download the current **_Guidelines For Authors_ here** or contact the journal editors at journalalabamaarchaeology@gmail.com
+The _Journal of Alabama Archaeology_ remains the primary forum for the publication of papers on the prehistoric and historic archaeology of Alabama, however papers on related topics in the Southeast are welcome. Papers from students, amateur, and professional archaeologists are solicited. Download the current [**_Guidelines For Authors_ here** ](alabamaarchaeology.org/journals/ "journal instructions")or contact the journal editors at journalalabamaarchaeology@gmail.com
 
 Many past issues of the _Journal of Alabama Archaeology_ are available for purchase. [Download the current price list](/files/JournalIssues.pdf) of available issues. Send your request and your check to:
 

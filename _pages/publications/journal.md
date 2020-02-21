@@ -3,7 +3,7 @@ layout: page
 title: Journal of Alabama Archaeology
 permalink: "/journal/"
 image_path: "/images/Journal.jpg"
-menu: 'false'
+menu: false
 menu_position: 0
 
 ---

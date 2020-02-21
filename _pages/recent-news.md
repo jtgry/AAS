@@ -7,12 +7,26 @@ menu: 'true'
 menu_position: 1
 
 ---
-The month of October will be very busy with archaeology events happening all over the state! Please visit the Upcoming Events page for more info on events happening in your area.
+\**The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft. 
 
-Our next state meeting will be held January 18, 2020 in Gulf Shores. There is more info about this on our Upcoming Events page, right at the top. We even have a discount rate at a hotel which will be expiring soon so PLEASE act fast. 
+***
 
-Grants will be awarded to public or private entities who own and operate historic sites in Alabama. Grants will be awarded to entities that reflect an education-based mission, concentrate on educational programming, and reflect the geographical diversity of the state. Preference will be given to publicly-owned battlefields or  structures constructed prior to 1840 that are listed in the National Register of Historic Places, and historic  school structures. Grant amounts will not exceed $20,000 for any one entity.
+The Alabama Archaeological Society (AAS) is committed to the creation and maintenance of an environment in which all individuals, members and non-members, are treated with respect and dignity. The AAS is a nonprofit organization chartered under state of Alabama laws and recognizes the necessity of compliance with all applicable federal, state, and local laws including, but not limited to, those that prohibit discriminatory practices including harassment. Therefore, the AAS will maintain a strict policy of prohibiting unlawful harassment of any kind, including sexual harassment and harassment based on race, color, religion, national origin, sexual orientation, gender identity or expression, sex, age, physical or mental disability or any other characteristic protected by state, federal or local discrimination laws. Sexual harassment includes, but is not limited to, making unwanted sexual advances and/or requests for sexual favors where such conduct has the purpose or effect of substantially interfering with an individual’s mental, physical, and/or emotional well-being and/or creating an intimidating, hostile, or offensive environment. Members and nonmembers who violate this policy are subject to discipline up to and including the possibility of immediate and permanent expulsion from the society and its functions.
 
-Applicants must complete an official 2019 Historic Sites Grant application available on the AHC website, here.  Grant Application Guidelines are also available on the AHC website.
+Examples of unlawful harassment include but are not limited to:
 
-Applications must be hand-delivered or mailed to Tryon McLaney, Contracts and Grants, Alabama Historical Commission, by August 15, 2018. Faxed or emailed applications will not be accepted. AHC will announce the grant awards in October 2018. See additional guidelines on the AHC website.
+• Verbal conduct such as epithets, derogatory jokes or comments, slurs or unwanted sexual advances, invitations or comments.
+
+• Visual conduct such as derogatory and/or sexually oriented posters, photography, cartoons, drawings, e-mail, text messaging, social media, or gestures.
+
+• Physical conduct such as assault, unwanted touching, blocking normal movement.
+
+• Threats and demands to submit to sexual requests.
+
+• Retaliation for having reported or threatened to report unlawful harassment.
+
+The AAS is not an adjudicating body; however, there are processes in place to support members in getting their grievances addressed when unwanted behaviors occur in the context of AAS-sponsored events and activities (e.g. conferences, editorial activities, governance events). Effective June 7, 2019, the AAS Board of Directors will receive complaints of harassment in the context of AAS settings and activities. They will ascertain the view of the complainant to determine what outcome they want and, where appropriate, will refer the complainant to the police. For incidents that occur outside the context of AAS-sponsored settings and activities, AAS members and nonmembers should seek out appropriate authorities with which to file claims of sexual harassment and/or sexual assault. Typically, the line of formal complaint is through the perpetrator’s home institution. AAS members should apprise themselves of the appropriate processes at their home institutions, as well as in the legal jurisdictions where fieldwork, meetings, and other business are conducted.
+
+This policy is not intended to constitute legal advice. In the event of any conflict between this policy and applicable laws or institutional policy, the applicable laws or institutional policy prevails. Members and institutions are encouraged to seek their own counsel for advice regarding any specific situation.
+
+The Alabama Archaeological Society will not tolerate sexual harassment or sexual assault of AAS meeting participants (including, but not limited to attendees, speakers, volunteers, exhibitors, AAS members, service providers, or other meeting guests) in any form. By obtaining AAS membership, registering to present or attend AAS meetings, members and participants commit to maintaining respectful and ethical relationships in accordance with the AAS policy. The Alabama Archaeological Society reserves the right to remove an individual violating this policy from organization events without warning or refund, and prohibit attendance at future AAS meetings, programs, and/or activities.

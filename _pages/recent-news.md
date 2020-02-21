@@ -7,7 +7,36 @@ menu: 'true'
 menu_position: 1
 
 ---
-\**The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft. 
+
+# Call for Papers for the Journal of Alabama Archaeology
+
+_The Journal of Alabama Archaeology_ is a peer-reviewed journal that provides the latest research on topics relevant to the history and archaeology of Alabama. Published by the Alabama Archaeological Society (AAS), the JAA covers a wide range of archaeological topics including prehistoric and historical archaeology of Alabama, however papers on related topics in the Southeast are welcome. The AAS welcomes submissions from professional, amateur, and/or avocational archaeologists, and students. This presents a great opportunity for graduate students to publish information on their research, and for recipients of the AAS Scholarships to highlight their research.
+
+Subscriptions to the JAA may be obtained through membership to the AAS. Typically there is one volume per year, although these may be published based on time and budgetary restraints. Please review the Submission and Editorial Policies for guidelines below.
+
+**Call for Papers:** In order to meet this year’s publishing requirements, we are presently seeking papers related to three topics for 2020-2021.
+
+· _CALL FOR PAPERS 1:_ November 2019 marked the centennial of the signing of the Armistice, ending World War I and December 2019 marked the bicentennial of the State of Alabama. This is a call for papers to be incorporated into a Multi-Centennial Issue to commemorate these two events. Examples include research performed on Mabila, Territorial Capitals, Cahaba, military-related topics, or other topics related to the history of the State.
+
+· _CALL FOR PAPERS 2:_ Stone features have been a topic of discussion for several years. This is a call for papers to address the study of stone features or mound as a whole, to be incorporated into a single issue. This may include stone features associated with prehistoric or historical archaeology.
+
+· _CALL FOR PAPERS 3:_ Authors may submit additional articles based on research topics or other areas of interest.
+
+**Deadline for Submission:** Papers should be submitted no later than APRIL 16, 2020.
+
+**Publication Requirements:** Please see [https://alabamaarchaeology.org/files/authorsinfo.pdf](https://alabamaarchaeology.org/files/authorsinfo.pdf "https://alabamaarchaeology.org/files/authorsinfo.pdf")
+
+NOTE: It is crucial that we receive submissions, and receive them on time, in order to produce a journal!
+
+All submitted papers are subject to editorial review. Peer review is available upon request and, if the paper is accepted, it will be published with a notice of having been peer-reviewed. Short pieces on unusual or unidentified artifacts; updates on ongoing excavations; and brief newsworthy items should be submitted to “Stones and Bones,” the AAS’ newsletter. Please contact the Editor or Assistant Editors if you would like to read a current publication in archaeology and write a review for the JAA.
+
+For more information, please contact the current Editorial Team: Dr. Heather Puckett, Dr. Greg Waselkov, Ms. Sarah Price, or Dr. Ashley Dumas at [JournalAlabamaArchaeology@gmail.com](mailto:JournalAlabamaArchaeology@gmail.com).
+
+More information about the JAA is available at [https://alabamaarchaeology.org/journal/](https://alabamaarchaeology.org/files/authorsinfo.pdf "https://alabamaarchaeology.org/files/authorsinfo.pdf").
+
+***
+
+\**The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft.
 
 ***
 

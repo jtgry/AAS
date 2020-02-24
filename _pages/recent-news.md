@@ -7,7 +7,6 @@ menu: 'true'
 menu_position: 1
 
 ---
-
 # Call for Papers for the Journal of Alabama Archaeology
 
 _The Journal of Alabama Archaeology_ is a peer-reviewed journal that provides the latest research on topics relevant to the history and archaeology of Alabama. Published by the Alabama Archaeological Society (AAS), the JAA covers a wide range of archaeological topics including prehistoric and historical archaeology of Alabama, however papers on related topics in the Southeast are welcome. The AAS welcomes submissions from professional, amateur, and/or avocational archaeologists, and students. This presents a great opportunity for graduate students to publish information on their research, and for recipients of the AAS Scholarships to highlight their research.
@@ -36,7 +35,7 @@ More information about the JAA is available at [https://alabamaarchaeology.org/j
 
 ***
 
-\**The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft.
+_The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft._
 
 ***
 

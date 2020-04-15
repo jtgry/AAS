@@ -1,39 +1,40 @@
 ---
 layout: page
 title: Membership Form
-permalink: /membershipform/
-image_path:
+permalink: "/membershipform/"
+image_path: 
 menu: 'false'
+
 ---
-
-
 #### Alabama Archaeological Society
 
-13075 Moundville Archaeological Park
+Please mail checks to:
 
-Moundville, Alabama 35474
+3915 Joshua Circle
+
+Tuscaloosa, AL 35405
 
 **Make checks payable to Alabama Archaeological Society,**
 
 **or pay through PayPal at alabamaarchaeology@gmail.com.**
 
-Name**__****__****__****__****__****__****__****__****__****__****__**_
+Name**__****__****__****__****__**_
 
-Address**__****__****__****__****__****__****__****__****__****__**_____
+Address**__****__****__****__**_____
 
----
+***
 
-City**__****__****__****__****__****__****__****__****__****__****__**__
+City**__****__****__****__****__**__
 
-State**__****__****__****__****__*****Zip*****__****__****__****__**_____
+State**__****__****_Zip_****__**_____
 
-E-mail**__****__****__****__****__****__****__****__****__****__****__**
+E-mail**__****__****__****__****__**
 
-Membership type **__****__**__    Amount enclosed **__****__****__****__**__
+Membership type __****____    Amount enclosed ******__**____
 
-For Year(s)    *__ 2017           __* 2018         ___2019
+For Year(s)    ___ 2017           ___ 2018         ___2019
 
-Chapter (optional)**__****__****__****__****__****__****__****__****__**___
+Chapter (optional)__****__****__****__****_____
 
 | **Member Type**       | **U.S. Address**       | **Foreign Address** |
 | **Annual Associate (younger than 18)**       | **$15.00**       | **$20.00** |
@@ -45,4 +46,4 @@ Chapter (optional)**__****__****__****__****__****__****__****__****__**___
 | **Life Individual**       | **$500.00**       | **$600.00** |
 | **Life Joint**       | **$600.00**       | **$700.00** |
 
-<div style="clear:both;">&nbsp;</div>
+<div style="clear:both;"> </div>

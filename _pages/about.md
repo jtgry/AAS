@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
-image_path: /images/Fieldwork2.jpg
-menu: 'true'
+permalink: "/about/"
+image_path: "/images/Fieldwork2.jpg"
+menu: false
 menu_position: 3
+
 ---
-
-
 Organized in 1954, the Alabama Archaeological Society promotes informed archaeological studies and the preservation of southeastern historic and prehistoric archaeological sites. AAS members participate in surface scouting, site mapping and reporting, artifact analysis, documentation, and the excavation and preservation of archaeological sites.
 
 AAS members represent a cross section of skills, crafts, interests, and professions from the state, across the nation, and foreign countries. Working closely with archaeological scholars, the society and its members volunteer labor on archaeological digs, report site information, and provide financial support through scholarships and grants.

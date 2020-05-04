@@ -7,7 +7,7 @@ menu: 'true'
 menu_position: 7
 
 ---
-Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
+Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below. Due to the recent pandemic. No local chapters will be meeting at this time. 
 
 ![](/uploads/versions/revised-local-chapters---x68-0-3863-5500-2625-3737x---.jpg)
 

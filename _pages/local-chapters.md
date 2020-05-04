@@ -3,7 +3,7 @@ layout: page
 title: Local Chapters
 permalink: "/local-chapters/"
 image_path: "/images/about.jpg"
-menu: 'true'
+menu: false
 menu_position: 7
 
 ---

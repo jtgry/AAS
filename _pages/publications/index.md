@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: "/publications/"
 image_path: "/images/Journal.jpg"
-menu: 'true'
+menu: false
 menu_position: 6
 
 ---

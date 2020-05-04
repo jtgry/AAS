@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: "/about/"
 image_path: "/images/Fieldwork2.jpg"
-menu: false
-menu_position: 3
+menu: true
+menu_position: 2
 
 ---
 Navigation:
@@ -12,6 +12,8 @@ Navigation:
 [**GRANTS AND SCHOLARSHIPS**](/grants/)
 
 [**PUBLICATIONS**](/publications/)
+
+[**LOCAL CHAPTERS**](/local-chapters/)
 
 [**OUTSIDE LINKS**](/links/)
 

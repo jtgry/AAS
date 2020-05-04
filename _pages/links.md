@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: "/links/"
 image_path: "/images/about.jpg"
-menu: 'true'
+menu: false
 menu_position: 7
 
 ---

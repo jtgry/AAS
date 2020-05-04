@@ -3,7 +3,7 @@ layout: page
 title: Upcoming Events
 permalink: "/events/"
 image_path: "/images/Huntsville Intl Arch Day 2013.jpg"
-menu: 'true'
+menu: false
 menu_position: 2
 
 ---

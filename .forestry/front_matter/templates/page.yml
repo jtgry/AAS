@@ -25,3 +25,5 @@ fields:
 - type: number
   name: menu_position
   label: Menu Position
+pages:
+- _pages/publications/instructions-for-authors.md

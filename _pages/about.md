@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: "/about/"
 image_path: "/images/Fieldwork2.jpg"
-menu: true
+menu: 'true'
 menu_position: 2
 
 ---

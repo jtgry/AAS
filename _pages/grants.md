@@ -3,7 +3,7 @@ layout: page
 title: Grants and Scholarships
 permalink: "/grants/"
 image_path: "/images/grants.jpg"
-menu: false
+menu: true
 menu_position: 5
 
 ---

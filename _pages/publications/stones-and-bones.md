@@ -3,7 +3,7 @@ layout: page
 title: Stones and Bones Newsletter
 permalink: /stones_bones/
 image_path:
-menu: 'false'
+menu: false
 ---
 
 **WEB EDITOR'S NOTE:**\*\* This page is currently under construction, but has been put online as a resource to members. Please be patient as links are constructed.&nbsp; Issues are currently listed chronologically.&nbsp; Eventually, links will be consolidated by year and the appearance of the page improved. As of 6March2018, all available issues of the BAS newsletter on now online.&nbsp; **Past issues that have been scanned are due to the efforts of Eugene Futato, and represent the issues available at Moundville.**If you have a copy of a past issue that is not shown online, please contact [me](javascript:void(location.href='mailto:'+String.fromCharCode(115,105,112,101,115,46,101,114,105,99,64,103,109,97,105,108,46,99,111,109)+'?subject=Stones%20%26%20Bones%20issues')). \*\*

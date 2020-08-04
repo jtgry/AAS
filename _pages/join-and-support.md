@@ -3,7 +3,7 @@ layout: page
 title: Join & Support
 permalink: "/support/"
 image_path: "/images/about.jpg"
-menu: 'true'
+menu: true
 menu_position: 4
 
 ---

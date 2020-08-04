@@ -3,7 +3,7 @@ layout: page
 title: Membership Form
 permalink: "/membershipform/"
 image_path: 
-menu: 'false'
+menu: false
 
 ---
 #### Alabama Archaeological Society

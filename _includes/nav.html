@@ -6,7 +6,7 @@
     <ul>
       {% assign navigation_pages = site.pages | sort: 'menu_position'%}
       {% for page in navigation_pages %}
-        {% if page.menu == "true" %}
+        {% if page.menu %}
           <li>
             <a href="{{ page.url }}">{{ page.title }}</a>
           </li>
@@ -23,7 +23,7 @@
     <ul>
       {% assign navigation_pages = site.pages | sort: 'menu_position'%}
       {% for page in navigation_pages %}
-        {% if page.menu == "true" %}
+        {% if page.menu %}
           <li>
             <a href="{{ page.url }}">{{ page.title }}</a>
           </li>

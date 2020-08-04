@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: "/contact/"
 image_path: "/images/Huntsville Intl Arch Day 2013.jpg"
-menu: 'true'
+menu: true
 menu_position: 9
 
 ---

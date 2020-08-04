@@ -3,7 +3,7 @@ layout: page
 title: Recent News
 permalink: "/news/"
 image_path: "/images/FieldDays.jpg"
-menu: 'true'
+menu: true
 menu_position: 1
 
 ---

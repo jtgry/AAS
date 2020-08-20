@@ -15,9 +15,7 @@ menu_position: 9
 
 **Secretary:** Nic Glass
 
-**Treasurer:** Cathy Meyer
-
-**Assistant Treasurer:** Ashley Dumas
+**Interim Treasurer:** Ashley Dumas
 
 **Alabama Historical Commission Representative:** [Craig Sheldon](mailto:csheldon@mail.aum.edu)
 
@@ -31,21 +29,21 @@ menu_position: 9
 
 Editor: Heather Puckett
 
-Assistant Editors: 
+Assistant Editors:
 
-**Board at Large (Expiring 2020):** 
+**Board at Large (Expiring 2020):**
 
-Steven Meredith 
+Steven Meredith
 
-Robbie Camp 
+Robbie Camp
 
 Lynn Funkhouser
 
-**Board at Large (Expiring 2021):**  
+**Board at Large (Expiring 2021):**
 
-David Johnson 
+David Johnson
 
-Cathy Meyer 
+Cathy Meyer
 
 Van King
 

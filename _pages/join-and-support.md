@@ -19,11 +19,13 @@ Pay your dues or send a donation online! We are working on an automated method f
 
 [For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/files/aasmembership.pdf){: .button.button-primary}
 
-Alabama Archaeological Society 
+Alabama Archaeological Society
 
-3915 Joshua Circle
+UWA Station 22
 
-Tuscaloosa, AL 35405
+University of West Alabama
+
+Livingston, AL 35470
 
 | **Member Type** | **U.S. Address** | **Foreign Address** |
 | **Annual Associate (younger than 18)** | **$15.00** | **$20.00** |
@@ -36,5 +38,3 @@ Tuscaloosa, AL 35405
 | **Life Joint** | **$600.00** | **$700.00** |
 
 <div style="clear:both;"> </div>
-
- 

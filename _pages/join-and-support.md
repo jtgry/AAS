@@ -17,7 +17,7 @@ Pay your dues or send a donation online! We are working on an automated method f
 4. Type the amount of money that you wish to send to the AAS (see the membership types and associated dues at the bottom of this page).
 5. Type a message to tell us what you are sending the money for, i.e. a donation for a particular AAS fund, or dues for a foreign family lifetime membership. Important: If you are joining AAS or renewing your membership, include your USPS address in this message.
 
-[For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/files/aasmembership.pdf){: .button.button-primary}
+[For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/uploads/aasmembership.pdf){: .button.button-primary}
 
 Alabama Archaeological Society
 

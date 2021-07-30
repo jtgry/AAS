@@ -7,6 +7,16 @@ menu: true
 menu_position: 1
 
 ---
+# **Annual Summer Meeting**
+
+## When: Saturday, August 14
+
+Where: Wallace Community College Demopolis Higher Education Center
+
+             [186 Fields of Dreams Drive, Gallion, Alabama 36742 ](https://goo.gl/maps/hGwyDXvDVwt5jw9r5)
+
+Details: More details will be shared shortly. The board meeting with be at 1:00pm.
+
 # Call for Papers for the Journal of Alabama Archaeology
 
 _The Journal of Alabama Archaeology_ is a peer-reviewed journal that provides the latest research on topics relevant to the history and archaeology of Alabama. Published by the Alabama Archaeological Society (AAS), the JAA covers a wide range of archaeological topics including prehistoric and historical archaeology of Alabama, however papers on related topics in the Southeast are welcome. The AAS welcomes submissions from professional, amateur, and/or avocational archaeologists, and students. This presents a great opportunity for graduate students to publish information on their research, and for recipients of the AAS Scholarships to highlight their research.

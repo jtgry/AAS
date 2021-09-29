@@ -19,7 +19,7 @@ Pay your dues or send a donation online! We are working on an automated method f
 
 OR
 
-[Click here to donate to the Alabama Archaeological Society](){: .button.button-primary}
+[Click here to donate to the Alabama Archaeological Society](https://www.paypal.com/donate?hosted_button_id=NBWBNPH3JP6GY){: .button.button-primary}
 
 [For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/uploads/aasmembership.pdf){: .button.button-primary}
 

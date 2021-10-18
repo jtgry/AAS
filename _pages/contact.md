@@ -49,14 +49,15 @@ Van King
 
 **Chapter Presidents:**
 
-* **Coosa Valley:** Harry Holstein
+* **Coosa Valley:** [Harry Holstein](holstein@jsu.edu)
 * **Cullman:** Robbie Camp
 * **East Alabama:** Currently looking for a new leader (contact AAS President if interested)
 * **Huntsville:** Ben Hoksbergen
-* **Muscle Shoals:** Gerald Hester
-* **Southwest Chapter:** Bonnie Gums
-* **Troy:** Jason Mann
-* **Tuscaloosa:** Clay Nelson
+* **Muscle Shoals:** Gerald Hester 
+* **Southwest Chapter:** Vacant
+
+  **Troy:** Vacant
+* **Tuscaloosa:** Allie Smith
 
 **Send Physical Correspondence to:**
 

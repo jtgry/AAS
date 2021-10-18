@@ -7,45 +7,55 @@ menu: true
 menu_position: 9
 
 ---
-**President:** TR Henderson
+**President:** Steven Meredith 
 
-**First Vice-President:**
+email: mered003@gmail.com
 
-**Second Vice-President:** Van King
+**First Vice-President:** David Johnson
+
+**Second Vice-President:** Todd Prater
 
 **Secretary:** Nic Glass
 
-**Interim Treasurer:** Ashley Dumas
+**Treasurer:** Ashley Dumas
 
-**Alabama Historical Commission Representative:** [Craig Sheldon](mailto:csheldon@mail.aum.edu)
+**Asst. Treasurer:** Erin Nelson
+
+**Alabama Historical Commission Representative:** Meghan Buchanan
 
 **Web Editor and Photo Archivist:** Clay Nelson
 
 **Newsletter Editor (Stones and Bones):** Teresa Paglione
 
-**Assistant Newsletter Editor:** Jason Mann
+**Assistant Newsletter Editor:** Mark Cole
 
 **Journal of Alabama Archaeology:**
 
 Editor: Heather Puckett
 
-Assistant Editors:
+Assistant Editors: Ashely Dumas, Steven Meredith, Sara Price, and Greg Waselkov
 
-**Board at Large (Expiring 2020):**
+**Board at Large (Expiring 2023):**
 
-Steven Meredith
+Camille Morgan
 
-Robbie Camp
+Lauren Downs
 
-Lynn Funkhouser
+Annie Blankenship
+
+**Board at Large (Expiring 2022):**
+
+Stacye Hathorn
+
+Mark Cole
+
+Linda Derry
 
 **Board at Large (Expiring 2021):**
 
-David Johnson
+Daniel Rhodes
 
-Cathy Meyer
-
-Van King
+Todd Prater
 
 **Chapter Presidents:**
 

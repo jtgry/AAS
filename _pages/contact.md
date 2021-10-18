@@ -71,4 +71,4 @@ Todd Prater
 
 **Send Physical Correspondence to:**
 
-Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, Alabama 35474
+AAS Treasurer, UWA Station 22, Livingston, AL 35470

@@ -15,7 +15,9 @@ menu_position: 1
 
 ## [186 Fields of Dreams Drive, Gallion, AL 35742](https://goo.gl/maps/SxsYNXHNtc3xLH7U7 "Directions to the Winter Meeting")
 
-## ![](/uploads/2022-winter-flyer_page_1.jpg)![](/uploads/2022-winter-flyer_page_2.jpg)
+## ![](/uploads/2022-winter-flyer_page_1.jpg)
+
+![](/uploads/2022-winter-meeting-map.jpg)
 
 # Call for Papers for the Journal of Alabama Archaeology
 

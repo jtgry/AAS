@@ -15,9 +15,9 @@ menu_position: 1
 
              [186 Fields of Dreams Drive, Gallion, Alabama 36742 ](https://goo.gl/maps/hGwyDXvDVwt5jw9r5)
 
-**Details:** The Alabama Archaeological Society is having its annual summer meeting in Demopolis on Saturday, February 5, and Sunday, February 6. On Saturday morning, archaeologists from around the state will provide informational talks for the public. Topics will include what to do when you find an artifact; resources for landowners; myths and truths about archaeology; and a review of local archaeological projects. On Saturday and Sunday afternoons, the public are invited to bring their artifacts for identification by AAS members. The AAS does not give appraisals, but anyone who brings an artifact will leave with a better idea of its age, purpose, place of manufacture, and the artifact’s historical value.
+![](/uploads/2022-winter-flyer_page_1.jpg)
 
-The informational sessions and artifact identification will take place at the Demopolis Higher Education Center at 186 Fields of Dreams Drive on Saturday, February 5, from 8:00 to 5:00 and Sunday, February 6th, from 1:00pm to 4:00pm. The event is free and open to the public.
+![](/uploads/2022-winter-flyer_page_2.jpg)
 
 # Call for Papers for the Journal of Alabama Archaeology
 

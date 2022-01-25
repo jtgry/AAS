@@ -21,7 +21,13 @@ The _Journal of Alabama Archaeology_ remains the primary forum for the publicati
 
 Many past issues of the _Journal of Alabama Archaeology_ are available for purchase. [Download the current price list](/files/JournalIssues.pdf) of available issues. Send your request and your check to:
 
-Alabama Archaeological Society 13075 Moundville Archaeological Park Moundville, Alabama 35474
+Alabama Archaeological Society
+
+UWA Station 22
+
+University of West Alabama
+
+Livingston, AL 35470
 
 #### **Supported Publications**
 

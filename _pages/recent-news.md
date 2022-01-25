@@ -7,17 +7,17 @@ menu: true
 menu_position: 1
 
 ---
-# **Annual Summer Meeting**
+# **Annual Winter Meeting**
 
-## When: Saturday, August 14
+## When: Saturday, February 5-6
 
 **Where:** Wallace Community College Demopolis Higher Education Center
 
              [186 Fields of Dreams Drive, Gallion, Alabama 36742 ](https://goo.gl/maps/hGwyDXvDVwt5jw9r5)
 
-**Details:** The Alabama Archaeological Society is having its annual summer meeting in Demopolis on Saturday, August 14, and Sunday, August 15. On Saturday morning, archaeologists from around the state will provide informational talks for the public. Topics will include what to do when you find an artifact; resources for landowners; myths and truths about archaeology; and a review of local archaeological projects. On Saturday and Sunday afternoons, the public are invited to bring their artifacts for identification by AAS members. The AAS does not give appraisals, but anyone who brings an artifact will leave with a better idea of its age, purpose, place of manufacture, and the artifact’s historical value.
+**Details:** The Alabama Archaeological Society is having its annual summer meeting in Demopolis on Saturday, February 5, and Sunday, February 6. On Saturday morning, archaeologists from around the state will provide informational talks for the public. Topics will include what to do when you find an artifact; resources for landowners; myths and truths about archaeology; and a review of local archaeological projects. On Saturday and Sunday afternoons, the public are invited to bring their artifacts for identification by AAS members. The AAS does not give appraisals, but anyone who brings an artifact will leave with a better idea of its age, purpose, place of manufacture, and the artifact’s historical value.
 
-The informational sessions and artifact identification will take place at the Demopolis Higher Education Center at 186 Fields of Dreams Drive on Saturday, August 14, from 8:00 to 5:00 and Sunday, August 15, from 1:00 to 3:00. The event is free and open to the public.
+The informational sessions and artifact identification will take place at the Demopolis Higher Education Center at 186 Fields of Dreams Drive on Saturday, February 5, from 8:00 to 5:00 and Sunday, February 6th, from 1:00pm to 4:00pm. The event is free and open to the public.
 
 # Call for Papers for the Journal of Alabama Archaeology
 

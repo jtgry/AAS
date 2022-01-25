@@ -9,15 +9,11 @@ menu_position: 1
 ---
 # **Annual Winter Meeting**
 
-## When: Saturday, February 5-6
+## When: Saturday, February 5th
 
-**Where:** Wallace Community College Demopolis Higher Education Center
+## Where: Wallace Community College Higher Education Centery, [186 Fields of Dreams Drive, Gallion, AL 35742](https://goo.gl/maps/SxsYNXHNtc3xLH7U7 "Directions to the Winter Meeting")
 
-             [186 Fields of Dreams Drive, Gallion, Alabama 36742 ](https://goo.gl/maps/hGwyDXvDVwt5jw9r5)
-
-![](/uploads/2022-winter-flyer_page_1.jpg)
-
-![](/uploads/2022-winter-flyer_page_2.jpg)
+## ![](/uploads/2022-winter-flyer_page_1.jpg)![](/uploads/2022-winter-flyer_page_2.jpg)
 
 # Call for Papers for the Journal of Alabama Archaeology
 

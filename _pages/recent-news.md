@@ -7,7 +7,7 @@ menu: true
 menu_position: 1
 
 ---
-# ATTENTION: THE WINTER MEETING HAS CHANGED VENUES! WE ARE NOW AT ROOSTER HALL, DEMOPOLIST!!!!
+# ATTENTION: THE WINTER MEETING HAS CHANGED VENUES! WE ARE NOW AT ROOSTER HALL, DEMOPOLIS!!!!
 
 # Winter Meeting
 
@@ -21,7 +21,7 @@ What: This is out annual winter meeting where we will hold an artifact ID sessio
 
 ![](/uploads/2022-winter-flyer-final_page_2.jpg)
 
-(For a printable pdf, click **here**)
+(For a printable pdf, click [**here**](/uploads/2022-aas-winter-meeting-flyer.pdf "2022 Winter Meeting Information"))
 
 ***
 

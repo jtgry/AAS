@@ -15,7 +15,7 @@ When: February 5th, 8:00am to 5:00pm
 
 Where: **Rooster Hall**, 216 N Walnut Ave, Demopolis, AL 36732 (click [**here **](https://goo.gl/maps/mWivDfurA3gitiTQA)for directions)
 
-What: This is out annual winter meeting where we will hold an artifact ID session, silent book auction, presentations, and our quarterly business meeting.
+What: This is our annual winter meeting where we will hold an artifact ID session, silent book auction, presentations, and our quarterly business meeting.
 
 ![](/uploads/2022-winter-flyer-final_page_1.jpg)
 

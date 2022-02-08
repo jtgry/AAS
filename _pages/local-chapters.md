@@ -33,7 +33,7 @@ Meetings are held on fourth Tuesdays (except June, July, August, and December) a
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Chris Moore at moore_enloec@yahoo.com
+Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Charles Moore at moore_enloec@yahoo.com
 
 ### Southwest Alabama
 

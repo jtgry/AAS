@@ -7,7 +7,7 @@ menu: true
 menu_position: 9
 
 ---
-**President:** Steven Meredith 
+**President:** Steven Meredith
 
 email: mered003@gmail.com
 
@@ -63,7 +63,7 @@ Todd Prater
 * **Cullman:** Robbie Camp at robbiecamp75@gmail.com
 * **East Alabama:** Currently looking for a new leader (contact AAS President if interested)
 * **Huntsville:** Ben Hoksbergen at benhoksbergen@gmail.com
-* **Muscle Shoals:** Gerald Hester at geralrh@aol.com
+* **Muscle Shoals:** Charles Moore at moore_enloec@yahoo.com
 * **Southwest Chapter:** Vacant
 
   **Troy:** Vacant

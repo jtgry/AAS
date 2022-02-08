@@ -33,15 +33,15 @@ Meetings are held on fourth Tuesdays (except June, July, August, and December) a
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Jerry Hester [GeraldRH@aol.com](mailto:GeraldRH@aol.com)
+Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Chris Moore at moore_enloec@yahoo.com
 
 ### Southwest Alabama
 
-At this time there are no regular chapter meetings or president. 
+At this time there are no regular chapter meetings or president.
 
 ### Troy University
 
-This local chapter currently has no president or meeting times. 
+This local chapter currently has no president or meeting times.
 
 ### Tuscaloosa
 

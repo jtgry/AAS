@@ -11,7 +11,7 @@ menu_position: 1
 
 When: August 5-7, 2022
 
-Where: Florence Museum, 1028 S Court St, Florence, AL 35630,  click [here](https://www.google.com/maps/dir//Florence+Indian+Mound+and+Museum,+1028+S+Court+St,+Florence,+AL+35630/@34.7904975,-87.6749716,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x887d485e52942ee9:0xa18de114702131d5!2m2!1d-87.6704869!2d34.7904932!3e0) for directions
+Where: [Florence Museum](https://www.florencealmuseums.com/landing-page/indianmoundmuseum), 1028 S Court St, Florence, AL 35630
 
 ![](/uploads/summer-meeting.jpg)
 

@@ -7,21 +7,13 @@ menu: true
 menu_position: 1
 
 ---
-# ATTENTION: THE WINTER MEETING HAS CHANGED VENUES! WE ARE NOW AT ROOSTER HALL, DEMOPOLIS!!!!
+# ATTENTION: THE SUMMER MEETING WILL BE IN FLORENCE, AL.
 
-# Winter Meeting
+When: August 5-7, 2022
 
-When: February 5th, 8:00am to 5:00pm
+Where: Florence Museum, 1028 S Court St, Florence, AL 35630,  click [here](https://www.google.com/maps/dir//Florence+Indian+Mound+and+Museum,+1028+S+Court+St,+Florence,+AL+35630/@34.7904975,-87.6749716,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x887d485e52942ee9:0xa18de114702131d5!2m2!1d-87.6704869!2d34.7904932!3e0) for directions
 
-Where: **Rooster Hall**, 216 N Walnut Ave, Demopolis, AL 36732 (click [**here **](https://goo.gl/maps/mWivDfurA3gitiTQA)for directions)
-
-What: This is our annual winter meeting where we will hold an artifact ID session, silent book auction, presentations, and our quarterly business meeting.
-
-![](/uploads/2022-winter-flyer-final_page_1.jpg)
-
-![](/uploads/2022-winter-flyer-final_page_2.jpg)
-
-(For a printable pdf, click [**here**](/uploads/2022-aas-winter-meeting-flyer.pdf "2022 Winter Meeting Information"))
+![](/uploads/summer-meeting.jpg)
 
 ***
 

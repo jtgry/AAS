@@ -11,7 +11,19 @@ The Alabama Department of Archives and History (ADAH) will open its new temporar
 
 ***
 
-On September 25, there will be a museum guided tour at Confederate Memorial Park at 10:00am. 
+# Fort Morgan After Dark Haunted Tour
+
+September 24, 7pm-11pm
+
+October 22, 7pm-11pm
+
+October 29, 7pm-11pm
+
+For more information, visit their facebook page [here](https://www.facebook.com/HistoricFortMorgan).
+
+***
+
+On September 25, there will be a museum guided tour at Confederate Memorial Park at 10:00am.
 
 ***
 

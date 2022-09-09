@@ -7,13 +7,11 @@ menu: true
 menu_position: 1
 
 ---
-# ATTENTION: THE SUMMER MEETING WILL BE IN FLORENCE, AL.
+![](/uploads/mnaf_volunteers_horizontal.png)
 
-When: August 5-7, 2022
+Moundville Archaeological Park is looking for volunteers for the Native American Festival, October 12-15! For more information click [here](festival.museums.ua.edu).
 
-Where: [Florence Museum](https://www.florencealmuseums.com/landing-page/indianmoundmuseum), 1028 S Court St, Florence, AL 35630
-
-![](/uploads/summer-meeting.jpg)
+![](/uploads/mnaf_savethedate_postcard.png)
 
 ***
 

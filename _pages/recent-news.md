@@ -7,6 +7,14 @@ menu: true
 menu_position: 1
 
 ---
+The Alabama Department of Archives and History (ADAH) will open its new temporary exhibit, Alabama Radio Moments, at the Museum of Alabama on **Saturday, September 10, 2022**. Special family activities and demonstrations are planned throughout the afternoon to highlight the history and technology of radio. For more info, click [here](https://archives.alabama.gov/about/press-releases/news-detail.aspx?ID=15940).
+
+***
+
+On September 25, there will be a museum guided tour at Confederate Memorial Park at 10:00am. 
+
+***
+
 ![](/uploads/mnaf_volunteers_horizontal.png)
 
 Moundville Archaeological Park is looking for volunteers for the Native American Festival, October 12-15! For more information click [here](festival.museums.ua.edu).

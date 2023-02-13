@@ -7,31 +7,25 @@ menu: true
 menu_position: 1
 
 ---
-The Alabama Department of Archives and History (ADAH) will open its new temporary exhibit, Alabama Radio Moments, at the Museum of Alabama on **Saturday, September 10, 2022**. Special family activities and demonstrations are planned throughout the afternoon to highlight the history and technology of radio. For more info, click [here](https://archives.alabama.gov/about/press-releases/news-detail.aspx?ID=15940).
+# Attention!! AAS Winter Meeting
+
+## When: Friday-Sunday, February 17-19
+
+## Where: Troy University
+
+## Reception will be at the [International Arts Center ](https://www.google.com/maps/dir/33.1998864,-87.4901075/troy+university+international+arts+center/@32.5801241,-87.8462353,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888dece4e3a4c8c5:0x2b4fb15b89bebdce!2m2!1d-85.9597738!2d31.8006091) (158 International Blvd)
+
+## The Meeting will be at the [Trojan Center Ballroom](https://www.google.com/maps/dir/33.1998864,-87.4901075/Dorothy+Kelly+Adams+University+Center,+7+College+Dr+%231,+Troy,+AL+36082/@32.585016,-87.2835591,9z/data=!3m2!4b1!5s0x888dece4e115216d:0x97d5cfdc60438cdd!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888dece678910399:0xf53778209c23bd4d!2m2!1d-85.955699!2d31.8013293) (Dorothy Kelly Adams University Center, 7 College Dr #1, Troy, AL 36082)
+
+## Sunday will be a Junior Archaeology Day at the [Troy University Arboretum](https://www.google.com/maps/dir/33.1998864,-87.4901075/Troy+Arboretum,+Pell+Avenue,+Troy,+AL/@32.5898001,-87.2872616,9z/data=!3m2!4b1!5s0x888dece4e115216d:0x97d5cfdc60438cdd!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888decfcf06a6375:0xd941ea29bc1ffee0!2m2!1d-85.9627276!2d31.7961071) (101 Pell Ave, Troy, AL)
+
+### You can Find the Schedule below and [here](aas-troy-winter-schedule.pdf)
+
+![](/uploads/aas-troy-winter-schedule_page_1.jpg)
+
+![](/uploads/aas-troy-winter-schedule_page_2.jpg)
 
 ***
-
-# Fort Morgan After Dark Haunted Tour
-
-September 24, 7pm-11pm
-
-October 22, 7pm-11pm
-
-October 29, 7pm-11pm
-
-For more information, visit their facebook page [here](https://www.facebook.com/HistoricFortMorgan).
-
-***
-
-On September 25, there will be a museum guided tour at Confederate Memorial Park at 10:00am.
-
-***
-
-![](/uploads/mnaf_volunteers_horizontal.png)
-
-Moundville Archaeological Park is looking for volunteers for the Native American Festival, October 12-15! For more information click [here](festival.museums.ua.edu).
-
-![](/uploads/mnaf_savethedate_postcard.png)
 
 ***
 

@@ -37,7 +37,9 @@ Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Flor
 
 ### Southwest Alabama
 
-At this time there are no regular chapter meetings or president.
+Meetings are held during the academic year on the first Tuesday of the month at 5:30pm at the [University of South Alabama Archaeology Museum](https://www.southalabama.edu/org/archaeology/museum/). No meetings are held during the summer. Meetings are free and open to the public. 
+
+Contact: Jen Knutson at jenknutson@southalabama.edu; (251) 460-6106 
 
 ### Troy University
 

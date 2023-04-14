@@ -1,0 +1,32 @@
+collections_config:
+  pages:
+    name: Pages
+    path: _pages
+    schemas:
+      default:
+        path: .cloudcannon/schemas/page.md
+        name: Page
+        _enabled_editors:
+          - content
+        _inputs:
+          $.layout:
+            hidden: true
+          $.image_path:
+            label: Image
+          $.menu_position:
+            type: number
+        text_key: title
+  home:
+    name: Home
+    path: _home
+collection_groups:
+  - heading: Content
+    collections:
+      - pages
+      - home
+paths:
+  static: ''
+  uploads: uploads
+_inputs:
+  template:
+    hidden: true

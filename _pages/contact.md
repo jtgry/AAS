@@ -27,7 +27,7 @@ menu_position: 9
 
 **Assistant Newsletter Editor**<br>Sarah Coffey – [sarahmcoffey@southalabama.edu](mailto:sarahmcoffey@southalabama.edu)
 
-**Journal of Alabama Archaeology Editor** <br>Greg Waselkov – [gwaselkov@southalabama.edu](mailto:gwaselkov@southalabama.edu)
+**Journal of Alabama Archaeology Editor**<br>Greg Waselkov – [gwaselkov@southalabama.edu](mailto:gwaselkov@southalabama.edu)
 
 **Journal of Alabama Archaeology Assistant Editors**<br>Heather Puckett – [heather.r.puckett@gmail.com](mailto:heather.r.puckett@gmail.com)
 

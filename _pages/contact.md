@@ -1,73 +1,63 @@
 ---
+_schema: default
 layout: page
 title: Contact
-permalink: "/contact/"
-image_path: "/images/Huntsville Intl Arch Day 2013.jpg"
+permalink: /contact/
+image_path: /images/Huntsville Intl Arch Day 2013.jpg
 menu: true
 menu_position: 9
-
 ---
-**President:** Steven Meredith
+**President:** Ben Hoksbergen – benhoksbergen@gmail.com
 
-email: mered003@gmail.com
+**First Vice-President:** Stephen Carmody – scarmody@troy.edu
 
-**First Vice-President:** David Johnson
+**Second Vice-President:** Brian Murphy – BMurphy@florenceal.org
 
-**Second Vice-President:** Todd Prater
+**Secretary:** Nic Glass – glassnic@ymail.com
 
-**Secretary:** Nic Glass
+**Treasurer:** LisaMarie Malischke – lmalisch@aum.edu
 
-**Treasurer:** Ashley Dumas
+**Asst. Treasurer:** Ashley Dumas – ADumas@uwa.edu
 
-**Asst. Treasurer:** Erin Nelson
+**Alabama Historical Commission Representative:** Meghan Buchanan – meb0105@auburn.edu
 
-**Alabama Historical Commission Representative:** Meghan Buchanan
+**Web Editor:** Sarah Coffey – sarahmcoffey@southalabama.edu
 
-**Web Editor and Photo Archivist:** Clay Nelson
+**Stone and Bones Newsletter Editor:** Teresa Paglione – tlpaglione@gmail.com
 
-**Newsletter Editor (Stones and Bones):** Teresa Paglione
+**Assistant Newsletter Editor:** Sarah Coffey – sarahmcoffey@southalabama.edu
 
-**Assistant Newsletter Editor:** Mark Cole
+**Journal of Alabama Archaeology Editor:** Greg Waselkov – gwaselkov@southalabama.edu
 
-**Journal of Alabama Archaeology:**
+**Journal of Alabama Archaeology Assistant Editors:** Heather Puckett – heather.r.puckett@gmail.com
 
-Editor: Heather Puckett
+**Board at Large (Expiring 2026):**
 
-Assistant Editors: Ashely Dumas, Steven Meredith, Sara Price, and Greg Waselkov
+Erin Nelson – erinnelson@southalabama.edu
 
-**Board at Large (Expiring 2023):**
+Lydia Carmody – ldcarmody12@gmail.com
 
-Camille Morgan
+**Board at Large (Expiring 202?):**
 
-Lauren Downs
+Ned Jenkins – ned.jenkinsahc@gmail.com
 
-Annie Blankenship
+Robbie Camp – robbiecamp75@gmail.com
 
-**Board at Large (Expiring 2022):**
+Marsha Holley – mmholley@ua.edu
 
-Stacye Hathorn
-
-Mark Cole
-
-Linda Derry
-
-**Board at Large (Expiring 2021):**
-
-Daniel Rhodes
-
-Todd Prater
+**President Ex-Officio:** Steven Meredith – mered003@gmail.com
 
 **Chapter Presidents:**
 
-* **Coosa Valley:** [Harry Holstein](holstein@jsu.edu) at holstein@jsu.edu
-* **Cullman:** Robbie Camp at robbiecamp75@gmail.com
+* **Coosa Valley:** Harry Holstein – [holstein@jsu.edu](mailto:holstein@jsu.edu)
+* **Cullman:** Robbie Camp – robbiecamp75@gmail.com
 * **East Alabama:** Currently looking for a new leader (contact AAS President if interested)
-* **Huntsville:** Ben Hoksbergen at benhoksbergen@gmail.com
-* **Muscle Shoals:** Charles Moore at moore_enloec@yahoo.com
+* **Huntsville:** Scott Shaw – nss30571@comcast.net
+* **Monroe County:** David Johnson – johnsdat@ymail.com
+* **Muscle Shoals:** Charles Moore – moore\_enloec@yahoo.com
 * **Southwest Chapter:** Vacant
-
-  **Troy:** Vacant
-* **Tuscaloosa:** Allie Smith at amsmith75@crimson.ua.edu
+* **Troy:** Vacant
+* **Tuscaloosa:** Allie Smith – amsmith75@crimson.ua.edu
 
 **Send Physical Correspondence to:**
 

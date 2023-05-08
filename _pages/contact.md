@@ -50,9 +50,9 @@ Marsha Holley – mmholley@ua.edu
 **Chapter Presidents:**
 
 * **Coosa Valley:** Harry Holstein – [holstein@jsu.edu](mailto:holstein@jsu.edu)
-* **Cullman:** Robbie Camp – robbiecamp75@gmail.com
+* **Cullman:** Robbie Camp – [robbiecamp75@gmail.com](mailto:robbiecamp75@gmail.com)
 * **East Alabama:** Currently looking for a new leader (contact AAS President if interested)
-* **Huntsville:** Scott Shaw – nss30571@comcast.net
+* **Huntsville:** Scott Shaw – [nss30571@comcast.net](mailto:nss30571@comcast.net)
 * **Monroe County:** David Johnson – johnsdat@ymail.com
 * **Muscle Shoals:** Charles Moore – moore\_enloec@yahoo.com
 * **Southwest Chapter:** Vacant

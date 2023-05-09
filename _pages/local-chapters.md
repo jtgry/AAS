@@ -9,7 +9,7 @@ menu_position: 7
 ---
 Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
 
-![](/uploads/2023-chapter-map.jpg){: width="1391" height="1902"}
+![](/uploads/2023-chapter-map-1.jpg){: width="1202" height="1643"}
 
 ### Birmingham
 

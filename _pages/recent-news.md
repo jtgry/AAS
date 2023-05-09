@@ -1,47 +1,31 @@
 ---
+_schema: default
 layout: page
 title: Recent News
-permalink: "/news/"
-image_path: "/images/FieldDays.jpg"
+permalink: /news/
+image_path: /images/FieldDays.jpg
 menu: true
 menu_position: 1
-
 ---
-# Attention!! AAS Winter Meeting
+# Summer 2023 Meeting
 
-## When: Friday-Sunday, February 17-19
+Details to come...
 
-## Where: Troy University
 
-## Reception will be at the [International Arts Center ](https://www.google.com/maps/dir/33.1998864,-87.4901075/troy+university+international+arts+center/@32.5801241,-87.8462353,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888dece4e3a4c8c5:0x2b4fb15b89bebdce!2m2!1d-85.9597738!2d31.8006091) (158 International Blvd)
-
-## The Meeting will be at the [Trojan Center Ballroom](https://www.google.com/maps/dir/33.1998864,-87.4901075/Dorothy+Kelly+Adams+University+Center,+7+College+Dr+%231,+Troy,+AL+36082/@32.585016,-87.2835591,9z/data=!3m2!4b1!5s0x888dece4e115216d:0x97d5cfdc60438cdd!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888dece678910399:0xf53778209c23bd4d!2m2!1d-85.955699!2d31.8013293) (Dorothy Kelly Adams University Center, 7 College Dr #1, Troy, AL 36082)
-
-## Sunday will be a Junior Archaeology Day at the [Troy University Arboretum](https://www.google.com/maps/dir/33.1998864,-87.4901075/Troy+Arboretum,+Pell+Avenue,+Troy,+AL/@32.5898001,-87.2872616,9z/data=!3m2!4b1!5s0x888dece4e115216d:0x97d5cfdc60438cdd!4m9!4m8!1m1!4e1!1m5!1m1!1s0x888decfcf06a6375:0xd941ea29bc1ffee0!2m2!1d-85.9627276!2d31.7961071) (101 Pell Ave, Troy, AL)
-
-### You can Find the Schedule below and [here](aas-troy-winter-schedule.pdf)
-
-![](/uploads/aas-troy-winter-schedule_page_1.jpg)
-
-![](/uploads/aas-troy-winter-schedule_page_2.jpg)
-
-***
-
-***
 
 # Call for Papers for the Journal of Alabama Archaeology
 
-_The Journal of Alabama Archaeology_ is a peer-reviewed journal that provides the latest research on topics relevant to the history and archaeology of Alabama. Published by the Alabama Archaeological Society (AAS), the JAA covers a wide range of archaeological topics including prehistoric and historical archaeology of Alabama, however papers on related topics in the Southeast are welcome. The AAS welcomes submissions from professional, amateur, and/or avocational archaeologists, and students. This presents a great opportunity for graduate students to publish information on their research, and for recipients of the AAS Scholarships to highlight their research.
+*The Journal of Alabama Archaeology*, a peer-reviewed journal, provides the latest research on topics relevant to archaeology of Alabama. Published by the Alabama Archaeological Society, the *JAA* covers a wide range of subjects encompassing all eras of Alabama archaeology, as well as articles on related topics in the Southeast. The *JAA* welcomes submissions from professional, amateur, avocational, and student archaeologists. Our journal offers a great opportunity for graduate students and recipients of AAS Scholarships to publish their research. Prospective authors should consult the journal's editorial guidelines at [https://alabamaarchaeology.org/files/authorsinfo.pdf](https://alabamaarchaeology.org/files/authorsinfo.pdf){: target="_blank"}<br>For more information, please contact the current editorial team:<br>Dr. Greg Waselkov, Dr. Heather Puckett, or Dr. Ashley Dumas at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com)
 
 Subscriptions to the JAA may be obtained through membership to the AAS. Typically there is one volume per year, although these may be published based on time and budgetary restraints. Please review the Submission and Editorial Policies for guidelines below.
 
 **Call for Papers:** In order to meet this year’s publishing requirements, we are presently seeking papers related to three topics for 2020-2021.
 
-· _CALL FOR PAPERS 1:_ November 2019 marked the centennial of the signing of the Armistice, ending World War I and December 2019 marked the bicentennial of the State of Alabama. This is a call for papers to be incorporated into a Multi-Centennial Issue to commemorate these two events. Examples include research performed on Mabila, Territorial Capitals, Cahaba, military-related topics, or other topics related to the history of the State.
+· *CALL FOR PAPERS 1:* November 2019 marked the centennial of the signing of the Armistice, ending World War I and December 2019 marked the bicentennial of the State of Alabama. This is a call for papers to be incorporated into a Multi-Centennial Issue to commemorate these two events. Examples include research performed on Mabila, Territorial Capitals, Cahaba, military-related topics, or other topics related to the history of the State.
 
-· _CALL FOR PAPERS 2:_ Stone features have been a topic of discussion for several years. This is a call for papers to address the study of stone features or mound as a whole, to be incorporated into a single issue. This may include stone features associated with prehistoric or historical archaeology.
+· *CALL FOR PAPERS 2:* Stone features have been a topic of discussion for several years. This is a call for papers to address the study of stone features or mound as a whole, to be incorporated into a single issue. This may include stone features associated with prehistoric or historical archaeology.
 
-· _CALL FOR PAPERS 3:_ Authors may submit additional articles based on research topics or other areas of interest.
+· *CALL FOR PAPERS 3:* Authors may submit additional articles based on research topics or other areas of interest.
 
 **Deadline for Submission:** Papers should be submitted no later than APRIL 16, 2020.
 
@@ -53,13 +37,13 @@ All submitted papers are subject to editorial review. Peer review is available u
 
 For more information, please contact the current Editorial Team: Dr. Heather Puckett, Dr. Greg Waselkov, Ms. Sarah Price, or Dr. Ashley Dumas at [JournalAlabamaArchaeology@gmail.com](mailto:JournalAlabamaArchaeology@gmail.com).
 
-More information about the JAA is available at [https://alabamaarchaeology.org/journal/](https://alabamaarchaeology.org/files/authorsinfo.pdf "https://alabamaarchaeology.org/files/authorsinfo.pdf").
+More information about the JAA is available at [https://alabamaarchaeology.org/journal/](https://alabamaarchaeology.org/files/authorsinfo.pdf "https://alabamaarchaeology.org/files/authorsinfo.pdf")
 
-***
+---
 
-_The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft._
+*The AAS Executive Board has approved a draft of a Sexual Harassment Policy that will be added to the by-laws. However, the policy must be approved by AAS members at large. The vote will take place at one of our seasonal state-wide meetings. The policy draft is presented below. Any comments or questions you have about the policy can be submitted through the website and will be discussed before the board and taken into consideration for the final draft.*
 
-***
+---
 
 The Alabama Archaeological Society (AAS) is committed to the creation and maintenance of an environment in which all individuals, members and non-members, are treated with respect and dignity. The AAS is a nonprofit organization chartered under state of Alabama laws and recognizes the necessity of compliance with all applicable federal, state, and local laws including, but not limited to, those that prohibit discriminatory practices including harassment. Therefore, the AAS will maintain a strict policy of prohibiting unlawful harassment of any kind, including sexual harassment and harassment based on race, color, religion, national origin, sexual orientation, gender identity or expression, sex, age, physical or mental disability or any other characteristic protected by state, federal or local discrimination laws. Sexual harassment includes, but is not limited to, making unwanted sexual advances and/or requests for sexual favors where such conduct has the purpose or effect of substantially interfering with an individual’s mental, physical, and/or emotional well-being and/or creating an intimidating, hostile, or offensive environment. Members and nonmembers who violate this policy are subject to discipline up to and including the possibility of immediate and permanent expulsion from the society and its functions.
 

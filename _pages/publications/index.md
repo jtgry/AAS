@@ -25,7 +25,7 @@ Some past issues of the *Journal of Alabama Archaeology* are available for purch
 
 Occasionally, the Alabama Archaeological Society lends editorial support for publications on Alabama archaeological research topics.
 
-Most recently, the Alabama Archaeological Society provided editorial assistance and contributions for David Johnson's new book (2019): Alabama's Prehistoric Indians and Artifacts.&nbsp;![](/uploads/alabama-handbook-2nd-edition.png){: width="907" height="1360"}
+Most recently, the Alabama Archaeological Society provided editorial assistance and contributions for David Johnson's new book (2019): Alabama's Prehistoric Indians and Artifacts.&nbsp;![](/uploads/alabama-handbook-2nd-edition-1.jpg){: width="907" height="1360"}
 
 This volume is a field guide for artifacts from all around the state including projectile points, stone tools, and pottery with tips on collecting, recording, and learning. It includes maps and information about various public archaeological sites. An easily understandable one-stop reference for Alabama archaeology, and best of all, all proceeds from sales of the book go to the Alabama Archaeological Society!<br>[Click here to find it on Amazon.com.](https://www.amazon.com/HANDBOOK-ALABAMAS-PREHISTORIC-INDIANS-ARTIFACTS/dp/099938306X/ref=d_pd_sbs_vft_none_sccl_2_1/137-1481578-6354418?pd_rd_w=4592U&amp;content-id=amzn1.sym.979276af-0315-48f7-920c-ae1ddfce33e2&amp;pf_rd_p=979276af-0315-48f7-920c-ae1ddfce33e2&amp;pf_rd_r=J4SF80PVN4D1R3MD4YDN&amp;pd_rd_wg=7GylK&amp;pd_rd_r=e0318e9b-d0f2-4056-985d-e3b2177e252a&amp;pd_rd_i=099938306X&amp;psc=1)
 

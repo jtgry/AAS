@@ -17,7 +17,7 @@ To receive upcoming issues of the journal and the newsletter, [Join AAS](/suppor
 
 #### The Journal of Alabama Archaeology
 
-The *Journal of Alabama Archaeology* remains the primary forum for the publication of papers on the prehistoric and historic archaeology of Alabama, however papers on related topics in the Southeast are welcome. Papers from students, amateur, and professional archaeologists are solicited. Download the current [***Guidelines For Authors* here**](/jaainstructions/) or contact the journal editors at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com)
+The *Journal of Alabama Archaeology* remains the primary forum for the publication of papers on the prehistoric and historic archaeology of Alabama, however papers on related topics in the Southeast are welcome. Papers from students, amateur, and professional archaeologists are solicited. Download the current [***Guidelines For Authors* here**](https://alabamaarchaeology.org/files/authorsinfo.pdf) or contact the journal editors at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com)
 
 Some past issues of the *Journal of Alabama Archaeology* are available for purchase at $15 each. Contact the editorial team at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com) regarding availability of particular issues.
 

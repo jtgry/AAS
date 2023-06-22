@@ -9,9 +9,9 @@ menu_position: 1
 ---
 # Summer 2023 Meeting
 
-### &nbsp;&nbsp;
+#
 
-### &nbsp; &nbsp;&nbsp; Friday July 21, 2023 - Saturday July 22, 2023 &nbsp;&nbsp;
+### Friday July 21, 2023 - Saturday July 22, 2023 &nbsp;&nbsp;
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; at Sloss Furnace
 

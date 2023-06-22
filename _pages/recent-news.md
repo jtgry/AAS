@@ -13,9 +13,9 @@ menu_position: 1
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ![](/uploads/sloss-furnaces-birmingham-al-north-view-20160714-1.jpg){: width="375" height="252"}
 
-### Sloss Furnace
+#### Sloss Furnace
 
-### Friday July 21, 2023 - Saturday July 22, 2023
+#### Friday July 21, 2023 - Saturday July 22, 2023
 
 **Friday:** Junior Archaeology Day & Meet and Greet at Back Forty Brewery<br>**Saturday:** AAS Meeting and tour of Sloss Furnace
 

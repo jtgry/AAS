@@ -9,7 +9,15 @@ menu_position: 1
 ---
 # Summer 2023 Meeting
 
-Details to come…
+### &nbsp;&nbsp;
+
+### &nbsp; &nbsp;&nbsp; Friday July 21, 2023 - Saturday July 22, 2023 &nbsp;&nbsp;
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; at Sloss Furnace
+
+**Friday:** Junior Archaeology Day & evening Meet and Greet at Back Forty Brewery<br>**Saturday:** AAS Meeting and tour of Sloss Furnace
+
+*Additional details and list of speakers to come...*
 
 # Call for Papers for the Journal of Alabama Archaeology
 

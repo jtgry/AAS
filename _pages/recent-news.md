@@ -9,7 +9,9 @@ menu_position: 1
 ---
 # Summer 2023 Meeting
 
-#
+
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ![](/uploads/sloss-furnaces-birmingham-al-north-view-20160714-1.jpg){: width="375" height="252"}
 
 ### Friday July 21, 2023 - Saturday July 22, 2023 &nbsp;&nbsp;
 

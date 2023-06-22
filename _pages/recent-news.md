@@ -15,7 +15,7 @@ menu_position: 1
 
 ### Sloss Furnace
 
-### Friday July 21, 2023 - Saturday July 22, 2023 &nbsp;
+### Friday July 21, 2023 - Saturday July 22, 2023
 
 **Friday:** Junior Archaeology Day & Meet and Greet at Back Forty Brewery<br>**Saturday:** AAS Meeting and tour of Sloss Furnace
 

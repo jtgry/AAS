@@ -9,17 +9,15 @@ menu_position: 1
 ---
 # Summer 2023 Meeting
 
-
-
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ![](/uploads/sloss-furnaces-birmingham-al-north-view-20160714-1.jpg){: width="375" height="252"}
 
 #### Sloss Furnace
 
 #### Friday July 21, 2023 - Saturday July 22, 2023
 
-**Friday:** Junior Archaeology Day & Meet and Greet at Back Forty Brewery<br>**Saturday:** AAS Meeting and tour of Sloss Furnace
+**Friday:** Junior Archaeology Day & Meet and Greet at Back Forty Brewery &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ![](/uploads/jrarchdayflyer2023.jpg){: width="396" height="510"}<br>**Saturday:** AAS Meeting and tour of Sloss Furnace
 
-*Additional details and list of speakers to come...*
+*Additional details and list of speakers to come…*
 
 # Call for Papers for the Journal of Alabama Archaeology
 

@@ -19,6 +19,8 @@ menu_position: 1
 
 *Additional details and list of speakers to come…*
 
+
+
 # Call for Papers for the Journal of Alabama Archaeology
 
 *The Journal of Alabama Archaeology*, a peer-reviewed journal, provides the latest research on topics relevant to archaeology of Alabama. Published by the Alabama Archaeological Society, the *JAA* covers a wide range of subjects encompassing all eras of Alabama archaeology, as well as articles on related topics in the Southeast. The *JAA* welcomes submissions from professional, amateur, avocational, and student archaeologists. Our journal offers a great opportunity for graduate students and recipients of AAS Scholarships to publish their research.<br>Prospective authors should consult the journal's editorial guidelines at [https://alabamaarchaeology.org/files/authorsinfo.pdf](https://alabamaarchaeology.org/files/authorsinfo.pdf){: target="_blank"}<br>For more information, please contact the current editorial team:<br>Dr. Greg Waselkov, Dr. Heather Puckett, or Dr. Ashley Dumas at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com)

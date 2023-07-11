@@ -7,9 +7,9 @@ image_path: /images/FieldDays.jpg
 menu: true
 menu_position: 1
 ---
-# &nbsp; &nbsp;&nbsp; Summer 2023 Meeting
+# &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Summer 2023 Meeting
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sloss Furnace
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sloss Furnace
 
 #### Friday July 21, 2023 - Saturday July 22, 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 

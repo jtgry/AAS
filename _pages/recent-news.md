@@ -7,9 +7,7 @@ image_path: /images/FieldDays.jpg
 menu: true
 menu_position: 1
 ---
-# &nbsp; Summer 2023 Meeting
-
-###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+# &nbsp; &nbsp;&nbsp; Summer 2023 Meeting
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sloss Furnace
 
@@ -18,6 +16,8 @@ menu_position: 1
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ![](/uploads/jrarchdayflyer2023.jpg){: width="396" height="510"}
 
 ![](/uploads/2023aassummermeetingschedule.jpg){: width="635" height="898"}
+
+#
 
 # Call for Papers for the Journal of Alabama Archaeology
 

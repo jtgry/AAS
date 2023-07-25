@@ -1,8 +1,8 @@
 ---
 _schema: default
 layout: page
-title: Links
-permalink: /links/
+title: Resource Links
+permalink: /resource_links/
 image_path: /images/about.jpg
 menu: false
 menu_position: 7

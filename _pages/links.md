@@ -7,7 +7,7 @@ image_path: /images/about.jpg
 menu: false
 menu_position: 7
 ---
-**Archaeological and Historical websites\* that may be of interest to members:**
+**Archaeological and Historical websites that may be of interest to members\*:**
 
 * [Guidelines for Archaeological&nbsp; Survey and Testing Investigations in Alabama](https://ahc.alabama.gov/section106PDFs/Policy_for_Archaeological_Survey_and_Testing_in_Alabama.pdf)
 * [Alabama Historical Association](http://www.alabamahistory.net/)
@@ -42,4 +42,4 @@ menu_position: 7
 * [Southeastern Archaeological Conference](http://www.southeasternarchaeology.org/)
 * [The Archaeological Conservancy](https://www.archaeologicalconservancy.org/)
 
-**Notice**\:&nbsp;*Links on this page are provided for informational purposes only.&nbsp; Inclusion on this page is not meant to suggest any form of endorsement by the Alabama Archaeological Society nor its Board of Directors.&nbsp; To suggest a website directly related to the scientific/informed study of Alabama archaeology and/or Alabama history for possible inclusion on this page, or to report a broken link, please contact the* [Web Editor](mailto:sarahmcoffey@southalabama.edu?subject=AAS%20Links%20Page).
+**\*Notice**\:&nbsp;*Links on this page are provided for informational purposes only.&nbsp; Inclusion on this page is not meant to suggest any form of endorsement by the Alabama Archaeological Society nor its Board of Directors.&nbsp; To suggest a website directly related to the scientific/informed study of Alabama archaeology and/or Alabama history for possible inclusion on this page, or to report a broken link, please contact the [Web Editor](mailto:sarahmcoffey@southalabama.edu?subject=AAS%20Links%20Page)*.

@@ -13,11 +13,9 @@ Past issues of the *Stones and Bones*, the newsletter of the Alabama Archaeologi
 
 Please note that these documents should be considered historical artifacts of the time in which they were produced, and they reflect the evolving nature of the society over time - as well as changing attitudes towards Native Americans and archaeological resources.&nbsp; The early issues of the Stones and Bones do not necessarily reflect the current views of the Alabama Archaeological Society, nor its Board of Directors.
 
-## [**Birmingham Anthropological Society Newsletters (1956-1958)**](/bas_newsletters/)
+### [Birmingham Anthropological Society Newsletters (1956-1958)](/bas_newsletters/)
 
-
-
-
+##
 
 ## **Stones and Bones (1959-2017) - CURRENTLY UNDER CONSTRUCTION**
 

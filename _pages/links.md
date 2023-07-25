@@ -4,7 +4,7 @@ layout: page
 title: Resource Links
 permalink: /resource_links/
 image_path: /images/about.jpg
-menu: false
+menu: true
 menu_position: 7
 ---
 **Archaeological and Historical websites that may be of interest to members\*:**

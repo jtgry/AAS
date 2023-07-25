@@ -37,15 +37,15 @@ Meeting information to be announced soon.
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Charles Moore at moore\_enloec@yahoo.com
+Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Charles Moore at [moore\_enloec@yahoo.com](mailto:moore_enloec@yahoo.com)
 
 ### Southwest Alabama
 
-Meetings are held during the academic year on the first Tuesday of the month at 5:30pm at the [University of South Alabama Archaeology Museum](https://www.southalabama.edu/org/archaeology/museum/). No meetings are held during the summer. Meetings are free and open to the public.<br>Contact: Jen Knutson at jenknutson@southalabama.edu; (251) 460-6106
+Meetings are held during the academic year on the first Tuesday of the month at 5:30pm at the [University of South Alabama Archaeology Museum](https://www.southalabama.edu/org/archaeology/museum/). No meetings are held during the summer. Meetings are free and open to the public.<br>Contact: Jen Knutson at [jenknutson@southalabama.edu](mailto:jenknutson@southalabama.edu); (251) 460-6106
 
 ### Troy University
 
-This local chapter currently has no president or meeting times.
+This chapter currently has no president or meeting times.
 
 ### Tuscaloosa
 

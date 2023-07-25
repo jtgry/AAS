@@ -15,7 +15,7 @@ Please note that these documents should be considered historical artifacts of th
 
 ## **Birmingham Anthropological Society Newsletters (1956-1958):**
 
-* BAS Vol. 1, 1956
+* [BAS Vol. 1, 1956](/bas_1956/)
 * [BAS Vol. 1, No. 1, Jan. 1956](/uploads/BAS Vol. 1, No. 1, Jan. 1956.pdf)
 * [BAS Vol. 1, No. 3, Mar. 1956](/uploads/BAS Vol. 1, No. 3, Mar. 1956.pdf)
 * [BAS Vol. 1, No. 4, April 1956](/uploads/BAS Vol. 1, No. 4, Apr. 1956.pdf)

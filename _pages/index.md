@@ -7,8 +7,6 @@ image_path: ''
 menu: true
 menu_position: 6
 ---
-#### Alabama Archaeological Society Publications
-
 AAS members receive six issues of the *Stones & Bones* newsletter throughout the year and the Journal of Alabama Archaeology.
 
 [Past issues of the *Stones & Bones* newsletter are available here.](/stones_bones/)
@@ -21,7 +19,7 @@ The *Journal of Alabama Archaeology* remains the primary forum for the publicati
 
 Some past issues of the *Journal of Alabama Archaeology* are available for purchase at $15 each. Contact the editorial team at [aasjournal2@gmail.com](mailto:aasjournal2@gmail.com) regarding availability of particular issues.
 
-#### **Supported Publications**
+#### Supported Publications
 
 Occasionally, the Alabama Archaeological Society lends editorial support for publications on Alabama archaeological research topics.
 

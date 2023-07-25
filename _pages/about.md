@@ -7,17 +7,7 @@ image_path: /images/Fieldwork2.jpg
 menu: true
 menu_position: 1
 ---
-Navigation:
-
-[**JOIN & SUPPORT**](/support/)
-
-[**GRANTS AND SCHOLARSHIPS**](/grants/)
-
-[**PUBLICATIONS**](/publications/)
-
-[**LOCAL CHAPTERS**](/local-chapters/)
-
-[**OUTSIDE LINKS**](/links/)
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;** [**LOCAL CHAPTERS**](/local-chapters/)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;** [**OUTSIDE LINKS**](/links/)
 
 # HISTORY OF THE SOCIETY
 

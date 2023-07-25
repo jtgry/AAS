@@ -1,8 +1,8 @@
 ---
 _schema: default
 layout: page
-title: Local Chapters
-permalink: /local-chapters/
+title: Chapters
+permalink: /chapters/
 image_path: /images/about.jpg
 menu: true
 menu_position: 3
@@ -51,4 +51,4 @@ This local chapter currently has no president or meeting times.
 
 Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.<br>Contact Allie Smith - [allie@archaeospatial.com](mailto:allie@archaeospatial.com)
 
-Interested in starting your own local chapter?&nbsp; Please contact our President Ben Hoksbergen for more details at [benhoksbergen@gmail.com](mailto:benhoksbergen@gmail.com){: target="_blank"}
+Interested in starting your own chapter?&nbsp; Please contact our President Ben Hoksbergen for more details at [benhoksbergen@gmail.com](mailto:benhoksbergen@gmail.com){: target="_blank"}

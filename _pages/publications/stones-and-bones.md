@@ -7,7 +7,7 @@ image_path:
 menu: false
 menu_position:
 ---
-\*\* This page is currently under construction, but has been put online as a resource to members. Please be patient as links are constructed.&nbsp; Issues are currently listed chronologically. **Past issues that have been scanned are due to the efforts of Eugene Futato, and represent the issues available at Moundville.** If you have a copy of a past issue that is not shown online, [please contact me](mailto:sarahmcoffey@southalabama.edu) if you would like to makeit available to the public as a digitized record. \*\*
+\*\* This page is currently under construction, but has been put online as a resource to members. Please be patient as links are constructed.&nbsp; Issues are currently listed chronologically. **Past issues that have been scanned are due to the efforts of Eugene Futato, and represent the issues available at Moundville.** If you have a copy of a past issue that is not shown online, [please contact me](mailto:sarahmcoffey@southalabama.edu) if you would like to make it available to the public as a digitized record. \*\*
 
 Past issues of the *Stones and Bones*, the newsletter of the Alabama Archaeological Society are presented below, as are issues of the Birmingham Anthropological Society newsletter - the precursor to what eventually became the Birmingham Chapter of the Alabama Archaeological Society.
 

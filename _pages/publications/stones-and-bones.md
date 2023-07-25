@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: page
-title: Stones and Bones
+title: Stones & Bones
 permalink: /stones_bones/
 image_path:
 menu: false

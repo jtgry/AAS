@@ -5,7 +5,7 @@ title: Resource Links
 permalink: /resource_links/
 image_path: /images/about.jpg
 menu: true
-menu_position: 7
+menu_position: 6
 ---
 **Archaeological and Historical websites that may be of interest to members\*:**
 

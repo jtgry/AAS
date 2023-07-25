@@ -4,8 +4,8 @@ layout: page
 title: Local Chapters
 permalink: /local-chapters/
 image_path: /images/about.jpg
-menu: false
-menu_position: 7
+menu: true
+menu_position: 3
 ---
 Monthly meetings and local activities are provided by regional chapter organizations. Contact information and links to chapter web pages are provided below.
 

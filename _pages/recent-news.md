@@ -4,7 +4,7 @@ layout: page
 title: Recent News
 permalink: /news/
 image_path: /images/FieldDays.jpg
-menu: true
+menu: false
 menu_position: 1
 ---
 # Call for Papers for the Journal of Alabama Archaeology

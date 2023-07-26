@@ -1,11 +1,11 @@
 ---
+_schema: default
 layout: page
 title: Join & Support
-permalink: "/support/"
-image_path: "/images/about.jpg"
+permalink: /support/
+image_path: /images/about.jpg
 menu: true
 menu_position: 4
-
 ---
 Membership in the AAS is open to everyone. The AAS membership includes a broad range of people, from those with a passing interest in archaeology or history, to people who are passionate about archaeological artifacts, to avocational archaeologists, to professional archaeologists. Membership benefits include opportunities to work with archaeologists on digs around the state, field trips to archaeological sites, semi-annual state meetings, the annual edition of the Journal of Alabama Archaeology, and the Stones & Bones newsletter.
 
@@ -31,14 +31,16 @@ University of West Alabama
 
 Livingston, AL 35470
 
-    | Member Type | U.S. Address | Foreign Address |
-    | Annual Associate (younger than 18) | $15.00 | $20.00 |
-    | Annual Individual | $25.00 | $30.00 |
-    | Annual Family | $30.00 | $35.00 |
-    | Annual Institutional | $50.00 | $55.00 |
-    | Annual Sustaining Individual | $35.00 | $40.00 |
-    | Annual Sustaining Joint | $40.00 | $45.00 |
-    | Life Individual | $500.00 | $600.00 |
-    | Life Joint | $600.00 | $700.00 |
+```
+| Member Type | U.S. Address | Foreign Address |
+| Annual Associate (younger than 18) | $15.00 | $20.00 |
+| Annual Individual | $25.00 | $30.00 |
+| Annual Family | $30.00 | $35.00 |
+| Annual Institutional | $50.00 | $55.00 |
+| Annual Sustaining Individual | $35.00 | $40.00 |
+| Annual Sustaining Joint | $40.00 | $45.00 |
+| Life Individual | $500.00 | $600.00 |
+| Life Joint | $600.00 | $700.00 |
+```
 
-<div style="clear:both;"> </div>
+<div> </div>

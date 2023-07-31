@@ -46,7 +46,7 @@ menu_position: 9
 * **Monroe County:** David Johnson – [johnsdat@ymail.com](mailto:johnsdat@ymail.com)
 * **Muscle Shoals:** Charles Moore – [moore\_enloec@yahoo.com](mailto:moore_enloec@yahoo.com)
 * **Southwest Chapter:** Vacant
-* **Troy:** Vacant
+* **Troy:** Robbie Elmore - [Robby.Elmore@archives.alabama.gov](mailto:Robby.Elmore@archives.alabama.gov)
 * **Tuscaloosa:** Allie Smith – [amsmith75@crimson.ua.edu](mailto:amsmith75@crimson.ua.edu)
 
 **Send Physical Correspondence to:**

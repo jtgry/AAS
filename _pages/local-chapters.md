@@ -37,7 +37,7 @@ Meeting information to be announced soon.
 
 ### Muscle Shoals
 
-Meetings are held on second Mondays at 7:00pm at the Indian Mound Museum in Florence Contact: Charles Moore at [moore\_enloec@yahoo.com](mailto:moore_enloec@yahoo.com)
+Meetings are held on second Sundays at 1:00pm at the Indian Mound Museum in Florence Contact: Hayes G.T. Ellis at [HGTE2001@yahoo.com](mailto:HGTE2001@yahoo.com)
 
 ### Southwest Alabama
 

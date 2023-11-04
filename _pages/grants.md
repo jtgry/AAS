@@ -19,7 +19,7 @@ menu_position: 5
 
 ---
 
-### AAS Research Grants
+### [AAS Research Grants](/research/)
 
 The Alabama Archaeological Society grants one award of up to $500 per year to deserving archaeological research projects. Grant proposals must be submitted (see contact information above) by October 1. The Board of Directors will vote on the proposals and announce the winner at the Winter Meeting. Awards will be made in harmony with the objectives of the Society (Article III of the Constitution of the Alabama Archaeological Society).
 

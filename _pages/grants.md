@@ -7,19 +7,17 @@ image_path: /images/grants.jpg
 menu: true
 menu_position: 5
 ---
-###
-
-## \*DEADLINES HAVE BEEN EXTENDED TO DECEMBER 31, 2023\*
+## \*DEADLINES HAVE BEEN EXTENDED &nbsp; &nbsp; &nbsp; &nbsp; TO DECEMBER 31, 2023\*
 
 ---
 
-## Send Submissions to:<br>Erin Nelson<br>[erinnelson@southalabama.edu](mailto:erinnelson@southalabama.edu?subject=AAS%20Grant%2FScholarship%20Proposal%20Submission)
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Send Submissions to:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Erin Nelson<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [erinnelson@southalabama.edu](mailto:erinnelson@southalabama.edu?subject=AAS%20Grant%2FScholarship%20Proposal%20Submission)
 
 Please include "AAS Grant/Scholarship Proposal Submission" as the subject line.
 
 ---
 
-### [AAS Research Grants](__notset__)
+### AAS Research Grants
 
 The Alabama Archaeological Society grants one award of up to $500 per year to deserving archaeological research projects. Grant proposals must be submitted (see contact information above) by October 1. The Board of Directors will vote on the proposals and announce the winner at the Winter Meeting. Awards will be made in harmony with the objectives of the Society (Article III of the Constitution of the Alabama Archaeological Society).
 

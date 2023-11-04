@@ -3,7 +3,7 @@ _schema: default
 layout: page
 title: Public Education Grant
 permalink: /publiced/
-image_path: /uploads/rlj-4611.jpg
+image_path: /uploads/rlj-4611-1.jpg
 menu: false
 menu_position:
 ---

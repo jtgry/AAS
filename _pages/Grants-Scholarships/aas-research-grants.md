@@ -3,7 +3,7 @@ _schema: default
 layout: page
 title: Research Grant
 permalink: /research/
-image_path: /uploads/rlj-4583.jpg
+image_path: /uploads/rlj-4583-1.jpg
 menu: false
 menu_position:
 ---

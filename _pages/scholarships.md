@@ -1,8 +1,8 @@
 ---
 _schema: default
 layout: page
-title: Research Grants
-permalink: /research/
+title: Scholarships
+permalink: /scholarship/
 image_path:
 menu: false
 menu_position:

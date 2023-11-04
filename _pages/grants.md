@@ -19,7 +19,7 @@ menu_position: 5
 
 ---
 
-### [Research Grants](/research/)
+### [Research Grant](/research/)
 
 The Alabama Archaeological Society grants one award of up to $500 per year to deserving archaeological research projects. Grant proposals must be submitted (see contact information above) by October 1. The Board of Directors will vote on the proposals and announce the winner at the Winter Meeting. Awards will be made in harmony with the objectives of the Society (Article III of the Constitution of the Alabama Archaeological Society).
 
@@ -49,7 +49,7 @@ Applications for Public Education Grants will be solicited in the Stones & Bones
 
 ---
 
-### [Scholarships](/scholarship/)
+### [Scholarship](/scholarship/)
 
 The Alabama Archaeological Society will award up to two (2) Alabama Archaeological Society Scholarships per year. The monetary amount of these scholarships will not exceed $500 in sum, for all scholarships awarded in a given year. The purpose of these scholarships is to lend support to outstanding students in the field of archaeology who are actively pursuing academic degrees at baccalaureate, masters, and doctoral levels within the State. Scholarship nominations are to be submitted to the Archaeological Resources Committee Chair by a deadline of October 1.
 

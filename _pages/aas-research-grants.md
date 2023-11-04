@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: page
-title: Research Grants
+title: Research Grant
 permalink: /research/
 image_path:
 menu: false

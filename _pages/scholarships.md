@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: page
-title: Scholarships
+title: Scholarship
 permalink: /scholarship/
 image_path:
 menu: false

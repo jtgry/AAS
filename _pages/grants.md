@@ -33,7 +33,7 @@ The project director or their appointee will be required to contribute a present
 
 ---
 
-### AAS Public Education Grant
+### [Public Education Grant](/publiced/)
 
 The Alabama Archaeological Society will award up to $500 each year to a public education project. Single grant awards shall not exceed $500. Proposals for grants must be submitted (see contact information above) by October 1st. The Board of Directors will announce the grant recipient at the Winter Meeting.
 
@@ -49,7 +49,7 @@ Applications for Public Education Grants will be solicited in the Stones & Bones
 
 ---
 
-### AAS Scholarships
+### [Scholarships](/scholarship/)
 
 The Alabama Archaeological Society will award up to two (2) Alabama Archaeological Society Scholarships per year. The monetary amount of these scholarships will not exceed $500 in sum, for all scholarships awarded in a given year. The purpose of these scholarships is to lend support to outstanding students in the field of archaeology who are actively pursuing academic degrees at baccalaureate, masters, and doctoral levels within the State. Scholarship nominations are to be submitted to the Archaeological Resources Committee Chair by a deadline of October 1.
 
@@ -65,7 +65,7 @@ Applications for Alabama Archaeological Society Scholarships will be solicited i
 
 ---
 
-### AAS Student Paper Award
+### [Student Paper Award](/studentpaper/)
 
 \[Note from Web Editor: The link for the guidelines for student papers is broken, but is being worked on to get it back up and running for submissions.\]
 

@@ -11,9 +11,11 @@ menu_position: 5
 
 ---
 
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Send Submissions to:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Erin Nelson &nbsp; &nbsp;&nbsp; [erinnelson@southalabama.edu](mailto:erinnelson@southalabama.edu?subject=AAS%20Grant%2FScholarship%20Proposal%20Submission)
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Send Submissions to:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Erin Nelson &nbsp; &nbsp; &nbsp;&nbsp;
 
-&nbsp; &nbsp;&nbsp; Please include "AAS Grant/Scholarship Proposal Submission" as the subject line.
+## &nbsp;&nbsp; [erinnelson@southalabama.edu](mailto:erinnelson@southalabama.edu?subject=AAS%20Grant%2FScholarship%20Proposal%20Submission)
+
+&nbsp; Please include "AAS Grant/Scholarship Proposal Submission" as the subject line.
 
 ---
 

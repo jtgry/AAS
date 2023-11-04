@@ -7,7 +7,7 @@ image_path: /images/grants.jpg
 menu: true
 menu_position: 5
 ---
-## \*DEADLINES HAVE BEEN EXTENDED &nbsp; &nbsp; &nbsp; &nbsp; TO DECEMBER 31, 2023\*
+## \*DEADLINES HAVE BEEN EXTENDED &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; TO DECEMBER 31, 2023\*
 
 ---
 

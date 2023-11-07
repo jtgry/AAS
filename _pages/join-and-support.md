@@ -23,13 +23,7 @@ OR
 
 [For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/uploads/aasmembership.pdf){: .button.button-primary}
 
-Alabama Archaeological Society
-
-UWA Station 22
-
-University of West Alabama
-
-Livingston, AL 35470
+LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109
 
 ```
 | Member Type | U.S. Address | Foreign Address |

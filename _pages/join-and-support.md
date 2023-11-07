@@ -21,7 +21,7 @@ OR
 
 [Click here to donate to the Alabama Archaeological Society](https://www.paypal.com/donate?hosted_button_id=NBWBNPH3JP6GY){: .button.button-primary}
 
-[For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/uploads/aasmembership.pdf){: .button.button-primary}
+[For those that prefer US Mail, please click this box to fill out our Membership Form, and mail it along with payment to:](/Alabama-Archaeology-Society-Membership-Form.pdf){: .button.button-primary}
 
 LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109
 

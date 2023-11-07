@@ -25,7 +25,9 @@ OR
 
 **Mail Checks with Dues/Donations To:**
 
-LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109
+LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109<br>
+
+![](/uploads/aas-dues-table.jpg){: width="615" height="356"}
 
 ```
 | Member Type | U.S. Address | Foreign Address |

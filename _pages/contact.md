@@ -51,4 +51,4 @@ menu_position: 9
 
 **Send Physical Correspondence to:**
 
-AAS Treasurer, UWA Station 22, Livingston, AL 35470
+AAS Treasurer:<br>LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109<br>

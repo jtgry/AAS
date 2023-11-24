@@ -1,10 +1,12 @@
 ---
+_schema: default
 layout: page
 title: Thanks
 permalink: /thanks/
-image_path: "/images/header.jpg"
+image_path: /images/header.jpg
+menu: false
 ---
-<p class="post-tag">Thanks</p>
-<div class="page-content text-center">
-  <h3>Thank you for your message.<br /> We will contact you shortly.</h3>
-</div>
+Thanks
+{: .post-tag}
+
+<div class="page-content text-center"><h3>Thank you for your message.<br />We will contact you shortly.</h3></div>

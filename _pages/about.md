@@ -15,7 +15,7 @@ Membership benefits include the Stones & Bones newsletter, the Journal of Alabam
 
 The Alabama Archaeological Society summer and winter state meetings provide opportunities to meet and mingle with archaeologists and artifact collectors working throughout Alabama. The summer meeting typically includes a visit to an on-going excavation; the winter meeting includes presentations of current archaeological research in the state.
 
-Monthly meetings and local activities are provided by regional, local, chapter organizations. Currently, AAS chapters include: Birmingham, Coosa Valley, Cullman, East Alabama, Huntsville, Monroe County, Muscle Shoals, Southwest Alabama, Troy University, and Tuscaloosa. For contact information for AAS chapters, see the [Chapters page](/local-chapters/).
+Monthly meetings and local activities are provided by regional, local, chapter organizations. Currently, AAS chapters include: Birmingham, Coosa Valley, Cullman, East Alabama, Huntsville, Monroe County, Muscle Shoals, Southwest Alabama, Troy University, and Tuscaloosa. For contact information for AAS chapters, see the [Chapters page](/chapters/).
 
 Most professional archaeologists in Alabama are active members of AAS. Their participation in AAS activities offer new amateur and avocational archaeologists training and supervision to ensure that Alabama’s archaeological heritage is preserved and protected. In turn, the amateur archaeologists within the AAS provide invaluable assistance with the labor intensive pursuit of knowledge through archaeology.
 

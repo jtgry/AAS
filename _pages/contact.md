@@ -21,11 +21,11 @@ menu_position: 9
 
 **Alabama Historical Commission Representative**<br>Meghan Buchanan – [meb0105@auburn.edu](mailto:meb0105@auburn.edu)
 
-**Web Editor**<br>Sarah Coffey – [sarahmcoffey@southalabama.edu](mailto:sarahmcoffey@southalabama.edu)
+**Web Editor**<br>Sarah Coffey – [aaswebeditor@gmail.com](mailto:aaswebeditor@gmail.com)
 
 **Stone and Bones Newsletter Editor**<br>Teresa Paglione – [tlpaglione@gmail.com](mailto:tlpaglione@gmail.com)
 
-**Assistant Newsletter Editor**<br>Sarah Coffey – [sarahmcoffey@southalabama.edu](mailto:sarahmcoffey@southalabama.edu)
+**Assistant Newsletter Editor**<br>Sarah Coffey – [aaswebeditor@gmail.com](mailto:aaswebeditor@gmail.com)
 
 **Journal of Alabama Archaeology Editor**<br>Greg Waselkov – [gwaselkov@southalabama.edu](mailto:gwaselkov@southalabama.edu)
 
@@ -51,4 +51,4 @@ menu_position: 9
 
 **Send Physical Correspondence to:**
 
-AAS Treasurer:<br>LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109<br>
+AAS Treasurer:<br>LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109

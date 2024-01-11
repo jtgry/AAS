@@ -47,7 +47,7 @@ menu_position: 9
 * **Muscle Shoals:** Charles Moore – [moore\_enloec@yahoo.com](mailto:moore_enloec@yahoo.com)
 * **Southwest Chapter:** Vacant
 * **Troy:** Robbie Elmore - [Robby.Elmore@archives.alabama.gov](mailto:Robby.Elmore@archives.alabama.gov)
-* **Tuscaloosa:** Allie Smith – &nbsp;[allie@archaeospatial.com](mailto:allie@archaeospatial.com)
+* **Tuscaloosa:** Jan M. Jamison – &nbsp;[jmjamison@ua.edu](mailto:jmjamison@ua.edu){: target="_blank"}
 
 **Send Physical Correspondence to:**
 

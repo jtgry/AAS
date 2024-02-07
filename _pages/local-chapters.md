@@ -49,6 +49,6 @@ This chapter currently has no president or meeting times.
 
 ### Tuscaloosa
 
-Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.<br>Contact Allie Smith - [allie@archaeospatial.com](mailto:allie@archaeospatial.com)
+Meetings are held every second Tuesday of the month on the University of Alabama campus at 6:00pm in Ten Hoor, Room 22.<br>Contact Jan M. Jamison - [jmjamison@ua.edu](mailto:jmjamison@ua.edu){: target="_blank"}
 
 Interested in starting your own chapter?&nbsp; Please contact our President Ben Hoksbergen for more details at [benhoksbergen@gmail.com](mailto:benhoksbergen@gmail.com){: target="_blank"}

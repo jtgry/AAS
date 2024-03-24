@@ -23,22 +23,8 @@ OR
 
 [For those that prefer US Mail, fill out our Membership Form](/uploads/2023-Alabama-Archaeology-Society-Membership-Form.pdf){: .button.button-primary}
 
-**Mail Checks with Dues/Donations To:**
-
-LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109<br>
+**Mail Checks with Dues/Donations To LisaMarie Malischke at the address listed on the Membership Form linked above.**<br>
 
 ![](/uploads/aas-dues-table.jpg){: width="615" height="356"}
 
-```
-| Member Type | U.S. Address | Foreign Address |
-| Annual Associate (younger than 18) | $15.00 | $20.00 |
-| Annual Individual | $25.00 | $30.00 |
-| Annual Family | $30.00 | $35.00 |
-| Annual Institutional | $50.00 | $55.00 |
-| Annual Sustaining Individual | $35.00 | $40.00 |
-| Annual Sustaining Joint | $40.00 | $45.00 |
-| Life Individual | $500.00 | $600.00 |
-| Life Joint | $600.00 | $700.00 |
-```
-
-<div> </div>
+<div>&nbsp;</div>

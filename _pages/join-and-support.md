@@ -23,7 +23,9 @@ OR
 
 [For those that prefer US Mail, fill out our Membership Form](/uploads/2023-Alabama-Archaeology-Society-Membership-Form.pdf){: .button.button-primary}
 
-**Mail Checks with Dues/Donations To LisaMarie Malischke at the address listed on the Membership Form linked above.**<br>
+**Mail Forms and Checks with Dues/Donations To:**
+
+**LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109**<br>
 
 ![](/uploads/aas-dues-table.jpg){: width="615" height="356"}
 

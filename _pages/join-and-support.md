@@ -27,6 +27,6 @@ OR
 
 **LisaMarie Malischke<br>545 Forest Ridge Ct<br>Montgomery, AL 36109**<br>
 
-![](/uploads/aas-dues-table.jpg){: width="615" height="356"}
+![](/uploads/aas-dues-table-1.jpg){: width="615" height="356"}
 
 <div>&nbsp;</div>
